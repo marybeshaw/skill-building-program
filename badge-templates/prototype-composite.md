@@ -1,6 +1,6 @@
 # {Skill Category} - Composite Badge (prototype)
 
-![{Skill Category} - Composite Badge](http://familysearch.org/badge.png "{Skill Category} Composite badge")
+![{Skill Category} - Composite Badge](http://familysearch.org/badge.png "{Skill Category} Composite badge") <-- image of badge
 
 
 -----

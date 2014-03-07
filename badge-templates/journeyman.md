@@ -1,6 +1,6 @@
 # {Skill Category} - Journeyman Badge
 
-![{Skill Category} - Journeyman Badge](http://familysearch.org/badge.png "{Skill Category} Journeyman badge")
+![{Skill Category} - Journeyman Badge](http://familysearch.org/badge.png "{Skill Category} Journeyman badge") <-- image of badge
 
 
 -----

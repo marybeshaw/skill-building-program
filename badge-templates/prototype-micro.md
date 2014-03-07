@@ -1,6 +1,6 @@
 # {Skill Category} - Micro Badge (prototype)
 
-![{Skill Category} - Micro Badge](http://familysearch.org/badge.png "{Skill Category} Journeyman badge")
+![{Skill Category} - Micro Badge](http://familysearch.org/badge.png "{Skill Category} Journeyman badge") <-- image of badge
 
 
 -----

@@ -1,6 +1,6 @@
 # {Skill Category} - Apprentice Badge
 
-![{Skill Category} - Apprentice Badge](http://familysearch.org/badge.png "{Skill Category} Apprentice badge")
+![{Skill Category} - Apprentice Badge](http://familysearch.org/badge.png "{Skill Category} Apprentice badge") <-- image of badge
 
 
 -----
