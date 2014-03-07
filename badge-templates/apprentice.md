@@ -1,18 +1,24 @@
 # {Skill Category} - Apprentice Badge
 
-[ badge image ]
+![{Skill Category} - Journeyman Badge](http://familysearch.org/badge.png "{Skill Category} Journeyman badge")
+
+
+-----
+
 
 ## Goal
-You've gotten your feet wet in {Skill Category}.
-You have demonstrated that you have an introductory-level understanding and skill in {Skill Category}
+- You've gotten your feet wet in {Skill Category}.
+- You have demonstrated that you have an introductory-level understanding and skill in {Skill Category}
 
+
+-----
 
 
 ## Suggested Assignment(s)
 *(These can have slightly prescriptive requirements in Apprentice level only)*
 
   - Make a real working thing from code that proves it
-    - **Requirements:** Project must have: wiggles, widgets, towns, and shakes. *(A few specific technical items)*
+    - **Requirements:** Project must have: red shiny wiggles, tall pointy widgets, narrow fragrant towns, and slippery orange shakes. *(A few very specific technical items)*
 
 Community suggested projects:
 
@@ -28,6 +34,8 @@ Community suggested projects:
 4) Update/Improve/Create documentation for this where appropriate (Reference App, Confluence)
 
 
+-----
+
 
 ## Suggested Study
 
@@ -41,4 +49,4 @@ Community suggested projects:
 ### Books
 - Link to awesome book (In Library)
 - Link to awesome book (In Library)
-- Link to awesome book (In Adjunct Library)
+- Link to awesome book (In Adjunct Library: Stephen )
