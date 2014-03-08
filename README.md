@@ -4,8 +4,7 @@ skill-building-program
 (draft) This is a repo for the future of the Skills Building Program.
 
 - Everything contained herein is part of a draft proposal
-- Everything here is subject to change & peer review by the Skill Building
-Council and the Web Development Discipline
+- Everything here is subject to change & peer review
 
 
 -----
@@ -26,6 +25,7 @@ interesting things
   - Proving org-required skills
   - Get everyone involved in learning, sharing, and mentoring skills with each
 other
+  - Getting fun rewards for passing badges and skills
 
 
 -----
@@ -67,7 +67,7 @@ expects that you will propose, produce, and teach a project on this skill area.
 
 ## Learning Time
 You have permission to spend up to 10% of your work time on training. This means
-45 minutes per day or 4 hours a week, or whatever way works best for you.
+45 minutes per day, 4 hours a week, or whatever way works best for you.
 Please try to schedule and communicate this time in a way that minimizes the effect
 to your story council and other responsibilities.
 
@@ -86,3 +86,20 @@ Once you've earned all the required badges in a level, you are granted a title:
 - **Apprentice**: "_________"
 - **Journeyman**: "Web Ninja"
 - **Master**:     "_________"
+
+
+-----
+
+
+## Contributors:
+
+### Skill Building Council
+- Jamis Charles : @jamischarles
+- Dan Crews : @dncrews
+- Mike Collins : @intervalia
+- Jakob Anderson : @spacerockzero
+- Nic Johnson : @nicjohnson
+- Rob Whiting : @rwhiting
+- Tyler Peterson : @tylerpeterson
+
+### Peer Contributors:
