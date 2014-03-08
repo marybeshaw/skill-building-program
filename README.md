@@ -109,9 +109,9 @@ program effective and exciting for everyone.
 
 - If you have great ideas for new
 skills that are helpful to the org and aren't currently in progress in this
-repo, collaborate around them with your peers in an [enhancement issue!](./issues?labels=enhancement&page=1&state=open)
+repo, collaborate around them with your peers in an [enhancement issue!](https://github.com/fs-webdev/skill-building-program/issues?labels=enhancement&page=1&state=open "Open Enhancements")
 - If you have great ideas for fun example projects to build in the badge
-assignments, fork this repo and [give us a pull request!](./fork)
+assignments, [fork this repo and give us a pull request!](https://github.com/fs-webdev/skill-building-program/fork "Fork this repo")
 
 
 -----
