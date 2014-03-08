@@ -109,9 +109,9 @@ program effective and exciting for everyone.
 
 - If you have great ideas for new
 skills that are helpful to the org and aren't currently in progress in this
-repo, collaborate around them with your peers in an enhancement issue!
+repo, collaborate around them with your peers in an [enhancement issue!](issues?labels=enhancement&page=1&state=open)
 - If you have great ideas for fun example projects to build in the badge
-assignments, fork this repo and give us a pull request!
+assignments, fork this repo and [give us a pull request!](fork)
 
 
 -----
