@@ -31,8 +31,8 @@ other
 -----
 
 ## Badges
-- [Currently Active](badges-active.md "Currently Active Badges")
-- [In Development](badges-in-development.md "Badges in development")
+- [Currently Active](../blob/badges-active/ "Currently Active Badges")
+- [In Development](../blob/badges-in-development/ "Badges in development")
 
 -----
 
