@@ -20,7 +20,7 @@
   - Make a real working thing from code that proves it
     - **Requirements:** Project must have: red shiny wiggles, tall pointy widgets, narrow fragrant towns, and slippery orange shakes. *(A few very specific technical items)*
 
-Community suggested projects:
+Community-suggested projects:
 
 1) Make a wiggly widget that shows the latest wiggles from wiggle-town
 2) Make a smooth tic-tac that plays a "funky what-now"
