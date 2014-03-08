@@ -9,6 +9,7 @@ skill-building-program
 
 -----
 
+
 ![FamilySearch Skill-Building Program](https://edge.fscdn.org/assets/img/theme-engage/assets/images/tree-logotype-1x-94806fd4d3214ea1ab7ce7eac7310d2c.png "FamilySearch Skill-Building Program")
 
 # Skill-Building Program
@@ -31,9 +32,24 @@ other
 
 -----
 
+
 ## Badges
 - [Currently Active](badges-active/ "Currently Active Badges")
 - [In Development](badges-in-development/ "Badges in development")
+
+
+-----
+
+
+## Passing off Badges
+You can pass off badges with any discipline manager or master in that Skill area.
+
+Current Masters:
+- Frontier:
+- HTML5/CSS:
+- JavaScript
+- Testing
+
 
 -----
 
