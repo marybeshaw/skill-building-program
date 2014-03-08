@@ -71,6 +71,10 @@ You have permission to spend up to 10% of your work time on training. This means
 Please try to schedule and communicate this time in a way that minimizes the effect
 to your story council and other responsibilities.
 
+
+-----
+
+
 ## Build portfolio & project repos
 You can build a portfolio to contain your skill projects, or make them separate Github
 repos. Through this program, you should have a good body of work to prove your
@@ -94,12 +98,13 @@ Once you've earned all the required badges in a level, you are granted a title:
 ## Contributors:
 
 ### Skill Building Council
-- Jamis Charles : @jamischarles
-- Dan Crews : @dncrews
-- Mike Collins : @intervalia
-- Jakob Anderson : @spacerockzero
-- Nic Johnson : @nicjohnson
-- Rob Whiting : @rwhiting
-- Tyler Peterson : @tylerpeterson
+- Jamis Charles : [@jamischarles](https://github.com/jamischarles)
+- Dan Crews : [@dncrews](https://github.com/dncrews)
+- Mike Collins : [@intervalia](https://github.com/intervalia)
+- Jakob Anderson : [@spacerockzero](https://github.com/spacerockzero)
+- Nic Johnson : [@nicjohnson](https://github.com/nicjohnson)
+- Rob Whiting : [@rwhiting](https://github.com/rwhiting)
+- Tyler Peterson : [@tylerpeterson](https://github.com/tylerpeterson)
 
 ### Peer Contributors:
+- (contribute great ideas, curriculum, content, edits, etc to be listed here)
