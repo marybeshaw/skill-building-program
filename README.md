@@ -94,6 +94,22 @@ Once you've earned all the required badges in a level, you are granted a title:
 
 -----
 
+## Contribute to this project!
+**(We accept pull requests)**
+
+This project is designed to be open-source to the Web Development discipline
+members. We really want and invite your input and contributions to make this
+program effective and exciting for everyone.
+
+- If you have great ideas for new
+skills that are helpful to the org and aren't currently in progress in this
+repo, collaborate around them with your peers in an enhancement issue!
+- If you have great ideas for fun example projects to build in the badge
+assignments, fork this repo and give us a pull request!
+
+
+-----
+
 
 ## Contributors:
 
@@ -107,4 +123,5 @@ Once you've earned all the required badges in a level, you are granted a title:
 - Tyler Peterson : [@tylerpeterson](https://github.com/tylerpeterson)
 
 ### Peer Contributors:
-- (contribute great ideas, curriculum, content, edits, etc to be listed here)
+- (Make significant contributions of great ideas, curriculum, content, edits,
+etc to be listed here)
