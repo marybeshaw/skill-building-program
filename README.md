@@ -30,8 +30,14 @@ other
 
 -----
 
-
 ## Badges
+- [Currently Active](badges-active.md "Currently Active Badges")
+- [In Development](badges-in-development.md "Badges in development")
+
+-----
+
+
+## About the Badges
 
 Prove your abilities and knowledge through earning badges in each level of a
 number of categories!

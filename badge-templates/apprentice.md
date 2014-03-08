@@ -28,6 +28,7 @@ Community suggested projects:
 
 
 ## Alternate Assignment(s)
+
 1) Show previous work you've done that proves it
 2) Make (and deliver?) a presentation that proves it (*should this be just master-level only, due to limited time in meetings?*)
 3) Figure out how we currently use it in Frontier-based apps
