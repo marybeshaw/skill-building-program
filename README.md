@@ -41,6 +41,12 @@ other
 -----
 
 
+## Hall of Fame
+- [Leaderboard](hall-of-fame/ "Hall of Fame Leaderboard")
+
+
+-----
+
 ## Passing off Badges
 You can pass off badges with any discipline manager or master in that Skill area.
 
