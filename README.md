@@ -42,7 +42,7 @@ other
 
 
 ## Hall of Fame
-- [Leaderboard](hall-of-fame/ "Hall of Fame Leaderboard")
+- [Leaderboard](hall-of-fame.md "Hall of Fame Leaderboard")
 
 
 -----
