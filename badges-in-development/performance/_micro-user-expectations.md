@@ -11,8 +11,8 @@ Intro
 -----
 
 *Performance is not an icing we slap on a cake after baking. Performance is an extremely important ingredient.*
-> If I go to a luxury hotel, no matter how fancy the room was, the shower better have hot water.
-> If you can't cover the basics, don't bother adding anything fancy.
+> If you go to a luxury hotel, no matter how fancy the room was, the shower better have hot water.
+> If you can't cover the basic expectations, don't bother adding anything fancy.
 > Performance is the hot water in an interface. - paraphrased from Jared Spool, User Interface Engineering, Brain Sparks Podcast
 
 It is very important as developers to know what users' expectations are before we build anything.
