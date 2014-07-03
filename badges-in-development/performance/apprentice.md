@@ -17,7 +17,7 @@
 ## Requirements:
 
 ### Earn all of these
-  - [ ] [Performance - User expectations](_micro_user-expectations)
+  - [ ] [Performance - User expectations](_micro_user-expectations.md)
   - [ ] Performance - Auditing
   - [ ] Performance - Loading Patterns & Critical Path
   - [ ] Performance - Network & Caching
