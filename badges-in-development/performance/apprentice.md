@@ -31,9 +31,9 @@
   - [ ] Performance - Industry Leader Research
   - [ ] Performance - EXPLORER
 
-### BONUS:
+<!-- ### BONUS:
   - For every badge earned beyond requirements, get an extra mark "+?"
-  - [ ] Earn all the badges in a composite to achieve "ace?" status
+  - [ ] Earn all the badges in a composite to achieve "ace?" status -->
 
 
 -----
