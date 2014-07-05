@@ -1,11 +1,13 @@
 Performance - User Expectations [Micro Badge]
 =============================================
 
+
 Goals:
 ------
 
 - You have demonstrated the basic foundations in Performance - User Expectations.
 - You should know about the state of the web's performance and which timings matter most to users.
+
 
 Intro
 -----
@@ -24,10 +26,11 @@ Assignment
 --------------------
 
 - [ ] You must be able to explain the goal topics above and how they are used.
-- [ ] Show a Performance master how you can use your knowledge of users' performance expectations to make better products.
+- [ ] Show how you can use your knowledge of users' performance expectations to make better products.
 - [ ] Try to put the "Time and user perceptions" chart to memory, as it is the most critical part of this badge.
 - [ ] Demonstrate how "Time and user perceptions" can be directly applied to how you code a UI.
 - [ ] Discuss performance-related frustrations and joys you've experienced in your own use of the web
+
 
 Suggested Study
 ---------------
