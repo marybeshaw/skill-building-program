@@ -18,7 +18,7 @@
 
 ### Earn all of these
   - [ ] [Performance - User expectations](_micro_user-expectations.md)
-  - [ ] Performance - Auditing
+  - [ ] [Performance - Auditing](_micro_auditing.md)
   - [ ] Performance - Loading Patterns & Critical Path
   - [ ] Performance - Network & Caching
   - [ ] Performance - Rendering Performance
