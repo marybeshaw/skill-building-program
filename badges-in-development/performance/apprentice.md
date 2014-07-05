@@ -20,10 +20,10 @@
   - [ ] [Performance - User expectations](_micro_user-expectations.md)
   - [ ] [Performance - Auditing](_micro_auditing.md)
   - [ ] [Performance - Critical Render Path](_micro_critical-render-path.md)
-  - [ ] Performance - Network & Caching
-  - [ ] Performance - Rendering Performance
 
 ### Earn 1 of these:
+  - [ ] Performance - Network & Caching
+  - [ ] Performance - Rendering Performance
   - [ ] Performance - Mobile Web
   - [ ] Performance - Build Tools
 
