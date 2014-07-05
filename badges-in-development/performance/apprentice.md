@@ -16,7 +16,7 @@
 
 ## Requirements:
 
-### Earn all of these
+### Earn all of these:
   - [ ] [Performance - User expectations](_micro_user-expectations.md)
   - [ ] [Performance - Auditing](_micro_auditing.md)
   - [ ] [Performance - Critical Render Path](_micro_critical-render-path.md)
