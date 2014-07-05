@@ -39,3 +39,4 @@ Suggested Study
 - [End-Users&#39; Web Experience Expectations Just Keep Getting Higher](https://blogs.akamai.com/2012/11/end-users-web-experience-expectations-just-keep-getting-higher.html) - Akamai
 - [Free Cookies & Back Massages - an adventure in user expectations](http://slides.com/jakobanderson/free-cookies-and-back-massages) - Jakob Anderson
 - [Performance Matters](http://slides.com/jakobanderson/performance-matters) - Jakob Anderson
+- [Speed, Performance, and Human Perception](https://medium.com/@jakob_anderson/speed-performance-and-human-perception-70ae83ea144e) - Ilya Grigorik
