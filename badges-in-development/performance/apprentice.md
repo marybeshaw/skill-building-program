@@ -27,7 +27,7 @@
   - [ ] Performance - Mobile Web
   - [ ] Performance - Build Tools
 
-### Earn 1 of these micro-badges:
+### Earn 1 of these:
   - [ ] Performance - Industry Leader Research
   - [ ] Performance - EXPLORER
 
