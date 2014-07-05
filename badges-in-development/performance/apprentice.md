@@ -28,7 +28,7 @@
   - [ ] Performance - Build Tools
 
 ### Earn 1 of these:
-  - [ ] Performance - Industry Leader Research
+  - [ ] [Performance - Industry Leader Research](_micro_industry-leader-research.md)
   - [ ] Performance - EXPLORER
 
 <!-- ### BONUS:
