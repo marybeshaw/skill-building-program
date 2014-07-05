@@ -19,13 +19,13 @@
 ### Earn all of these
   - [ ] [Performance - User expectations](_micro_user-expectations.md)
   - [ ] [Performance - Auditing](_micro_auditing.md)
-  - [ ] Performance - Loading Patterns & Critical Path
+  - [ ] [Performance - Critical Render Path](_micro_critical-render-path.md)
   - [ ] Performance - Network & Caching
   - [ ] Performance - Rendering Performance
-  - [ ] Performance - Build Tools
 
 ### Earn 1 of these:
   - [ ] Performance - Mobile Web
+  - [ ] Performance - Build Tools
 
 ### Earn 1 of these micro-badges:
   - [ ] Performance - Industry Leader Research
