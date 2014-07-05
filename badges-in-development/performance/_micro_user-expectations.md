@@ -40,3 +40,4 @@ Suggested Study
 - [Free Cookies & Back Massages - an adventure in user expectations](http://slides.com/jakobanderson/free-cookies-and-back-massages) - Jakob Anderson
 - [Performance Matters](http://slides.com/jakobanderson/performance-matters) - Jakob Anderson
 - [Speed, Performance, and Human Perception](https://medium.com/@jakob_anderson/speed-performance-and-human-perception-70ae83ea144e) - Ilya Grigorik
+- [An Introduction to Perceived Performance | Treehouse Blog](http://blog.teamtreehouse.com/perceived-performance)
