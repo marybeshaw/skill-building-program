@@ -24,8 +24,10 @@ Blank loading pages can't make conversions. We care about the user, and it hurts
   - Lazy-loading (load an item on-demand, such as "on click" or "on visible")
 
 
-Suggested Assignments
+Suggested Assignment(s)
 ---------------------
+
+Choose one:
 
 1) Complete the free Website Performance Course at Udacity
   - [ ] watch all the videos and peruse the links [Website Performance Optimization Testing Course - Udacity](https://www.udacity.com/course/ud884)

@@ -19,8 +19,10 @@ Get data to know where you're at with performance, to pass/fail hypotheses, and 
 *Perf audits should happen both during feature development and post-release.* They usually cover 2 main categories: **Page load**, and **Runtime**. There are tons of awesome tools out there, and the more you understand your audit data, the quicker you can jump from finding a problem to solving it. **Empower yourself.**
 
 
-Suggested Assignment
+Suggested Assignment(s)
 --------------------
+
+Choose one:
 
 1) Audit, record, interpret, and improve a production page's web performance
   - [ ] Use tools from the suggested study to audit a production page

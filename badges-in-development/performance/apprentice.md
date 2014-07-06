@@ -27,9 +27,9 @@
   - [ ] Performance - Mobile Web
   - [ ] Performance - Build Tools
 
-### Earn 1 of these:
+### Once above are met, then earn 1 of these:
   - [ ] [Performance - Industry Leader Research](_micro_industry-leader-research.md)
-  - [ ] Performance - EXPLORER
+  - [ ] [Performance - EXPLORER](_micro_EXPLORER.md)
 
 <!-- ### BONUS:
   - For every badge earned beyond requirements, get an extra mark "+?"

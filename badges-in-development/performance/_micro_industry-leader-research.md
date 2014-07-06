@@ -23,7 +23,10 @@ The top 100 sites have usually had to hit performance really hard in order to su
 
 
 Suggested Assignment(s)
----------------------
+----------------------
+
+Choose one:
+
 1) perf audit some top 100 sites
   - [ ] pick 5 of the top 100 of alexis top 500 global sites
   - [ ] do a quick performance audit (dev tools, yslow, pagespeed insights, webpagetest)
