@@ -1,82 +1,101 @@
-# Performance - Apprentice Badge
+# Performance - Apprentice (Composite)
+
+![Performance - Apprentice Badge](http://familysearch.org/badge.png "Performance - Apprentice Badge")
+
+
+-----
 
 
 ## Goal
-- You've gotten your feet wet in Web Performance.
-- You have demonstrated that you have an introductory-level understanding and skill in Web Performance
+- Demonstrate a foundational understanding and skill in Web Performance.
+- Be ready to discuss and demonstrate this proficiency
 
 
 -----
 
 
-## Suggested Assignment(s)
+## Requirements:
 
-1) Audit, record, interpret, and improve a production page's web performance
-  - Use tools from suggested reading to audit a production page
-  - What is the page doing well for performance?
-  - What is the page doing wrong for performance?
-  - Outline a practical strategy for improving its' perceived performance
-  - Outline a practical strategy for improving its' "Load" & "Fully Loaded" Time performance. How do the strategies for each of these differ?
-  - Modify a YSlow-failing page into one a page that gets an 'A' in YSlow on "Small Site or Blog" preset or higher
-  - Explain every category of a YSlow test. Why do each matter? How can you improve in each?
+### Earn all of these:
+  - [ ] [Performance - User expectations](_micro_user-expectations.md)
+  - [ ] [Performance - Auditing](_micro_auditing.md)
+  - [ ] [Performance - Critical Render Path](_micro_critical-render-path.md)
 
+### Earn 1 of these:
+  - [ ] [Performance - Network & Caching](_micro_network-and-caching.md)(in progress)
+  - [ ] Performance - Rendering Performance
+  - [ ] Performance - Mobile Web
+  - [ ] Performance - Build Tools
 
+### Once above are met, then earn 1 of these:
+  - [ ] [Performance - Industry Leader Research](_micro_industry-leader-research.md)
+  - [ ] [Performance - EXPLORER](_micro_EXPLORER.md)
 
-## Alternate Assignment(s)
-
-1) Show previous work you've done that proves it  
-2) Learn the methods we currently use to achieve high web performance in Frontier-based apps  
-3) Update/Improve/Create documentation for this where appropriate (Reference App, Confluence)  
+<!-- ### BONUS:
+  - For every badge earned beyond requirements, get an extra mark "+?"
+  - [ ] Earn all the badges in a composite to achieve "ace?" status -->
 
 
 -----
 
 
-## Suggested Study
+## General Suggested Study
 
 ### Web
-- Google PageSpeed
-    - Several tools and insights on reporting and improving the speed of web pages:
-    - https://developers.google.com/speed/
 
-- YSlow
-    - The grandaddy tool for analyzing and improving the speed of web pages. Also connected to a great set of info:
-      - http://developer.yahoo.com/yslow/
-      - http://developer.yahoo.com/performance/rules.html
+**Google Web Fundamentals: Optimizing Performance**  
+  - A great, short read on critical rendering path, content efficiency performance:
+  - [Optimizing Performance — Web Fundamentals - Google Developers](https://developers.google.com/web/fundamentals/performance/)
 
-- Web Page Test
+**Google PageSpeed**  
+  - Several tools and insights on reporting and improving the speed of web pages:
+  - [Make the Web Faster — Google Developers](https://developers.google.com/speed/)
+
+**YSlow**  
+  - The grandaddy tool for analyzing and improving the speed of web pages. Also connected to a great set of info:
+  - [Yahoo YSlow for Mobile/Bookmarklet - Yahoo! Developer Network](https://developer.yahoo.com/yslow/)
+  - [Best Practices for Speeding Up Your Web Site - Yahoo! Developer ...](https://developer.yahoo.com/performance/rules.html)
+
+**Web Page Test**  
   - This site allows you to view the performance of a given public page, with suggestions on ways to improve performance:
-    - http://www.webpagetest.org
+  - [WebPagetest - Website Performance and Optimization Test](http://www.webpagetest.org/)
 
-- Akamai Mobitest (Web Page Test run on mobile)
-  - http://mobitest.akamai.com/m/index.cgi
+**Akamai Mobitest (Web Page Test run on mobile)**  
+  - [Free Mobile Performance Testing with Akamai&#39;s Mobitest](http://mobitest.akamai.com/)
 
-- Pingdom Website Speed Test
+**Pingdom Website Speed Test**  
   - Another nice place to test and drill into specific criteria on your page's performance and how to improve it:
-    - http://tools.pingdom.com/fpt/
+  - [Website speed test - Pingdom](http://tools.pingdom.com/)
 
-- Console Timers
+**Console Timers**  
   - A great way to isolate and measure the performance of tiny pieces of your js code as you develop & debug:
-    - https://developer.mozilla.org/en-US/docs/Web/API/console?redirectlocale=en-US&redirectslug=DOM%2Fconsole#Timers
+  - [Console - Web API Interfaces | MDN - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/API/console)
 
-- Great articles on web performance techniques
-    - http://www.html5rocks.com/en/features/performance
-    - http://cdn.oreillystatic.com/en/assets/1/event/94/A%20Baseline%20for%20Web%20Performance%20with%20PhantomJS%20Presentation.pdf
-    - http://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/
-    - http://analytics.blogspot.com/2013/11/improve-your-websites-performance-with.html
-    - https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS?redirectlocale=en-US&redirectslug=CSS%2FWriting_Efficient_CSS
-    - http://perfectionkills.com/profiling-css-for-fun-and-profit-optimization-notes/
-    - http://www.perfplanet.com/
-    - http://www.mobify.com/blog/beginners-guide-to-perceived-performance/
+**Great articles on web performance techniques**  
+  - [Performance - HTML5 Rocks](http://www.html5rocks.com/en/features/performance)
+  - [A Baseline for Web Performance with PhantomJS - Oreillystatic](http://cdn.oreillystatic.com/en/assets/1/event/94/A%20Baseline%20for%20Web%20Performance%20with%20PhantomJS%20Presentation.pdf)
+  - [Improving Web App Performance With the ... - AddyOsmani.com](http://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/)
+  - [Improve your website&#39;s performance with the new ... - Analytics Blog](http://analytics.blogspot.com/2013/11/improve-your-websites-performance-with.html)
+  - [Implementing OOCSS Methodologies - SlideShare](http://www.slideshare.net/DanOlsavsky/oocss-20284331)
+  - [Profiling CSS for fun and profit — Perfection Kills](http://perfectionkills.com/profiling-css-for-fun-and-profit-optimization-notes/)
+  - [Planet Performance](http://www.perfplanet.com/)
+  - [A Beginner&#39;s Guide to Perceived Performance: 4 Ways to ... - Mobify](http://www.mobify.com/blog/beginners-guide-to-perceived-performance/)
 
-- Social media resources
-  - https://twitter.com/search?q=%23perfmatters&src=typd
-  - https://twitter.com/search?q=%23webperf&src=typd
-  - https://plus.google.com/explore/perfmatters
-  - https://plus.google.com/explore/webperf
+**Videos**  
+  - [#perfmatters on youtube](https://www.youtube.com/results?q=perfmatters)
+  - [Make The Web Fast - YouTube](http://www.youtube.com/playlist?list=PL1B4F4863AEE2B122)
 
-- FamilySearch Front-End Performance Resources
-  - https://almtools.ldschurch.org/fhconfluence/display/Product/Front-End+Performance+Resources
+**Social media resources**  
+  - [Twitter / Search - #webpagetest](https://twitter.com/hashtag/webpagetest)
+  - [SF Web Perf (SFWebPerf) on Twitter](https://twitter.com/SFWebPerf)
+  - [#perfmatters with Paul Irish, Colt McAnlis, Jake Archibald, and Paul ...](http://www.meetup.com/sfhtml5/events/131694202/)
+  - [Web Performance - Community - Google+](https://plus.google.com/communities/113993151878673122189)
+
+**FamilySearch Front-End Performance Resources**  
+  - [FamilySearch Front-End Performance Resources](https://almtools.ldschurch.org/fhconfluence/display/Product/Front-End+Performance+Resources)
+
 
 ### Books
 - [High Performance Web Sites](http://www.amazon.com/exec/obidos/ASIN/0596529309/webperforinc) (In Adjunct Library - Jamis Charles)
+- [High-Performance Browser Networking - Ilya Grigorik](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Read free online)
+- [Book of Speed - Stoyan Stefanov](http://www.bookofspeed.com/) (Read free online)
