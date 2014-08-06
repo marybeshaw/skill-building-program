@@ -23,13 +23,9 @@ Suggested Assignment(s)
 
 Choose one:
 
-1) Improve the Speed Index or Page Load Time of a page by optimizing its' images
-  - [ ] Audit page's images. Record how many files, how much file-size they have when combined, and how long they take to download.
-  - [ ] Are there any images that could be optimized further?
-  - [ ] What percentage of the page's total file-size are image bytes?
-  - [ ] What recommendations do your audit tools give you? (yslow, chrome dev tools, page speed insights)
-  - [ ] Optimize image files as aggressively as you can without degrading the visual quality "too low" (subjective measurement)
-  - [ ] Demonstrate what improvements these changes made to the page's performance metrics, esp. speed index and page load time
+1) do a thing
+  - [ ] sub-task of thing
+  - [ ] sub-task of thing
 
 
 
