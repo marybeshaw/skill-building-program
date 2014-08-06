@@ -20,6 +20,7 @@
   - [ ] [Performance - User expectations](_micro_user-expectations.md)
   - [ ] [Performance - Auditing](_micro_auditing.md)
   - [ ] [Performance - Critical Render Path](_micro_critical-render-path.md)
+  - [ ] [Performance - Image Optimization](_micro_image-optimization.md)
 
 ### Earn 1 of these:
   - [ ] [Performance - Network & Caching](_micro_network-and-caching.md)(in progress)
