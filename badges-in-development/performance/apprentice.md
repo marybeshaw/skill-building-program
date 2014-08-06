@@ -19,13 +19,6 @@
 ### Earn all of these:
   - [ ] [Performance - User expectations](_micro_user-expectations.md)
   - [ ] [Performance - Auditing](_micro_auditing.md)
-  - [ ] [Performance - Critical Render Path](_micro_critical-render-path.md)
-
-### Earn 1 of these:
-  - [ ] [Performance - Network & Caching](_micro_network-and-caching.md)(in progress)
-  - [ ] Performance - Rendering Performance
-  - [ ] Performance - Mobile Web
-  - [ ] Performance - Build Tools
 
 ### Once above are met, then earn 1 of these:
   - [ ] [Performance - Industry Leader Research](_micro_industry-leader-research.md)

@@ -23,6 +23,10 @@ Suggested Assignment(s)
 
 Choose one:
 
+1) do a thing
+  - [ ] sub-task of thing
+  - [ ] sub-task of thing
+
 
 
 Suggested Study
@@ -40,5 +44,8 @@ Suggested Study
 
 
 ### Tools
-- Chrome Dev tools or Firebug
+- [Chrome Developer Tools - Google Chrome](https://developer.chrome.com/devtools/)
+- [Firebug](http://getfirebug.com/)
 - [WebPageTest.org](http://webpagetest.org)
+- [Chrome Web Store - Postman - REST Client - Google](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm)
+- [Chrome Web Store - Advanced REST client - Google](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo)

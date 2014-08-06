@@ -1,0 +1,30 @@
+# Performance - Journeyman (Composite)
+
+![Performance - Journeyman Badge](http://familysearch.org/badge.png "Performance - Journeyman Badge")
+
+
+-----
+
+
+## Goal
+- You have demonstrated that you can produce quality high-performance content.
+- You have demonstrated that you have an intermediate-level understanding and skill in Web Performance
+
+
+-----
+
+
+## Requirements:
+
+### Earn all of these:
+  - [ ] [Performance - The Critical Path](_micro_critical-render-path.md)
+  - [ ] [Performance - Image Optimization](_micro_image-optimization.md)
+
+## Earn 1 of these:
+  - [ ] Rendering Performance (In Progress)
+  - [ ] Mobile Web Performance (In Progress)
+  - [ ] Performance Build Tools (In Progress)
+
+### Once above are met, then earn 1 of these:
+  - [ ] [Performance - Industry Leader Research](_micro_industry-leader-research.md)
+  - [ ] [Performance - EXPLORER](_micro_EXPLORER.md)
