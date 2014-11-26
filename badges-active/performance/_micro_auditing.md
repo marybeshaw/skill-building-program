@@ -26,6 +26,7 @@ Choose one:
 
 1) Audit, record, interpret, and improve a production page's web performance
   - [ ] Use tools from the suggested study to audit a production page
+  - [ ] Demonstrate all aspects of the network waterfall
   - [ ] What is the page doing well for performance?
   - [ ] What is the page doing wrong for performance?
   - [ ] Outline a practical strategy for improving its' perceived performance
