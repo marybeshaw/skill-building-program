@@ -41,7 +41,7 @@ other
 -----
 
 ## Newest Active Badge
-![Performance Apprentice Badge Image](images/performance.svg "Performance Apprentice Badge Image")  
+![Performance Apprentice Badge Image](img/badges/perf-apprentice-md.png "Performance Apprentice Badge Image")  
 [Performance Apprentice](badges-active/performance/apprentice.md)
 
 -----
