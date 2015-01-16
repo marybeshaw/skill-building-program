@@ -1,6 +1,6 @@
 # Performance - Apprentice (Composite)
 
-![Performance - Apprentice Badge](http://familysearch.org/badge.png "Performance - Apprentice Badge")
+![Performance - Apprentice Badge](../../img/badges/perf-apprentice-md.png "Performance - Apprentice Badge")
 
 
 -----
