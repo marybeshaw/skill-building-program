@@ -5,6 +5,7 @@ skill-building-program
 
 - Everything contained herein is part of a draft proposal
 - Everything here is subject to change & peer review
+- [If you are looking for old (V1) FamilySearch webdev skills program, go here:] (https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+Skills+Development)
 
 
 -----
