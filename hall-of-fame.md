@@ -22,3 +22,6 @@
 
 ### Frontier
 - Jamis Charles
+
+### HTML5/CSS3
+- Steven Lambert
