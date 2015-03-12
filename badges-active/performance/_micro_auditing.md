@@ -47,6 +47,7 @@ Suggested Study
 - [Evaluating network performance - Google Chrome](https://developer.chrome.com/devtools/docs/network)
 - [Chrome Dev Tools: Networking and the Console - Tuts+ Code Article](http://code.tutsplus.com/articles/chrome-dev-tools-networking-and-the-console--net-28167)
 - [Performance profiling with the Timeline - Google Chrome](https://developer.chrome.com/devtools/docs/timeline)
+- [Chrome Resource Network Timing](https://developer.chrome.com/devtools/docs/network#resource-network-timing)
 - [A Rendering Performance Guide for Developers by Paul ... - YouTube](http://www.youtube.com/watch?v=9xjpmpX4NJE) - Paul Lewis (video)
 
 
