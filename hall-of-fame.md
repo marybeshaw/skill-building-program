@@ -10,6 +10,7 @@
 - Dan Crews
 - Jakob Anderson
 - Michael Collins
+- Joe Podwys
 
 ### Journeyman (Web Ninja)
 - Dan Crews
@@ -25,3 +26,6 @@
 
 ### HTML5/CSS3
 - Steven Lambert
+
+### Performance
+- Joe Podwys
