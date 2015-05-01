@@ -37,7 +37,7 @@ Suggested Study
 
 ### Web
 
-- [Speed, Performance, and Human Perception](https://medium.com/@jakob_anderson/speed-performance-and-human-perception-70ae83ea144e)(video, notes) - Ilya Grigorik
+- [Speed, Performance, and Human Perception](https://medium.com/@jakob_anderson/speed-performance-and-human-perception-70ae83ea144e) (video, notes) - Ilya Grigorik
 - [An Introduction to Perceived Performance | Treehouse Blog](http://blog.teamtreehouse.com/perceived-performance)
 - [Chapter 10. Primer on Web Performance - O&#39;Reilly Media](http://chimera.labs.oreilly.com/books/1230000000545/ch10.html) - Ilya Grigorik
 - [Mobile stress: Slower web pages lead to increased user frustration](http://www.webperformancetoday.com/2013/12/11/slower-web-pages-user-frustration/) - Radware
