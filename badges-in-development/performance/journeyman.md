@@ -28,8 +28,8 @@
   - [ ] Performance Build Tools (In Progress)
 
 ### Once above are met, then earn a new 1 of these:
-  - [ ] [Performance - Industry Leader Research](_micro_industry-leader-research.md)
-  - [ ] [Performance - EXPLORER](_micro_EXPLORER.md)
+  - [ ] [Performance - Industry Leader Research](../../nadges-active/performance/_micro_industry-leader-research.md)
+  - [ ] [Performance - EXPLORER](../../nadges-active/performance/_micro_EXPLORER.md)
 
 
 -----
