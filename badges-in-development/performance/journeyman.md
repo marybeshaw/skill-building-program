@@ -20,10 +20,10 @@ Est. Time to complete: 8-16hr
 ### Earn all of these:
   - [ ] [Performance - The Critical Path](_micro_critical-render-path.md)
   - [ ] [Performance - Image Optimization](_micro_image-optimization.md)
+  - [ ] [Performance - Network & Caching](_micro_network-and-caching.md)
 
 ## Earn 1 of these:
   - [ ] [Performance - Rendering Performance](_micro_rendering-performance.md)
-  - [ ] Network & Caching (In Progress)
   - [ ] Mobile Web Performance (In Progress)
   - [ ] Offline-first (In Progress)
   - [ ] Performance Build Tools (In Progress)
