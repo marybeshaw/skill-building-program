@@ -1,4 +1,4 @@
-# {Skill Category} - Composite Badge
+# {Skill Category} - {Apprentice/Journeyman} [Composite]
 
 ![{Skill Category} - Master Badge](../img/badges/perf-master-md.png "{Skill Category} Master badge")(change to your badge image)
 
@@ -14,38 +14,18 @@
 
 
 ## Requirements
-*(These should be based on child microbadges, and can have some flexibility in the badges required)*
+*(These should be based on child microbadges, and can have some flexibility in the badges required. An apprentice badge should include 3-6hrs of microbadges, journeyman should include 8-16hrs of microbadges)*
 
-**Earn 3 of these micro-badges:**
+### Earn all of these:
+  - [ ] Jello eating
+  - [ ] Book reading
 
-- Jello eating
-- Book reading
-- Cloud watching
-- Name pronouncing
-- Human talking-to
-
-
-**Earn 1 of these micro-badges:**
-
-- Phone using
-- Interweb browsing
-
-
------
-
-
-## Suggested Study
-
-### Web
-- Link to awesome web resource about composite field not covered by child microbadges
-- Link to awesome web resource about composite field not covered by child microbadges
-- Link to awesome web resource about composite field not covered by child microbadges
-
-### Books
-- Link to awesome book about composite field not covered by child microbadges (In Library)
-- Link to awesome book about composite field not covered by child microbadges (In Library)
-- Link to awesome book about composite field not covered by child microbadges (In Adjunct Library: Broderick Userton)
-- Link to awesome book about composite field not covered by child microbadges (In Adjunct Library: Broderick Userton)
+### Once above are met, then earn 3 of these:
+  - [ ] Cloud watching
+  - [ ] Name pronouncing
+  - [ ] Human talking-to
+  - [ ] Phone using
+  - [ ] Interweb browsing
 
 
 -----

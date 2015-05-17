@@ -2,7 +2,7 @@
 
 -----
 
-Est. to complete: {X}hr
+Est. to complete: {X}hr recommended: 1-6hrs per micro)
 
 ## Goal
 - You have demonstrated the basic foundations in {Skill Category}.
@@ -23,8 +23,11 @@ Est. to complete: {X}hr
 ## Suggested Assignment
 *(These should have more project-based requirements in Journeyman level)*
 
-- Show a {Skill Category} master how you can use {Skill Category}.
-    - You must be able to explain the goal topics above and how they are used.
+1) Show a {Skill Category} master how you can use {Skill Category}.
+  - [ ] You must be able to explain the goal topics above and how they are used.
+
+2) Show a {Skill Category} master how you can use {Skill Category}.
+  - [ ] You must be able to explain the goal topics above and how they are used.
 
 
 -----
