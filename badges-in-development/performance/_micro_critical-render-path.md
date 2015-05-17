@@ -1,6 +1,7 @@
 Performance - Critical Render Path [Micro Badge]
 ================================================
 
+Est. time to complete: 6hr
 
 Goals:
 ------
@@ -52,3 +53,7 @@ Suggested Study
 - [Analyzing Critical Rendering Path Performance — Web Fundamentals](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/analyzing-crp)
 - [Website Performance Optimization Materials - Udacity](https://www.udacity.com/wiki/ud884)
 - [The performance best practices rules used by Sitespeed.io](http://www.sitespeed.io/rules/)
+
+-----
+
+  *Is this badge missing something? Submit a PR and review it with a master in this category*

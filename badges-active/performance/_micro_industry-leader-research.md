@@ -40,3 +40,8 @@ Suggested Study
 
 ### Web
 - [Alexa Top 500 Global Sites](http://www.alexa.com/topsites)
+
+
+-----
+
+  *Is this badge missing something? Submit a PR and review it with a master in this category*

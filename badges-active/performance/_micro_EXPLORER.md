@@ -47,3 +47,8 @@ Suggested Study
 
 ### Web
 - Go out and explore!
+
+
+-----
+
+  *Is this badge missing something? Submit a PR and review it with a master in this category*

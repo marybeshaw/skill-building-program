@@ -54,3 +54,7 @@ Suggested Study
 - [Lazy Load Plugin for jQuery - Mika Tuupola](http://www.appelsiini.net/projects/lazyload)
 - [Lazy Loading Images | CSS-Tricks](http://css-tricks.com/snippets/javascript/lazy-loading-images/)
 - [jQuery Unveil - A very lightweight plugin to lazy load ... - Luis Almeida](http://luis-almeida.github.io/unveil/)
+
+-----
+
+  *Is this badge missing something? Submit a PR and review it with a master in this category*
