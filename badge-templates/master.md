@@ -1,6 +1,6 @@
 # {Skill Category} - Master Badge
 
-![{Skill Category} - Master Badge](http://familysearch.org/badge.png "{Skill Category} Master badge") <-- image of badge
+![{Skill Category} - Master Badge](../img/badges/perf-master-md.png "{Skill Category} Master badge")(change to your badge image)
 
 
 -----
@@ -30,6 +30,8 @@
 - [ ] Complete your project and present your learning to a gathering of web developers
 - [ ] Live as legend and mentor for others in this category
 
+## Current {Skill Category} Masters:
+- {Person Name}
 
 -----
 

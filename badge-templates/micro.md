@@ -1,4 +1,4 @@
-# {Skill Category} - Micro Badge (prototype)
+# {Skill Category} - Micro Badge
 
 -----
 
