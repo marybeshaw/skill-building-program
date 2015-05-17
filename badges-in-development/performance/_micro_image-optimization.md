@@ -1,6 +1,7 @@
 Performance - Image Optimization [Micro Badge]
 =============================================
 
+Est. time to complete: 2hr
 
 Goals:
 ------

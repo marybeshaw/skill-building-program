@@ -1,7 +1,7 @@
 Performance - Rendering Performance [Micro Badge]
 =============================================
 
-Time Estimate: 6 hours
+Est. time to complete: 6hr
 
 Goals:
 ------
