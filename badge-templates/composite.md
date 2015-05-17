@@ -46,3 +46,8 @@
 - Link to awesome book about composite field not covered by child microbadges (In Library)
 - Link to awesome book about composite field not covered by child microbadges (In Adjunct Library: Broderick Userton)
 - Link to awesome book about composite field not covered by child microbadges (In Adjunct Library: Broderick Userton)
+
+
+-----
+
+  *Is this badge missing something? Submit a PR and review it with a master in this category*

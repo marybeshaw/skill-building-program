@@ -49,3 +49,7 @@ Suggested Study
 - [WebPageTest.org](http://webpagetest.org)
 - [Chrome Web Store - Postman - REST Client - Google](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm)
 - [Chrome Web Store - Advanced REST client - Google](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo)
+
+-----
+
+  *Is this badge missing something? Submit a PR and review it with a master in this category*

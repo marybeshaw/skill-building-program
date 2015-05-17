@@ -49,6 +49,7 @@ Suggested Study
 - [Performance profiling with the Timeline - Google Chrome](https://developer.chrome.com/devtools/docs/timeline)
 - [Chrome Resource Network Timing](https://developer.chrome.com/devtools/docs/network#resource-network-timing)
 - [A Rendering Performance Guide for Developers by Paul ... - YouTube](http://www.youtube.com/watch?v=9xjpmpX4NJE) - Paul Lewis (video)
+- [Perfschool](https://github.com/bevacqua/perfschool)
 
 
 ### Tools
@@ -58,3 +59,8 @@ Suggested Study
 - [Yahoo YSlow for Mobile/Bookmarklet - Yahoo! Developer Network](https://developer.yahoo.com/yslow/)
 - [Free Mobile Performance Testing with Akamai&#39;s Mobitest](http://mobitest.akamai.com/)
 - [Website speed test - Pingdom](http://tools.pingdom.com/)
+
+
+-----
+
+*Is this badge missing something? Submit a PR and review it with a master in this category*

@@ -1,10 +1,8 @@
 # {Skill Category} - Micro Badge (prototype)
 
-![{Skill Category} - Micro Badge](http://familysearch.org/badge.png "{Skill Category} Journeyman badge") <-- image of badge
-
-
 -----
 
+Est. to complete: {X}hr
 
 ## Goal
 - You have demonstrated the basic foundations in {Skill Category}.
@@ -15,6 +13,9 @@
 
 ## Intro
 
+>{quote about topic}
+
+{brief description of topic and why it's important}
 
 -----
 
@@ -43,3 +44,8 @@
 - Link to awesome book (In Library)
 - Link to awesome book (In Adjunct Library: Broderick Userton)
 - Link to awesome book (In Adjunct Library: Sammy Codeville)
+
+
+-----
+
+  *Is this badge missing something? Submit a PR and review it with a master in this category*

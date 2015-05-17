@@ -1,6 +1,6 @@
 # Performance - Journeyman (Composite)
 
-![Performance - Journeyman Badge](http://familysearch.org/badge.png "Performance - Journeyman Badge")
+![Performance - Journeyman Badge](../../img/badges/perf-journeyman-md.png "Performance - Journeyman Badge")
 
 
 -----
@@ -21,10 +21,17 @@
   - [ ] [Performance - Image Optimization](_micro_image-optimization.md)
 
 ## Earn 1 of these:
-  - [ ] Rendering Performance (In Progress)
+  - [ ] [Performance - Rendering Performance](_micro_rendering-performance.md)
+  - [ ] Network & Caching (In Progress)
   - [ ] Mobile Web Performance (In Progress)
+  - [ ] Offline-first (In Progress)
   - [ ] Performance Build Tools (In Progress)
 
-### Once above are met, then earn 1 of these:
+### Once above are met, then earn a new 1 of these:
   - [ ] [Performance - Industry Leader Research](_micro_industry-leader-research.md)
   - [ ] [Performance - EXPLORER](_micro_EXPLORER.md)
+
+
+-----
+
+  *Is this badge missing something? Submit a PR and review it with a master in this category*
