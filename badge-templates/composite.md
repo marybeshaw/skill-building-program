@@ -1,20 +1,22 @@
 # {Skill Category} - {Apprentice/Journeyman} [Composite]
 
-![{Skill Category} - Master Badge](../img/badges/perf-master-md.png "{Skill Category} Master badge")(change to your badge image)
+![{Skill Category} - Master Badge](../img/badges/perf-journeyman-md.png "{Skill Category} Master badge")(change to your badge image, with the appropriate badge-level marks)
 
 
 -----
 
 
 ## Goal
-- You have demonstrated the foundations in the composite field of {Skill Category}.
+- You have demonstrated the foundations in the field of {Skill Category}.  
+*(For Apprentice, the microbadges and time required should reflect a "feet-wet" basic literacy in the subject. 3-6hrs)*
+*(For Journeyman, the microbadges and time required should reflect a wide proficiency in the subject. 8-16hrs)*
 
 
 -----
 
 
 ## Requirements
-*(These should be based on child microbadges, and can have some flexibility in the badges required. An apprentice badge should include 3-6hrs of microbadges, journeyman should include 8-16hrs of microbadges)*
+*(These should be based on child microbadges, and can have some flexibility in the badges required.)*
 
 ### Earn all of these:
   - [ ] Jello eating

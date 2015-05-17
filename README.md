@@ -78,43 +78,30 @@ We have the ability to earn badges in the following levels:
 - Master
 
 ### Apprentice
-You are getting your feet wet in a skill category. You will use study materials
-to prove a basic knowledge of a skill. You will also be proving your ability in
-that skill through building a microproject with a very specific and prescriptive
-set of requirements. As an alternative to building new projects, you may use
-previous work and a few other options to pass this level's badges.
+You are getting your feet wet and gaining basic literacy in a skill category. You will use study materials to prove a basic knowledge of a skill. You will also be proving your ability in that skill through building a micro-project with a very specific and prescriptive set of requirements. As an alternative to building new projects, you may use previous work and a few other options to pass this level's badges. Expect 3-6hrs spent per apprentice badge.
 
 ### Journeyman
-You are actively applying your knowledge to produce quality code in new and
-creative ways. You are also demonstrating your knowledge of advanced concepts in
-your production code. As an alternative to project work, a developer can use
-previous project or production work to pass this level's badges.
+You are actively applying your knowledge to produce quality code in new and creative ways. You are also demonstrating your knowledge of advanced concepts in your production code. As an alternative to project work, a developer can use previous project or production work to pass this level's badges. Expect 8-16hrs spent per Journeyman badge.
 
 ### Master
-You have mastered the fundamental and advanced concepts of this skill and you
-are very skilled in its' application. You often mentor and teach others in this
-skill. You also often act in an architectural role, helping to define our work
-patterns and recommending helpful technologies and methodologies. This level
-expects that you will propose, produce, and teach a project on this skill area.
+You have mastered the fundamental and advanced concepts of this skill and you are very skilled in its' application. You often mentor and teach others in this skill. You also often act in an architectural role in the webdev discipline, helping to define our work patterns and recommending helpful technologies and methodologies. This level expects that you will propose, produce, and teach a project on this skill area.
 
 
 -----
 
 
 ## Learning Time
-You have permission to spend up to 10% of your work time on training. This means
-45 minutes per day, 4 hours a week, or whatever way works best for you.
-Please try to schedule and communicate this time in a way that minimizes the effect
-to your story council and other responsibilities.
+You have permission to spend up to 10% of your work time on training. This means 45 minutes per day, 4 hours a week, or whatever way works best for you. Please try to schedule and communicate this time in a way that minimizes the effect to your story council and other responsibilities.
 
+
+## Skills Workshops
+About every two weeks, we hold a skills workshop on Friday afternoon, for about 2 hours. We have an instructor-led, interactive session to educate and get these badges passed off together. We choose the next workshop's topic with this app in the "Next Skills Workshop" category. - [FS-Voter App](http://fs-vote.meteor.com/category/skill-program-workshop)
 
 -----
 
 
 ## Build portfolio & project repos
-You can build a portfolio to contain your skill projects, or make them separate Github
-repos. Through this program, you should have a good body of work to prove your
-skills with.
+You *can* build a portfolio to contain your skill projects, or make them separate Github repos. Through this program, you should have a good body of work to prove your skills with.
 
 
 -----
@@ -139,7 +126,7 @@ program effective and exciting for everyone.
 
 - If you have great ideas for new
 skills that are helpful to the org and aren't currently in progress in this
-repo, collaborate around them with your peers in an [enhancement issue!](https://github.com/fs-webdev/skill-building-program/issues?labels=enhancement&page=1&state=open "Open Enhancements")
+repo, collaborate around them with your peers in the fs-vote app under the "Next Skill Program Badge to Create" category [FS-Voter](http://fs-vote.meteor.com/category/next-skill-program-badge-to-create)
 - If you have great ideas for fun example projects to build in the badge
 assignments, [fork this repo and give us a pull request!](https://github.com/fs-webdev/skill-building-program/fork "Fork this repo")
 - [Read the style guide](style-guide.md "Style Guide") for recommendations on formatting
@@ -151,13 +138,14 @@ assignments, [fork this repo and give us a pull request!](https://github.com/fs-
 ## Contributors:
 
 ### Skill Building Council
-- Jamis Charles : [@jamischarles](https://github.com/jamischarles)
-- Dan Crews : [@dncrews](https://github.com/dncrews)
+- Jakob Anderson (Chair): [@spacerockzero](https://github.com/spacerockzero)
 - Mike Collins : [@intervalia](https://github.com/intervalia)
-- Jakob Anderson : [@spacerockzero](https://github.com/spacerockzero)
-- Nic Johnson : [@nicjohnson](https://github.com/nicjohnson)
-- Rob Whiting : [@rwhiting](https://github.com/rwhiting)
+- Logan Allred : [@redbugz](https://github.com/redbugz)
+- Brian Menasco : [@iammenasco](https://github.com/iammenasco)
+- Judd Flamm : [@kd7yva](https://github.com/kd7yva)
 - Tyler Peterson : [@tylerpeterson](https://github.com/tylerpeterson)
+- Steve Olsen : [@steveolyo](https://github.com/steveolyo)
+- Marlin Benson : [@mbenson24](https://github.com/mbenson24)
 
 ### Peer Contributors:
 - (Make significant contributions of great ideas, curriculum, content, edits,
