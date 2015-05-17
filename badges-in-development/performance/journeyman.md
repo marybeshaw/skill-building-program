@@ -2,6 +2,7 @@
 
 ![Performance - Journeyman Badge](../../img/badges/perf-journeyman-md.png "Performance - Journeyman Badge")
 
+Est. Time to complete: 8-16hr
 
 -----
 
