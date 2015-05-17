@@ -16,7 +16,7 @@ Intro
 > Good developers know how things work.  
 > Great developers know **why** things work. - Steve Souders
 
-Browser networking and caching can seem like black magic sometimes. Let's dive into things, pull them apart, and put them back together so we can have a better knowledge, and make better-informed decisions about how we build our code, and how things affect it.
+Browser networking and caching can seem like black magic sometimes. Because we are battling the speed of light itself, network and caching methods have some of the largest effects on page load performance. Let's dive into things, pull them apart, and put them back together so we can have a better knowledge, and make better-informed decisions about how we build our code, and how things affect it.
 
 
 Suggested Assignment(s)
