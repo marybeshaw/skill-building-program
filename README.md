@@ -42,9 +42,9 @@ other
 -----
 <!-- Insert newest badges into table below. Newest on left, up to 5 at once -->
 ## Newest Active Badges
-| [Performance Journeyman](badges-active/performance/journeyman.md) | [Performance Apprentice](badges-active/performance/apprentice.md) |
-| ------------------------------------------------------------------ |
-| ![Performance Journeyman Badge Image](img/badges/perf-journeyman-md.png "Performance Apprentice Badge Image") | ![Performance Apprentice Badge Image](img/badges/perf-apprentice-md.png "Performance Apprentice Badge Image") |
+[Performance Journeyman](badges-active/performance/journeyman.md) | [Performance Apprentice](badges-active/performance/apprentice.md)
+----------------------------------------------------------------- | -----------------------------------------------------------------
+![Performance Journeyman Badge Image](img/badges/perf-journeyman-md.png "Performance Apprentice Badge Image") | ![Performance Apprentice Badge Image](img/badges/perf-apprentice-md.png "Performance Apprentice Badge Image")
 
 
 -----
