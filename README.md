@@ -138,7 +138,7 @@ Once you've earned all the required badges in a level, you are granted a title:
 
 - **Apprentice**: "Web Viking"
 - **Journeyman**: "Web Ninja"
-- **Master**:     ":sparkles: Web Unicorn  :sparkles:"
+- **Master**:     ":sparkles:Web Unicorn:sparkles:"
 
 
 -----
