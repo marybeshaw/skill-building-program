@@ -136,9 +136,9 @@ You *can* build a portfolio to contain your skill projects, or make them separat
 ## Comprehensive levels:
 Once you've earned all the required badges in a level, you are granted a title:
 
-- **Apprentice**: "_________"
+- **Apprentice**: "Web Viking"
 - **Journeyman**: "Web Ninja"
-- **Master**:     "_________"
+- **Master**:     ":sparkles:Web Unicorn:sparkles:"
 
 
 -----
