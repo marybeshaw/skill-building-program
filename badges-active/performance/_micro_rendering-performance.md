@@ -46,10 +46,14 @@ Suggested Study
 - [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/) - Google Developers
 - [Getting 60FPS using Chrome Dev
 Tools](http://engineering.wingify.com/posts/getting-60fps-using-devtools/) - Wingify
+- [(video) A Rendering Performance Guide for Developers - Paul Lewis](https://www.youtube.com/watch?v=9xjpmpX4NJE)
+- [(video) The Applied Science of Runtime Performance](https://www.youtube.com/watch?v=RCFQu0hK6bU)
+- [(video) #perfmatters: 60fps layout and rendering](https://www.youtube.com/watch?v=YyQYhhy1dZI)
 
 ### Tools
 - [perfjankie](https://github.com/axemclion/perfjankie)
 - [chrome dev tools - timeline tab](https://developer.chrome.com/devtools/docs/timeline)
+- [Justice.js](https://github.com/okor/justice)
 
 -----
 
