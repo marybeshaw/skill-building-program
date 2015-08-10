@@ -28,6 +28,9 @@ Choose one:
 
 2) Read through MDN's JavaScript Guide (includes some ES6): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
   - [ ] Demonstrate and discuss afterwards
+  
+3) Study common pitfals, and their proven solutions:
+  - [ ] Demonstrate and discuss afterwards
 
 
 -----
@@ -39,6 +42,7 @@ Choose one:
 - [NodeSchool - javascripting](https://github.com/sethvincent/javascripting)
 - [JavaScript Guide - JavaScript | MDN - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Chapter 2. Functions - O&#39;Reilly Media](http://chimera.labs.oreilly.com/books/1234000000262/ch02.html)
+- [JavaScript - The Awful Parts](http://archive.oreilly.com/pub/a/javascript/excerpts/javascript-good-parts/awful-parts.html)
 
 
 -----

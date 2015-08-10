@@ -19,6 +19,7 @@ Estimated time: 5hr
 
 ### Earn all of these:
   - [ ] [JavaScript Language Basics](_micro_javascript-language-basics.md)
+  - [ ] [JavaScript Common Pitfalls](_micro_javascript-common-pitfalls.md)
   - [ ] Linting & JS Style Guide
   - [ ] Essential JavaScript Patterns
   - [ ] JS Module Formats
