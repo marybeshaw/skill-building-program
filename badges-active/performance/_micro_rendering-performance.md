@@ -48,6 +48,7 @@ Suggested Study
 - [Getting 60FPS using Chrome Dev
 Tools](http://engineering.wingify.com/posts/getting-60fps-using-devtools/) - Wingify
 - [Rendering: repaint, reflow/relayout, restyle](http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
+- [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
 ### Video
 - [A Rendering Performance Guide for Developers - Paul Lewis](https://www.youtube.com/watch?v=9xjpmpX4NJE)
@@ -55,6 +56,7 @@ Tools](http://engineering.wingify.com/posts/getting-60fps-using-devtools/) - Win
 - [#perfmatters: 60fps layout and rendering](https://www.youtube.com/watch?v=YyQYhhy1dZI)
 - [Using Chrome DevTools to profile the jsconf.eu site](https://www.youtube.com/watch?v=QU1JAW5LRKU)
 - [True Grit: Debugging CSS & Render Performance](https://www.youtube.com/watch?v=gqc88qWuiI4)
+- [How Browsers Work Internally - Tali Garsiel](https://vimeo.com/44182484)
 
 ### Tools
 - [perfjankie](https://github.com/axemclion/perfjankie)
