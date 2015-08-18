@@ -47,10 +47,14 @@ Suggested Study
 - [Google Dev Tools: Timeline demo: Layout Thrashing](https://developer.chrome.com/devtools/docs/demos/too-much-layout/index)
 - [Getting 60FPS using Chrome Dev
 Tools](http://engineering.wingify.com/posts/getting-60fps-using-devtools/) - Wingify
-- [(video) A Rendering Performance Guide for Developers - Paul Lewis](https://www.youtube.com/watch?v=9xjpmpX4NJE)
-- [(video) The Applied Science of Runtime Performance](https://www.youtube.com/watch?v=RCFQu0hK6bU)
-- [(video) #perfmatters: 60fps layout and rendering](https://www.youtube.com/watch?v=YyQYhhy1dZI)
-- [(video) Using Chrome DevTools to profile the jsconf.eu site](https://www.youtube.com/watch?v=QU1JAW5LRKU)
+- [Rendering: repaint, reflow/relayout, restyle](http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
+
+### Video
+- [A Rendering Performance Guide for Developers - Paul Lewis](https://www.youtube.com/watch?v=9xjpmpX4NJE)
+- [The Applied Science of Runtime Performance](https://www.youtube.com/watch?v=RCFQu0hK6bU)
+- [#perfmatters: 60fps layout and rendering](https://www.youtube.com/watch?v=YyQYhhy1dZI)
+- [Using Chrome DevTools to profile the jsconf.eu site](https://www.youtube.com/watch?v=QU1JAW5LRKU)
+- [True Grit: Debugging CSS & Render Performance](https://www.youtube.com/watch?v=gqc88qWuiI4)
 
 ### Tools
 - [perfjankie](https://github.com/axemclion/perfjankie)
