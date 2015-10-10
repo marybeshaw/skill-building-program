@@ -28,7 +28,7 @@ Choose one:
 
 2) Read through MDN's JavaScript Guide (includes some ES6): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
   - [ ] Demonstrate and discuss afterwards
-  
+
 3) Study common pitfals, and their proven solutions:
   - [ ] Demonstrate and discuss afterwards
 
