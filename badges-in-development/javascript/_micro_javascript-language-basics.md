@@ -2,7 +2,7 @@
 
 -----
 
-Est. to complete: {X}hr recommended: 1-6hrs per micro)
+Est. to complete: 2h
 
 ## Goal
 - You have demonstrated the basic foundations in JavaScript Language Basics.
@@ -23,14 +23,12 @@ JavaScript is the chosen language of the internet browser. Find out how it ticks
 ## Suggested Assignment(s)
 Choose one:
 
-1) Complete the nodeschool "javascripting" course: https://github.com/sethvincent/javascripting
+1) Complete the nodeschool interactive "javascripting" course: https://github.com/sethvincent/javascripting
   - [ ] Demonstrate and discuss afterwards
 
 2) Read through MDN's JavaScript Guide (includes some ES6): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
   - [ ] Demonstrate and discuss afterwards
 
-3) Study common pitfals, and their proven solutions:
-  - [ ] Demonstrate and discuss afterwards
 
 
 -----

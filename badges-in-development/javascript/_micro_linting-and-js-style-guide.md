@@ -2,7 +2,7 @@
 
 -----
 
-Est. to complete: {X}hr recommended: 1-6hrs per micro)
+Est. to complete: 1h
 
 ## Goal
 - You have demonstrated the basic foundations in JavaScript Linting & the JS Style Guide.
@@ -53,6 +53,10 @@ Choose Two (or more):
 ## Suggested Study
 
 ### Web
+- FS JS Style Guide & eslintrc (TODO: needs to be created)
+- [AirBnB JS Style Guide](https://github.com/airbnb/javascript)
+- [Idiomatic JS Style Guide](https://github.com/rwaldron/idiomatic.js/)
+- [Google JS Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 - [http://eslint.org/](http://eslint.org/)
 - [http://eslint.org/docs/user-guide/configuring](http://eslint.org/docs/user-guide/configuring.html)
 - [http://eslint.org/docs/user-guide/integrations](http://eslint.org/docs/user-guide/integrations.html)
