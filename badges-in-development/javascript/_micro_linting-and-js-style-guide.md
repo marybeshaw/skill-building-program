@@ -13,7 +13,9 @@ Est. to complete: 1h
 
 ## Intro
 
->Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn't adhere to certain style guidelines. - http://eslint.org/docs/about/
+>Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn't adhere to certain style guidelines. - [ESLint: About](http://eslint.org/docs/about/)  
+
+>All code in any code-base should look like a single person typed it, no matter how many people contributed. - [Idiomatic JS](https://github.com/rwaldron/idiomatic.js/)
 
 There are two main ways we enforce consistent code. Code Linting and Language Style Guides. FamilySearch suggests you use ESLint and adopt at least the default ruleset in our FS .eslintrc file. You may be more aggressive as you see fit. We also have a JS style guide, which the web developers have created by agreeing on a short set of guidelines and conventions we would all like to see in our code.
 
