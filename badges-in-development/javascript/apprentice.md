@@ -1,6 +1,7 @@
 # JavaScript - Apprentice [Composite]
 
 ![JavaScript - Apprentice Badge](../img/badges/javascript-apprentice-md.png "JavaScript Apprentice badge")
+<!-- TODO: design new V2 JavaScript badge before this releases -->
 
 Estimated time: 5hr
 
@@ -23,6 +24,7 @@ Estimated time: 5hr
   - [ ] [Linting & JavaScript Style Guide](_micro_linting-and-js-style-guide.md)
   - [ ] [Essential JavaScript Patterns](_micro_essential-javascript-patterns.md)
   - [ ] [JavaScript Module Formats](_micro_javascript-module-formats.md)
+  - [ ] [JavaScript Debugging](_micro_javascript-debugging.md)
 
 
 -----
