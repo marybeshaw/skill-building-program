@@ -17,13 +17,12 @@ Estimated time: 7hr
 
 
 ## Requirements
-*(These should be based on child microbadges, and can have some flexibility in the badges required.)*
 
 ### Earn/complete all of these:
   - [ ] [ES6 / ES2015 Features (~4h)](_micro_javascript-es2015-features.md)
-  - [ ] [JavaScript: The Good Parts (~1h)](https://youtu.be/hQVTIJBZook)
-  - [ ] [NodeSchool: Functional JavaScript (~1h)](https://github.com/timoxley/functional-javascript-workshop)
-  - [ ] [NodeSchool: Promise It Won't Hurt (~1h)](https://github.com/stevekane/promise-it-wont-hurt)
+  - [ ] [JavaScript: The Good Parts (~1h)](https://youtu.be/hQVTIJBZook)(video)
+  - [ ] [NodeSchool: Functional JavaScript (~1h)](https://github.com/timoxley/functional-javascript-workshop)(nodeschool-style)
+  - [ ] [NodeSchool: Promise It Won't Hurt (~1h)](https://github.com/stevekane/promise-it-wont-hurt)(nodeschool-style)
 
 
 -----
