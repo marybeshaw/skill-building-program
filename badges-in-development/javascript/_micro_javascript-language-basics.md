@@ -23,12 +23,9 @@ JavaScript is the chosen language of the internet browser. Find out how it ticks
 ## Suggested Assignment(s)
 Choose one:
 
-1) Complete the nodeschool interactive "javascripting" course: https://github.com/sethvincent/javascripting
-  - [ ] Demonstrate and discuss afterwards
-
-2) Read through MDN's JavaScript Guide (includes some ES6): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
-  - [ ] Demonstrate and discuss afterwards
-
+1) Solve at least 10 of the JavaScript coding problems on one of these sites, and record your solutions:
+  - [ ] [CoderByte](http://coderbyte.com/CodingArea/Challenges/)
+  - [ ] [Code Wars](http://www.codewars.com/)
 
 
 -----
@@ -36,8 +33,11 @@ Choose one:
 
 ## Suggested Study
 
+### Interactive
+- [CoderByte](http://coderbyte.com/CodingArea/Challenges/)
+- [Code Wars](http://www.codewars.com/)
+
 ### Web
-- [NodeSchool - javascripting](https://github.com/sethvincent/javascripting)
 - [JavaScript Guide - JavaScript | MDN - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Chapter 2. Functions - O&#39;Reilly Media](http://chimera.labs.oreilly.com/books/1234000000262/ch02.html)
 - [JavaScript - The Awful Parts](http://archive.oreilly.com/pub/a/javascript/excerpts/javascript-good-parts/awful-parts.html)
