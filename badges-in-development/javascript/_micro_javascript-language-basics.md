@@ -23,7 +23,7 @@ JavaScript is the chosen language of the internet browser. Find out how it ticks
 ## Suggested Assignment(s)
 Choose one:
 
-1) Solve at least 10 of the JavaScript coding problems on these sites, then demonstrate and show your solutions:
+1) Solve at least 10 of the JavaScript coding problems total on these sites, then demonstrate and show your solutions:
   - [ ] [CoderByte](http://coderbyte.com/CodingArea/Challenges/)
   - [ ] [Code Wars](http://www.codewars.com/)
 
