@@ -35,6 +35,7 @@ Choose one:
 
 ### Web
 - [ ] [JavaScript - The Awful Parts (10m)](http://archive.oreilly.com/pub/a/javascript/excerpts/javascript-good-parts/awful-parts.html)
+- [ ] [Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
 - [ ] [Type Checking (5m)](http://toddmotto.com/understanding-javascript-types-and-reliable-type-checking/)
 - [ ] [Type Detection (5m)](http://javascript.info/tutorial/type-detection)
 
