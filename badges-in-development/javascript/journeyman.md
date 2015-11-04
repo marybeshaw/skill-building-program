@@ -23,7 +23,7 @@ Estimated time: 7hr
   - [ ] [JavaScript: The Good Parts (~1h)](https://youtu.be/hQVTIJBZook) (video)
   - [ ] [NodeSchool: Functional JavaScript (~1h)](https://github.com/timoxley/functional-javascript-workshop) (nodeschool-style)
   - [ ] [NodeSchool: Promise It Won't Hurt (~1h)](https://github.com/stevekane/promise-it-wont-hurt) (nodeschool-style)
-  - [ ] (need more content. This badge has too large of a gap up to master currently)
+  - [ ] need more content. This badge has too large of a gap up to master currently
 
 
 -----
