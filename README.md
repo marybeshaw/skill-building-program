@@ -1,7 +1,7 @@
 skill-building-program
 ======================
 
-(draft) This is a repo for the future of the Skills Building Program.
+This is a repo for the future of the Skills Building Program.
 
 - Everything contained herein is part of a draft proposal
 - Everything here is subject to change & peer review
@@ -56,7 +56,7 @@ other
   [[Apprentice](badges-active/performance/apprentice.md),
   [Journeyman](badges-active/performance/journeyman.md),
   [Master](badges-active/performance/master.md)]
-- [Currently In Development](in-progress-board.md "Badges in development")
+- [Currently In Development](issues/37 "Badges in development")
 
 
 -----
@@ -71,7 +71,7 @@ other
 
 
 ## Hall of Fame
-- [Leaderboard](hall-of-fame.md "Hall of Fame Leaderboard")
+- [Leaderboard](issues/38 "Hall of Fame Leaderboard")
 
 
 -----
