@@ -2,12 +2,13 @@
 
 ![{Skill Category} - Master Badge](../img/badges/perf-journeyman-md.png "{Skill Category} Master badge")(change to your badge image, with the appropriate badge-level marks)
 
+Estimated time: {x}hr
 
 -----
 
 
 ## Goal
-- You have demonstrated the foundations in the field of {Skill Category}.  
+- You have demonstrated the foundations in the field of {Skill Category}.
 *(For Apprentice, the microbadges and time required should reflect a "feet-wet" basic literacy in the subject. 3-6hrs)*
 *(For Journeyman, the microbadges and time required should reflect a wide proficiency in the subject. 8-16hrs)*
 
