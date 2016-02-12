@@ -36,30 +36,27 @@ other
 
 ## Badges
 - [Currently Active](badges-active/ "Currently Active Badges")
-  - v1: Frontier 
-  [[Apprentice](https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+Frontier+Skill#WebDevelopmentDiscipline-FrontierSkill-Apprentice), 
-  [Journeyman](https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+Frontier+Skill#WebDevelopmentDiscipline-FrontierSkill-Journeyman), 
+  - v1: Frontier
+  [[Apprentice](https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+Frontier+Skill#WebDevelopmentDiscipline-FrontierSkill-Apprentice),
+  [Journeyman](https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+Frontier+Skill#WebDevelopmentDiscipline-FrontierSkill-Journeyman),
   [Master](https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+Frontier+Skill#WebDevelopmentDiscipline-FrontierSkill-Master)]
-  - v1: HTML5/CSS3 
-  [[Apprentice](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006236#WebDevelopmentDiscipline-HTML5/CSS3Skill-Apprentice#WebDevelopmentDiscipline-HTML5/CSS3Skill-Apprentice), 
-  [Journeyman](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006236#WebDevelopmentDiscipline-HTML5/CSS3Skill-Journeyman), 
+  - v1: HTML5/CSS3
+  [[Apprentice](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006236#WebDevelopmentDiscipline-HTML5/CSS3Skill-Apprentice#WebDevelopmentDiscipline-HTML5/CSS3Skill-Apprentice),
+  [Journeyman](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006236#WebDevelopmentDiscipline-HTML5/CSS3Skill-Journeyman),
   [Master](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006236#WebDevelopmentDiscipline-HTML5/CSS3Skill-Master)]
   - v1: JavaScript
-  [[Apprentice](https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+JavaScript+Skill#WebDevelopmentDiscipline-JavaScriptSkill-Apprentice), 
-  [Journeyman](https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+JavaScript+Skill#WebDevelopmentDiscipline-JavaScriptSkill-Journeyman), 
+  [[Apprentice](https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+JavaScript+Skill#WebDevelopmentDiscipline-JavaScriptSkill-Apprentice),
+  [Journeyman](https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+JavaScript+Skill#WebDevelopmentDiscipline-JavaScriptSkill-Journeyman),
   [Master](https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+JavaScript+Skill#WebDevelopmentDiscipline-JavaScriptSkill-Master)]
   - v1: Testing
-  [[Apprentice](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006267#WebDevelopmentDiscipline-Testing/PerformanceSkill-Apprentice), 
-  [Journeyman](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006267#WebDevelopmentDiscipline-Testing/PerformanceSkill-Journeyman), 
+  [[Apprentice](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006267#WebDevelopmentDiscipline-Testing/PerformanceSkill-Apprentice),
+  [Journeyman](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006267#WebDevelopmentDiscipline-Testing/PerformanceSkill-Journeyman),
   [Master](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006267#WebDevelopmentDiscipline-Testing/PerformanceSkill-Master)]
   - v2: Performance
-  [[Apprentice](badges-active/performance/apprentice.md), 
-  [Journeyman](badges-active/performance/journeyman.md), 
+  [[Apprentice](badges-active/performance/apprentice.md),
+  [Journeyman](badges-active/performance/journeyman.md),
   [Master](badges-active/performance/master.md)]
-- [In Development](badges-in-development/ "Badges in development")
-  - v2: [ES6](badges-in-development/es6) - [Help build it!](https://github.com/fs-webdev/skill-building-program/issues/23)
-  - v2: [Angular](badges-in-development/angular) - [Help build it!](https://github.com/fs-webdev/skill-building-program/issues/24)
-  - v2: [Web Components](badges-in-development/webcomponents) - [Help build it!](https://github.com/fs-webdev/skill-building-program/issues/25)
+- [Currently In Development](in-progress-board.md "Badges in development")
 
 
 -----
@@ -117,11 +114,11 @@ You have mastered the fundamental and advanced concepts of this skill and you ar
 
 
 ## Learning Time
-You have permission to spend up to 10% of your work time on training. This means 45 minutes per day, 4 hours a week, or whatever way works best for you. Please try to schedule and communicate this time in a way that minimizes the effect to your story council and other responsibilities.
+You have permission to spend up to 10% of your work time on training. This means 45 minutes per day or 4 hours a week, whichever works best for you. Please try to schedule and communicate this time in a way that minimizes the effect to your story council and other responsibilities.
 
 
 ## Skills Workshops
-About every two weeks, we hold a skills workshop on Friday afternoon, for about 2 hours. We have an instructor-led, interactive session to educate and get these badges passed off together. We choose the next workshop's topic with this app in the "Next Skills Workshop" category. - [FS-Voter App](http://fs-vote.meteor.com/category/skill-program-workshop)
+About every two weeks, we hold a skills workshop, for about 2 hours. We have an instructor-led, interactive session to educate and get these badges passed off together. We choose the next workshop's topic with this app in the "Next Skills Workshop" category. - [FS Training Voter App](https://fs-vote.herokuapp.com/?cat=next-skill-workshop)
 
 -----
 
@@ -152,9 +149,10 @@ program effective and exciting for everyone.
 
 - If you have great ideas for new
 skills that are helpful to the org and aren't currently in progress in this
-repo, collaborate around them with your peers in the fs-vote app under the "Next Skill Program Badge to Create" category [FS-Voter](http://fs-vote.meteor.com/category/next-skill-program-badge-to-create)
+repo, collaborate around them with your peers in the fs-vote app under the "Next Skill Program Badge to Create" category [FS Training Voter App](https://fs-vote.herokuapp.com/?cat=next-skill-badge), and we'll add them to the issues to chat about the content
 - If you have great ideas for fun example projects to build in the badge
 assignments, [fork this repo and give us a pull request!](https://github.com/fs-webdev/skill-building-program/fork "Fork this repo")
+- [Learn how to make content for the Skill Building Program](how-to-make-content.md)
 - [Read the style guide](style-guide.md "Style Guide") for recommendations on formatting
 
 
