@@ -18,10 +18,10 @@ Estimated time: {3-6}hr
 ## Requirements
 
 ### Earn all of these:
-  - [ ] Frontier Architecture
-  - [ ] Building a Frontier App
-  - [ ] [Triage of Support](_micro_triage-of-support.md)
-  - [ ] Basic Git & Github Workflow
+  - [ ] [Frontier Architecture (private)](https://almtools.ldschurch.org/fhconfluence/display/WD/Frontier+-+Frontier+Architecture+Micro-Badge)
+  - [ ] Building a Frontier App (private)
+  - [ ] [Triage of Support (private)](https://almtools.ldschurch.org/fhconfluence/display/WD/Frontier+-+Triage+of+Support+-+Micro-Badge)
+  - [ ] Basic Github Workflow
 
 ### Once above are met, then earn 3 of these:
   - [ ] Using FS Styles

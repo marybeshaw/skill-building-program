@@ -45,3 +45,12 @@ look at the other completed badges in the program:
 [badges-active/](Active Badges). Don't forget to make your content fun, free,
 and not too prescriptive. The program is meant to inspire self-learning, and not
  hand-holding.
+
+
+## Where to get content
+
+The internet. Try to get interactive tutorials first, then videos, articles,
+and eventually documentation sources if all else fails. The
+skill-building-program is meant to be fun and interactive first. We work best
+when standing on the shoulders of giants, so try to find the industry's best
+content before making your own if possible.
