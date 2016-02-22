@@ -19,9 +19,9 @@ Estimated time: {3-6}hr
 
 ### Earn all of these:
   - [ ] [Frontier Architecture (private)](https://almtools.ldschurch.org/fhconfluence/display/WD/Frontier+-+Frontier+Architecture+Micro-Badge)
-  - [ ] Building a Frontier App (private)
+  - [ ] [Building a Frontier App (private)](https://almtools.ldschurch.org/fhconfluence/display/WD/Frontier+-+Building+a+Frontier+App+-+Micro-Badge)
   - [ ] [Triage of Support (private)](https://almtools.ldschurch.org/fhconfluence/display/WD/Frontier+-+Triage+of+Support+-+Micro-Badge)
-  - [ ] Basic Github Workflow
+  - [ ] [Basic Github Workflow](_micro_basic-github-workflow.md)
 
 ### Once above are met, then earn 3 of these:
   - [ ] Using FS Styles
