@@ -13,7 +13,7 @@ Est. to complete: 1h
 
 ## Intro
 
->Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn't adhere to certain style guidelines. - [ESLint: About](http://eslint.org/docs/about/)  
+>Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn't adhere to certain style guidelines. - [ESLint: About](http://eslint.org/docs/about/)
 
 >All code in any code-base should look like a single person typed it, no matter how many people contributed. - [Idiomatic JS](https://github.com/rwaldron/idiomatic.js/)
 
@@ -63,6 +63,7 @@ Choose Two (or more):
 - [http://eslint.org/](http://eslint.org/)
 - [http://eslint.org/docs/user-guide/configuring](http://eslint.org/docs/user-guide/configuring.html)
 - [http://eslint.org/docs/user-guide/integrations](http://eslint.org/docs/user-guide/integrations.html)
+- [Learning JavaScript](https://github.com/iangilman/learning-javascript)
 
 
 -----

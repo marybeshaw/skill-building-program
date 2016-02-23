@@ -23,10 +23,12 @@ Suggested Assignment(s)
 
 Choose one:
 
-1) Be prepared to demonstrate the following:
+1) Demonstrate the following:
 - [ ] What are the benefits of the "Github Flow"?
 - [ ] Explain & Demonstrate how to follow the "Github Flow"
-- [ ] Demonstrate you can do some command-line basics of Git, and explain what they do. (`.gitignore, add, branch, checkout, clone, commit, config, diff, init, log, merge, pull, push, rebase, remote, reset, rm, status`)
+- [ ] Demonstrate a "Pull Request" and explain why it's used
+- [ ] Demonstrate "Forking"
+- [ ] Demonstrate you can do some command-line basics of Git, and explain what they do. (`.gitignore, add, branch, checkout, clone, commit, diff, init, log, merge, pull, push, rebase, reset, rm, status`)
 
 
 Suggested Study

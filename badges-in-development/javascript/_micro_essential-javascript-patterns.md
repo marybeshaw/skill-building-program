@@ -34,11 +34,12 @@ Choose one:
 ## Suggested Study
 
 ### Web
-- [ ] [Constructor Pattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#constructorpatternjavascript)
-- [ ] [Singleton Pattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript)
-- [ ] [Facade Pattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#facadepatternjavascript)
-- [ ] [Module Pattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
-- [ ] [Revealing Module Pattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
+- [Constructor Pattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#constructorpatternjavascript)
+- [Singleton Pattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript)
+- [Facade Pattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#facadepatternjavascript)
+- [Module Pattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
+- [Revealing Module Pattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
+- [Learning JavaScript](https://github.com/iangilman/learning-javascript)
 
 -----
 

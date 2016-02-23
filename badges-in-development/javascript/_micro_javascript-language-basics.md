@@ -42,6 +42,7 @@ Choose one:
 - [JavaScript Guide - JavaScript | MDN - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Chapter 2. Functions - O&#39;Reilly Media](http://chimera.labs.oreilly.com/books/1234000000262/ch02.html)
 - [JavaScript - The Awful Parts](http://archive.oreilly.com/pub/a/javascript/excerpts/javascript-good-parts/awful-parts.html)
+- [Learning JavaScript](https://github.com/iangilman/learning-javascript)
 
 
 -----

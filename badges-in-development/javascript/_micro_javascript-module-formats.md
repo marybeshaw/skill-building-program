@@ -34,12 +34,13 @@ Choose one:
 ## Suggested Study
 
 ### Web
-- [ ] [CommonJS Module Format](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailcommonjs)
-- [ ] [ES6 Harmony Module Format](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailharmony)
-- [ ] [JavaScript Modules the ES6 Way](https://24ways.org/2014/javascript-modules-the-es6-way/)
+- [CommonJS Module Format](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailcommonjs)
+- [ES6 Harmony Module Format](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailharmony)
+- [JavaScript Modules the ES6 Way](https://24ways.org/2014/javascript-modules-the-es6-way/)
+- [Learning JavaScript](https://github.com/iangilman/learning-javascript)
 
 ### Video
-- [ ] [ES6: Modules Intro (1m)](https://www.youtube.com/watch?v=-Z6KThzGvK0)
+- [ES6: Modules Intro (1m)](https://www.youtube.com/watch?v=-Z6KThzGvK0)
 -----
 
   *Is this badge missing something? Submit a PR and review it with a master in this category*

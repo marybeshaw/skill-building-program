@@ -44,21 +44,22 @@ Choose one:
 
 
 ### Interactive
-- [ ] [Learn Harmony Lessons](http://learnharmony.org/)
-- [ ] [Count Up To Version 6: ES6 Features](https://github.com/domenic/count-to-6) (nodeschool-style)
-- [ ] [Tower of Babel: ES6 Features](https://github.com/yosuke-furukawa/tower-of-babel) (nodeschool-style)
-- [ ] [Learn ES6 Generators](https://github.com/isRuslan/learn-generators) (nodeschool-style)
-- [ ] [ESNext Generation Interactive Workshop](https://github.com/jesstelford/esnext-generation) (nodeschool-style)
-- [ ] [ES6 Katas: TDD-style ES6 exercises](http://es6katas.org/)
+- [Learn Harmony Lessons](http://learnharmony.org/)
+- [Count Up To Version 6: ES6 Features](https://github.com/domenic/count-to-6) (nodeschool-style)
+- [Tower of Babel: ES6 Features](https://github.com/yosuke-furukawa/tower-of-babel) (nodeschool-style)
+- [Learn ES6 Generators](https://github.com/isRuslan/learn-generators) (nodeschool-style)
+- [ESNext Generation Interactive Workshop](https://github.com/jesstelford/esnext-generation) (nodeschool-style)
+- [ES6 Katas: TDD-style ES6 exercises](http://es6katas.org/)
 
 
 ### Web
-- [ ] [ES6 Features](https://github.com/lukehoban/es6features)
-- [ ] [BabelJS: Learn ES2015](https://babeljs.io/docs/learn-es2015/)
+- [ES6 Features](https://github.com/lukehoban/es6features)
+- [BabelJS: Learn ES2015](https://babeljs.io/docs/learn-es2015/)
+- [Learning JavaScript](https://github.com/iangilman/learning-javascript)
 
 
 ### Video
-- [ ] [Egghead.io ES6 Lessons](https://egghead.io/technologies/es6)
+- [Egghead.io ES6 Lessons](https://egghead.io/technologies/es6)
 
 -----
 

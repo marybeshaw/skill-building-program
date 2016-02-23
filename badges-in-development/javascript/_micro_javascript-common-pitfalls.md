@@ -34,14 +34,15 @@ Choose one:
 ## Suggested Study
 
 ### Web
-- [ ] [JavaScript - The Awful Parts (10m)](http://archive.oreilly.com/pub/a/javascript/excerpts/javascript-good-parts/awful-parts.html)
-- [ ] [Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
-- [ ] [Type Checking (5m)](http://toddmotto.com/understanding-javascript-types-and-reliable-type-checking/)
-- [ ] [Type Detection (5m)](http://javascript.info/tutorial/type-detection)
+- [JavaScript - The Awful Parts (10m)](http://archive.oreilly.com/pub/a/javascript/excerpts/javascript-good-parts/awful-parts.html)
+- [Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
+- [Type Checking (5m)](http://toddmotto.com/understanding-javascript-types-and-reliable-type-checking/)
+- [Type Detection (5m)](http://javascript.info/tutorial/type-detection)
+- [Learning JavaScript](https://github.com/iangilman/learning-javascript)
 
 ### Video
-- [ ] [JS WAT (4m17s)](https://www.youtube.com/watch?v=FqhZZNUyVFM)
-- [ ] [JavaScript: The Good Parts: The Bad Parts (~10m, 11:28 to 21:55)](https://youtu.be/hQVTIJBZook?t=11m28s)
+- [JS WAT (4m17s)](https://www.youtube.com/watch?v=FqhZZNUyVFM)
+- [JavaScript: The Good Parts: The Bad Parts (~10m, 11:28 to 21:55)](https://youtu.be/hQVTIJBZook?t=11m28s)
 
 
 -----

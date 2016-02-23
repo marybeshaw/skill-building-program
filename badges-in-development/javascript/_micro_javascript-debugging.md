@@ -40,13 +40,14 @@ Choose one:
 ## Suggested Study
 
 ### Web
-- [ ] [Chrome JavaScript Debugger](https://developer.chrome.com/devtools/docs/javascript-debugging)
-- [ ] [Firefox JavaScript Debugger](https://developer.mozilla.org/en-US/docs/Tools/Debugger)
-- [ ] [Safari JavaScript Debugger](https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Debugger/Debugger.html)
+- [Chrome JavaScript Debugger](https://developer.chrome.com/devtools/docs/javascript-debugging)
+- [Firefox JavaScript Debugger](https://developer.mozilla.org/en-US/docs/Tools/Debugger)
+- [Safari JavaScript Debugger](https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Debugger/Debugger.html)
+- [Learning JavaScript](https://github.com/iangilman/learning-javascript)
 
 ### Video
-- [ ] [Debugging in Chrome Console](http://www.youtube.com/watch?v=asLAQrfMhyM)
-- [ ] [Debugging in Firefox Console](https://youtu.be/sK8KU8oiF8s)
+- [Debugging in Chrome Console](http://www.youtube.com/watch?v=asLAQrfMhyM)
+- [Debugging in Firefox Console](https://youtu.be/sK8KU8oiF8s)
 
 -----
 

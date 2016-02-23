@@ -60,6 +60,7 @@ Bonus (extremely difficult)
 - [Regular Expressions: Now You Have Two Problems](http://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/)
 - [Regular Expressions Cheat Sheet](https://www.debuggex.com/cheatsheet/regex/javascript)
 - [Using String Replace in JavaScript](https://davidwalsh.name/string-replace-javascript)
+- [Learning JavaScript](https://github.com/iangilman/learning-javascript)
 
 
 -----
