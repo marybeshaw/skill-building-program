@@ -19,7 +19,7 @@ Suggested Assignment(s)
 
 Choose one:
 
-1) Complete all tasks in the "LearnYouNode" NodeSchool.io interactive tutorial below
+1) Complete all tasks in the "LearnYouNode" NodeSchool.io interactive tutorial: [NodeSchool.io - LearnYouNode](https://github.com/workshopper/learnyounode)
 
 2) Demonstrate how you've done nearly all of the tasks in the tutorial above in your current work or side-projects
 

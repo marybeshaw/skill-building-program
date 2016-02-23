@@ -23,7 +23,7 @@ Suggested Assignment(s)
 Choose one:
 
 1) Demonstrate the following:
-- [ ] What ExpressJS is, and where it fits in the Frontier stack
+- [ ] ExplainWhat ExpressJS is, and where it fits in the Frontier stack
 - [ ] How to create a new Express app from scratch (can use generator)
 - [ ] Make a "Hello World" page on that Express app
 - [ ] Make another route that returns a JSON response object with proper content-type
@@ -32,7 +32,7 @@ Choose one:
 - [ ] Demonstrate proper error handling in an Express route
 - [ ] Swap out default template engine for another, and convert your hello world page to the new format
 
-2) Complete all exercises in the "ExpressWorks" NodeSchool.io interactive tutorial below
+2) Complete all exercises in the "ExpressWorks" NodeSchool.io interactive tutorial: [NodeSchool.io - ExpressWorks](https://github.com/azat-co/expressworks)
 
 3) Demonstrate how you've done most of the tasks above in your current work or side-projects
 
