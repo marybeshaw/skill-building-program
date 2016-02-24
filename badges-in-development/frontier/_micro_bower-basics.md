@@ -45,7 +45,7 @@ In your Frontier Skills app, do the following:
  - [ ] Explain the different pieces of a bower.json file.
  - [ ] Explain how `bower update` affects the bower.json file.
  
- 4) Demonstrate proficiency at the bower API
+4) Demonstrate proficiency at the bower API
  - [ ] Use three differenct API commands other than install, uninstall, init, or link.
 
 
