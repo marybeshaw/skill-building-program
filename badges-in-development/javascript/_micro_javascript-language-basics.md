@@ -43,6 +43,7 @@ Choose one:
 - [Chapter 2. Functions - O&#39;Reilly Media](http://chimera.labs.oreilly.com/books/1234000000262/ch02.html)
 - [JavaScript - The Awful Parts](http://archive.oreilly.com/pub/a/javascript/excerpts/javascript-good-parts/awful-parts.html)
 - [Learning JavaScript](https://github.com/iangilman/learning-javascript)
+- [Learning JavaScript Native Functions - Scotch.io](https://scotch.io/tutorials/learning-javascript-native-functions-and-how-to-use-them)
 
 
 -----
