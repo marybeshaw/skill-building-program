@@ -35,7 +35,7 @@ For more information on how Bower is used in Frontier, check out the [Bifröst D
   - [ ] Explain the different pieces of a bower.json file.
   - [ ] Use three differenct API commands other than install, uninstall, init, or link.
 
-2) Demonstrate that you have done nearly all of the above tasks in previous work
+2) Demonstrate that you have done all of the above tasks in previous work
 
 
 -----
