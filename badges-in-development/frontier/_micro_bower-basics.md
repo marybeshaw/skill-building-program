@@ -17,7 +17,7 @@ Est. to complete: 3hrs
 
 Bower is a way of installing and managing front-end packages in your apps. It works much like npm in how you install and reference packages. Bower has its own registry of packages accessible to all, but you can also use it to install a private github repo as a dependency. There's a bower.json file that works much like npm's package.json, and a .bowerrc file for managing what it does with your packages and where to put them.
 
-For more information on how Bower is used in Frontier, check out the [Bifröst Docs](https://github.com/fs-webdev/frontier-build-tools/blob/master/Bifrost.md#bower-and-3rd-party-libraries)
+For more information on how Bower is used in Frontier, check out the [Bifröst Docs (private)](https://github.com/fs-webdev/frontier-build-tools/blob/master/Bifrost.md#bower-and-3rd-party-libraries)
 
 -----
 
