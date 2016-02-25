@@ -42,7 +42,7 @@ In your Frontier Skills app, do the following:
 
 ### Web
 - The [Bower](http://bower.io/) Website has all the docs and api things you need to know.
-- [Bifröst Docs](https://github.com/fs-webdev/frontier-build-tools/blob/master/Bifrost.md#bower-and-3rd-party-libraries).
+- [Bifröst Docs (private)](https://github.com/fs-webdev/frontier-build-tools/blob/master/Bifrost.md#bower-and-3rd-party-libraries).
 - This [article](https://oncletom.io/2013/live-development-bower-component/) about `bower link`.
 - This [Guide](http://blog.teamtreehouse.com/getting-started-bower) on getting started with bower.
 - Another great [Intro](http://code.tutsplus.com/tutorials/meet-bower-a-package-manager-for-the-web--net-27774) on tutsplus.
