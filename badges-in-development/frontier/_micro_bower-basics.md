@@ -22,8 +22,9 @@ For more information on how Bower is used in Frontier, check out the [Bifröst D
 -----
 
 
-## Suggested Assignment
-In your Frontier Skills app, do the following:
+## Suggested Assignments
+
+### Complete one of the following:
 
 1) Demonstrate that you can show proficiency in Bower.
   - [ ] Install a package fromt the Bower registry.
@@ -33,6 +34,8 @@ In your Frontier Skills app, do the following:
   - [ ] Change two things in the .bowerrc file.
   - [ ] Explain the different pieces of a bower.json file.
   - [ ] Use three differenct API commands other than install, uninstall, init, or link.
+
+2) Demonstrate that you have done nearly all of the above tasks in previous work
 
 
 -----
