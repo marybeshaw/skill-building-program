@@ -25,7 +25,9 @@ Suggested Assignment(s)
 Choose one:
 
 1) Demonstrate the following:
+
 Git:  
+
 - [ ] Git config
 - [ ] Git remotes
 - [ ] Upstream tracking branch
@@ -36,7 +38,9 @@ Git:
 - [ ] Change Author info
 - [ ] Reflog
 - [ ] The Shortlog
+
 Github:  
+
 - [ ] Issues
 - [ ] Github pages
 - [ ] Collaborators & Teams
