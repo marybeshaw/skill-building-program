@@ -5,7 +5,7 @@ Frontier - ExpressJS Basics [Micro Badge]
 Goals:
 ------
 
-- You have demonstrated what ExpressJS is, and where it fits in the Frontier stack
+- You have demonstrated what ExpressJS is, and where it fits in a web stack
 - You should be aware of several of the common practices and techniques used with ExpressJS
 
 Intro
@@ -23,7 +23,7 @@ Suggested Assignment(s)
 Choose one:
 
 1) Demonstrate the following:
-- [ ] ExplainWhat ExpressJS is, and where it fits in the Frontier stack
+- [ ] ExplainWhat ExpressJS is, and where it fits in a web stack
 - [ ] How to create a new Express app from scratch (can use generator)
 - [ ] Make a "Hello World" page on that Express app
 - [ ] Make another route that returns a JSON response object with proper content-type
