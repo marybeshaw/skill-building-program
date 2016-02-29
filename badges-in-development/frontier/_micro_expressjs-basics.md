@@ -23,7 +23,7 @@ Suggested Assignment(s)
 Choose one:
 
 1) Demonstrate the following:
-- [ ] ExplainWhat ExpressJS is, and where it fits in a web stack
+- [ ] Explain what ExpressJS is, and where it fits in a web stack
 - [ ] How to create a new Express app from scratch (can use generator)
 - [ ] Make a "Hello World" page on that Express app
 - [ ] Make another route that returns a JSON response object with proper content-type
