@@ -32,9 +32,10 @@ Choose one:
 - [ ] Demonstrate proper error handling in an Express route
 - [ ] Swap out default template engine for another, and convert your hello world page to the new format
 
-2) Complete all exercises in the "ExpressWorks" NodeSchool.io interactive tutorial: [NodeSchool.io - ExpressWorks](https://github.com/azat-co/expressworks)
+2) Demonstrate how you've done most of the tasks above in your current work or side-projects
 
-3) Demonstrate how you've done most of the tasks above in your current work or side-projects
+3) Complete all exercises in the "ExpressWorks" NodeSchool.io interactive tutorial: [NodeSchool.io - ExpressWorks](https://github.com/azat-co/expressworks)
+
 
 
 Suggested Study
