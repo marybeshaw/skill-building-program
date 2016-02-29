@@ -54,3 +54,47 @@ and eventually documentation sources if all else fails. The
 skill-building-program is meant to be fun and interactive first. We work best
 when standing on the shoulders of giants, so try to find the industry's best
 content before making your own if possible.
+
+
+## Some of our favorite content sources
+
+### Interactive tutorials:
+
+- [NodeSchool](http://nodeschool.io/)
+- [The Odin Project (all free)](http://www.theodinproject.com/courses)
+- [Udacity (Select only free courses](https://www.udacity.com/courses/all)
+- [Udemy (Only the free courses)](https://www.udemy.com/courses/)
+- [Codecademy Some courses and parts of courses are free](https://www.codecademy.com/learn)
+- [Khan Academy - Computer Programming](https://www.khanacademy.org/computing/computer-programming)
+- [Learn to Code (Indexes some other great tutorials. Very beginner-level)](http://www.webdesigndegreecenter.org/learn-to-code/)
+
+### Videos:
+
+- [LevelUpTuts Youtube channel](https://www.youtube.com/user/LevelUpTuts)
+- [Learn Code Academy](https://www.youtube.com/user/learncodeacademy)
+- [CodeCourse - Youtube Channel](https://www.youtube.com/user/phpacademy)
+- [DevTips - Youtube Channel](https://www.youtube.com/user/DevTipsForDesigners)
+- [NewCircle Training - Youtube Channel](https://www.youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g)
+- [O'Reilly - Youtube Channel](https://www.youtube.com/channel/UC3BGlwmI-Vk6PWyMt15dKGw)
+- [DotConferences - Youtube Channel](https://www.youtube.com/channel/UCSRhwaM00ay0fasnsw6EXKA)
+- [Envato Tuts+ - Youtube Channel](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q)
+- [JavaScript Planet - Youtube Channel](https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/videos)
+- [SF HTML5 - Youtube Channel](https://www.youtube.com/channel/UCyupHmJVuUGpCMzemHYnUqQ)
+- [LiveCoding streams](https://www.livecoding.tv/livestreams/)
+
+### Web Articles:
+
+- [HTML5Rocks](http://www.html5rocks.com/)
+- [Google Developers](https://developers.google.com/web/updates/2015/12/security-panel)
+- [HTML5 Doctor](http://html5doctor.com/)
+- [CSS Tricks](https://css-tricks.com/)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [Sitepoint](http://www.sitepoint.com/)
+- [A List Apart](http://alistapart.com/) (UX, Design, and some code)
+- [Code - TutsPlus](http://code.tutsplus.com/)
+
+### Documentation:
+
+- [Mozilla Developer Network](https://developer.mozilla.org/)
+- [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [RefCards](https://dzone.com/refcardz)
