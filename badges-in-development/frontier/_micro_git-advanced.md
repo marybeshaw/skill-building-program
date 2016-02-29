@@ -15,7 +15,6 @@ Intro
 
 > Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. - Git docs
 
-Express.js is a Node.js framework. It handles routing, middleware, etc. It has very widespread adoption in the industry, and works really well. It has a clean & minimalist API and enables us to get a lot of work done very quickly. It also has pretty clear docs, once you grasp the underlying principles.
 
 
 
