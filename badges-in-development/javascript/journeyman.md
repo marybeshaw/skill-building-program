@@ -25,7 +25,7 @@ Estimated time: 7hr
   - [ ] Promises, including: [NodeSchool: Promise It Won't Hurt (~1h)](https://github.com/stevekane/promise-it-wont-hurt) (nodeschool-style)
   - [ ] IIFE's & Closures
   - [ ] JS Performance
-  - [ ] Regular Expressions
+  - [ ] [Regular Expressions](_micro_regex.md)
   - [ ] Using the VanillaJS Library
 
 

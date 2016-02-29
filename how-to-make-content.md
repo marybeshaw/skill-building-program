@@ -56,7 +56,7 @@ when standing on the shoulders of giants, so try to find the industry's best
 content before making your own if possible.
 
 
-## Some of our favorite content sources
+## Some of our favorite free content sources
 
 ### Interactive tutorials:
 
