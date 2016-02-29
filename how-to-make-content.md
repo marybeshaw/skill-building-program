@@ -64,7 +64,8 @@ content before making your own if possible.
 - [The Odin Project (all free)](http://www.theodinproject.com/courses)
 - [Udacity (Select only free courses](https://www.udacity.com/courses/all)
 - [Udemy (Only the free courses)](https://www.udemy.com/courses/)
-- [Codecademy Some courses and parts of courses are free](https://www.codecademy.com/learn)
+- [Codecademy - Some courses and parts of courses are free](https://www.codecademy.com/learn)
+- [CodeSchool - Some courses and parts of courses are free](https://www.codeschool.com/learn)
 - [Khan Academy - Computer Programming](https://www.khanacademy.org/computing/computer-programming)
 - [Learn to Code (Indexes some other great tutorials. Very beginner-level)](http://www.webdesigndegreecenter.org/learn-to-code/)
 
@@ -86,6 +87,7 @@ content before making your own if possible.
 
 - [Bento Grid](https://www.bento.io/grid)
 - [Bento Tracks](https://www.bento.io/tracks)
+- [Dive Into HTML5](http://diveintohtml5.info/)
 - [HTML5Rocks](http://www.html5rocks.com/)
 - [Google Developers](https://developers.google.com/web/updates/2015/12/security-panel)
 - [HTML5 Doctor](http://html5doctor.com/)
