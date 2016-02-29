@@ -28,7 +28,8 @@ Choose one:
 - [ ] Explain & Demonstrate how to follow the "Github Flow"
 - [ ] Demonstrate a "Pull Request" and explain why it's used
 - [ ] Demonstrate "Forking"
-- [ ] Demonstrate you can do some command-line basics of Git, and explain what they do. (`.gitignore, add, branch, checkout, clone, commit, diff, init, log, merge, pull, push, rebase, reset, rm, status`)
+- [ ] Demonstrate how to use a `.gitignore` file, and what it does
+- [ ] Demonstrate you can do some command-line basics of Git, and explain what they do. (`add, branch, checkout, clone, commit, diff, init, log, merge, pull, push, rebase, reset, rm, status`)
 
 
 Suggested Study
