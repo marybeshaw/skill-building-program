@@ -87,6 +87,7 @@ content before making your own if possible.
 
 - [Bento Grid](https://www.bento.io/grid)
 - [Bento Tracks](https://www.bento.io/tracks)
+- [Web Platform](http://www.webplatform.org/)
 - [Dive Into HTML5](http://diveintohtml5.info/)
 - [HTML5Rocks](http://www.html5rocks.com/)
 - [Google Developers](https://developers.google.com/web/updates/2015/12/security-panel)

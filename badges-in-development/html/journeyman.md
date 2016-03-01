@@ -22,7 +22,7 @@ Estimated time: {8-16}hr
 
 **Elements**
 
-- [ ] Multimedia
+- [ ] [Multimedia](_micro_multimedia.md)
 
 **Browser APIs**
 
