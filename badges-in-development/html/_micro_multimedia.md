@@ -47,6 +47,7 @@ Suggested Study
   ##### Audio
   
   - [audio - Can I Use?](http://caniuse.com/#search=audio)
+  - [Web Audio API - Browser APIs](http://browserapis.wtf/browserapis/audio.html)
   - [adio element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
   - [Using HTML5 adio and video - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
   - [Native Aduio in the Browser - HTML5 Doctor](http://html5doctor.com/native-audio-in-the-browser/)
@@ -67,6 +68,7 @@ Suggested Study
 #### Camera API
 
 - [Camera - Can I Use?](http://caniuse.com/#search=camera)
+- [Media Stream API - Browser API](http://browserapis.wtf/browserapis/mediastream.html)
 - [Camera API Introduction - MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/API/Camera_API/Introduction)
 - [Intro to getUserMedia - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/getusermedia/intro/)
 - [Browser-Camera - David Walsh](https://davidwalsh.name/browser-camera)
