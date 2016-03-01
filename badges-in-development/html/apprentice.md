@@ -21,18 +21,13 @@ Estimated time: {3-6}hr
 ### Earn all of these:
 
 **Elements**
-- [ ] Semantic HTML5 Elements
-- [ ] Picture Element, srcset
-- [ ] Multimedia
-- [ ] SVG
+
+- [ ] [Semantic HTML5 Elements](_micro_semantic-html5-elements.md)
+- [ ] [Picture Element & srcset](_micro_picture-element-srcset.md)
+- [ ] [SVG](_micro_svg.md)
 
 **Browser APIs**
-- [ ] Connectivity
-- [ ] Storage
-- [ ] Offline & Service Workers
-- [ ] Graphics
-- [ ] Integration Features
-- [ ] Performance Features
+
 - [ ] Device Access
 
 

@@ -25,13 +25,13 @@ Choose one:
 
 1) Demonstrate the following:
 - [ ] Explain what ExpressJS is, and where it fits in a web stack
-- [ ] How to create a new Express app from scratch (can use generator)
-- [ ] Make a "Hello World" page on that Express app
+- [ ] Create a new Express app from scratch (you may use the [Express generator](http://expressjs.com/en/starter/generator.html))
+- [ ] Make a "Hello World" page in the Express app
 - [ ] Make another route that returns a JSON response object with proper content-type
 - [ ] Create a new static file serve directory, or change the default one's local dir path config
-- [ ] Make a middleware that logs something on every request your server receives.
+- [ ] Make a middleware that logs something on every request your server receives
 - [ ] Demonstrate proper error handling in an Express route
-- [ ] Swap out default template engine for another, and convert your hello world page to the new format
+- [ ] Swap out the default template engine for another, and convert your hello world page to the new format
 
 
 2) Demonstrate how you've done most of the tasks from #1 in your current work or side-projects

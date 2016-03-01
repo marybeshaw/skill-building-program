@@ -1,9 +1,9 @@
 # JavaScript - Journeyman [Composite]
 
-![JavaScript - Journeyman Badge](../img/badges/perf-journeyman-md.png "JavaScript Journeyman badge")
+{{ New badge image goes here }}
 <!-- TODO: create new javascript badges for v2, to be consistent -->
 
-Estimated time: 7hr
+Estimated time: {3-6}hr
 
 -----
 
