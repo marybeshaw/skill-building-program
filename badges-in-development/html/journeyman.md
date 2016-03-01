@@ -26,7 +26,7 @@ Estimated time: {8-16}hr
 
 **Browser APIs**
 
-- [ ] Storage
+- [ ] [Storage](_micro_storage.md)
 - [ ] Integration Features
 - [ ] Graphics & Effects
 - [ ] Offline & Service Workers
