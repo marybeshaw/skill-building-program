@@ -56,6 +56,10 @@ Choose one:
 - [Douglas Crockford: "Advanced JavaScript" (3 of 3) [M4V download]](http://yui.zenfs.com/theater/crockford-advancedjavascript-3.m4v)
 
 ### Web
+- [A Re-Introduction to JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [JavaScript Garden - Bonsaiden](http://bonsaiden.github.io/JavaScript-Garden/)
+- [JavaScript Info](http://javascript.info/)
+- [JS The Right Way](http://jstherightway.org/)
 - [Eloquent JS - Program Structure](http://eloquentjavascript.net/02_program_structure.html)
 - [JavaScript Guide - JavaScript | MDN - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Chapter 2. Functions - O&#39;Reilly Media](http://chimera.labs.oreilly.com/books/1234000000262/ch02.html)

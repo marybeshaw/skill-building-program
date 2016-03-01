@@ -6,7 +6,7 @@ Goals:
 ------
 
 - You have demonstrated the basic foundational knowledge in HTML5 Storage.
-- You should have some experience using HTML5 Audio and Video Elements, with Track or WebVTT captions for video. You should also have some experience using the HTML5 Camera API.
+- You should have some experience using HTML5 Web Storage such as localStorage, sessionStorage, IndexedDB, and File and FileReader API's.
 
 
 Intro
