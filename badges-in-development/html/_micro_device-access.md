@@ -1,4 +1,4 @@
-Frontier - Device Access [Micro Badge]
+HTML - Device Access [Micro Badge]
 =================================================
 
 
@@ -12,7 +12,7 @@ Goals:
 Intro
 -----
 
-> Mobile devices such as smartphones and tablets usually have a capacitive touch-sensitive screen to capture interactions made with the user's fingers. As the mobile web evolves to enable increasingly sophisticated applications, web developers need a way to handle these events. For example, nearly any fast-paced game requires the player to press multiple buttons at once, which, in the context of a touchscreen, implies multi-touch. - [Multi-touch Web Development](http://www.html5rocks.com/en/mobile/touch/)
+> Many new computers, mobile phones and other devices are now shipping standard with accelerometers, gyroscopes, compasses and other hardware designed to determine capture motion and orientation data. At the same time, web browsers are providing increasingly more access to that new hardware. One example of that are the new HTML5 DeviceOrientation and DeviceMotion events. These events provide developers with information about the orientation, motion and acceleration of the device. - [This End Up - Using Device Orientation](http://www.html5rocks.com/en/tutorials/device/orientation/)
 
 
 

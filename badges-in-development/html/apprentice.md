@@ -28,7 +28,7 @@ Estimated time: {3-6}hr
 
 **Browser APIs**
 
-- [ ] Device Access
+- [ ] [Device Access](_micro_device-access.md)
 
 
 -----

@@ -1,4 +1,4 @@
-Frontier - Semantic HTML5 Elements [Micro Badge]
+HTML - Semantic HTML5 Elements [Micro Badge]
 ==============================================
 
 
