@@ -21,10 +21,13 @@ Suggested Assignment(s)
 
 Choose one:
 
-1) Demonstrate the following:  
-- (some project requirement things that include using HTML5 audio, video, and Camera API)
+1) Make a creative project that demonstrates the following (check compatibility):  
+- [ ] HTML5 `<audio>` element
+- [ ] HTML5 `<video>` element
+- [ ] HTML5 `<track>` or WebVTT captions on your video
+- [ ] HTML5 Camera API (`getUserMedia`)
  
-2) Demonstrate how you've done nearly all of #1 in your work or side-work
+2) Demonstrate how you've done all of #1 in your work or side-work
 
 3) Something else creative that proves you are totally legit in this topic
 
@@ -33,6 +36,7 @@ Suggested Study
 ---------------
 
 ### Interactive
+
 - [Web Audio School - Nodeschool (Goes waaaaay beyond this badge's requirements, but is really cool)](https://github.com/mmckegg/web-audio-school)
 
 ### Video
@@ -44,7 +48,7 @@ Suggested Study
 
 #### HTML5 audio and video
 		
-  ##### Audio
+##### Audio
   
   - [audio - Can I Use?](http://caniuse.com/#search=audio)
   - [Web Audio API - Browser APIs](http://browserapis.wtf/browserapis/audio.html)
@@ -52,14 +56,14 @@ Suggested Study
   - [Using HTML5 adio and video - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
   - [Native Aduio in the Browser - HTML5 Doctor](http://html5doctor.com/native-audio-in-the-browser/)
   	
-  ##### Video
+##### Video
   
   - [video - Can I Use?](http://caniuse.com/#search=video)
   - [Video Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
   - [Video Basics - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/video/basics/)
   - [Video element spec - w3.org](https://www.w3.org/TR/html-markup/video.html)
 
-  ##### track, WebVTT (captions for html5 video**)
+##### track, WebVTT (captions for html5 video**)
   
   - [WebVTT - Can I Use?](http://caniuse.com/#feat=webvtt)
   - [Track Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track)

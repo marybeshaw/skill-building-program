@@ -28,16 +28,21 @@ Est. to complete: {X}hr (recommended: 1-6hrs per micro)
 *(These should have more project-based requirements in Journeyman level)*
 *(Always try to make assignments based on existing interactive tutorials (like NodeSchool) first, when available)*
 
-1) Demonstrate the following:
+1) Make a creative project that demonstrates the following: 
   - [ ] Some project requirement things that fulfill the goals above
   - [ ] Some project requirement things that fulfill the goals above
   - [ ] Some project requirement things that fulfill the goals above
 
-2) (If Available) Complete all of the tasks in an interactive tutorial that covers this micro's goals: {{ tutorial url }} 
+2) Demonstrate the following:
+  - [ ] Some project requirement things that fulfill the goals above
+  - [ ] Some project requirement things that fulfill the goals above
+  - [ ] Some project requirement things that fulfill the goals above
 
-3) Demonstrate how you've done nearly all of #1 in your work or side-work
+3) (If Available) Complete all of the tasks in an interactive tutorial that covers this micro's goals: {{ tutorial url }} 
 
-4) Something else creative that proves you are totally legit in this topic
+4) Demonstrate how you've done nearly all of #1 in your work or side-work
+
+5) Something else creative that proves you are totally legit in this topic
 
 
 -----

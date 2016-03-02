@@ -21,7 +21,7 @@ Suggested Assignment(s)
 
 Choose one:
 
-1) Make a creative project that demonstrates:  
+1) Make a creative project that demonstrates the following (check compatibility):  
 - [ ] Fullscreen API
 - [ ] History API
 - [ ] ContentEditable
