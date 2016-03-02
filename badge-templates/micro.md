@@ -7,8 +7,8 @@
 Est. to complete: {X}hr (recommended: 1-6hrs per micro)
 
 ## Goals
-- You have demonstrated foundational knowledge in {Skill Category}.
-- You should have some experience working with widgets, bananas, and porcupines.
+- You have demonstrated foundational knowledge in {Skill Category}. (A knowledge finish-line)
+- You should have some experience working with widgets, bananas, and porcupines. (An experience finish-line)
 
 
 -----

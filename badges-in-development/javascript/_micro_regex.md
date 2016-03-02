@@ -51,6 +51,7 @@ Bonus (extremely difficult)
 
 ### Interactive
 - [RegexOne](http://regexone.com/)
+- [Regex Adventure - Nodeschool](https://github.com/substack/regex-adventure)
 
 ### Regex Testers
 - [RegExr](http://regexr.com/)
