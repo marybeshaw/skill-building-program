@@ -29,12 +29,12 @@ Estimated time: {8-16}hr
 - [ ] [Storage](_micro_storage.md)
 - [ ] [Integration Features](_micro_integration-features.md)
 - [ ] [Offline & Service Workers](_micro_offline-service-workers.md)
-- [ ] Connectivity
-- [ ] Performance Features
+- [ ] [Connectivity](_micro_connectivity.md)
+- [ ] [Performance Features](_micro_performance-features.md)
 
 
 ### Once above are met, then earn 1 of these:
-- [ ] Graphics & Effects
+- [ ] [Graphics & Effects](_micro_graphics-effects.md)
 - [ ] HTML EXPLORER
 
 -----

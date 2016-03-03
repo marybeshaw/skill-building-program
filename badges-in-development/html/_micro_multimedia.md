@@ -47,12 +47,14 @@ Suggested Study
 ### Web
 
 #### HTML5 audio and video
+
+- [Pro HTML5 Programming:  Chapter 4: Working With Audio and Video](http://apress.jensimmons.com/v5/pro-html5-programming/ch4.html)
 		
 ##### Audio
   
   - [audio - Can I Use?](http://caniuse.com/#search=audio)
   - [Web Audio API - Browser APIs](http://browserapis.wtf/browserapis/audio.html)
-  - [adio element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
+  - [Audio Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
   - [Using HTML5 adio and video - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
   - [Native Aduio in the Browser - HTML5 Doctor](http://html5doctor.com/native-audio-in-the-browser/)
   	

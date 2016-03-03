@@ -60,6 +60,7 @@ Suggested Study
 
 - [Using Geolocation - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
 - [Geolocation API - Browser APIs](http://browserapis.wtf/browserapis/geolocation.html)
+- [Pro HTML5 Programming - Chapter 5: Using the Geolocation API](http://apress.jensimmons.com/v5/pro-html5-programming/ch5.html)
 
 #### Device Orientation
 

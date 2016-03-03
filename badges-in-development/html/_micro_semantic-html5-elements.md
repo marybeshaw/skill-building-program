@@ -6,7 +6,7 @@ Goals:
 ------
 
 - You have demonstrated the basic foundations in Semantic HTML5 Elements.
-- You should be aware of tons, and exercised in several of the often-used semantic elements
+- You should be aware of tons, and exercised in several of the often-used semantic elements and HTML5 forms.
 
 
 Intro
@@ -26,6 +26,7 @@ Choose one:
 1) Demonstrate the following:  
 - (some things about new HTML5 elements)  
 - (some things about HTML5 semantic usage)
+- (some things about HTML5 forms usage)
  
 2) Demonstrate how you've done nearly all of #1 in your work or side-work
 
@@ -44,6 +45,10 @@ Suggested Study
 - [Let's Talk About Semantics - HTML5 Doctor](http://html5doctor.com/lets-talk-about-semantics/)
 - [HTML5 Semantics - Smashing Mag](https://www.smashingmagazine.com/2011/11/html5-semantics/)
 - [The Importance of Sections - Smashing Mag](https://www.smashingmagazine.com/2013/01/the-importance-of-sections/)
+
+#### Forms
+
+- [Pro HTML5 Programming: Chapter 8, Using the Forms API](http://apress.jensimmons.com/v5/pro-html5-programming/ch8.html)
 
 
 -----

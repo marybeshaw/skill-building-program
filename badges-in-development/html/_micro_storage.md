@@ -43,6 +43,7 @@ Suggested Study
 - [HTML5 Ffeatures: Storage - HTML5 Rocks](http://www.html5rocks.com/en/features/storage)
 - [Client-side Storage - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/offline/storage/)
 - [Browser Persistence Best Practices](http://jakobanderson.com/browser-persistence-best-practices/)
+- [Pro HTML5 Programming: Chapter 11, Using the Web Storage API](http://apress.jensimmons.com/v5/pro-html5-programming/ch11.html)
 
   #### localStorage / sessionStorage 
 

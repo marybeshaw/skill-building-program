@@ -62,6 +62,7 @@ Suggested Study
   - [HTML Drag and Drop API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
   - [Native Drag and Drop - HTML5 Doctor](http://html5doctor.com/native-drag-and-drop/)
   - [Uploading Files with XMLHttpRequest - Mozilla Hacks](https://hacks.mozilla.org/2009/12/uploading-files-with-xmlhttprequest/)
+  - [Pro HTML5 Programming, Chapter 9: Working with HTML5 Drag-and-Drop](http://apress.jensimmons.com/v5/pro-html5-programming/ch9.html)
   
 #### Focus Management
   
