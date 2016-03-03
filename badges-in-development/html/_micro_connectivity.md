@@ -56,7 +56,7 @@ Suggested Study
 - [Pro HTML5 Programming: Chapter 6: Using the Communication APIs](http://apress.jensimmons.com/v5/pro-html5-programming/ch6.html)
 
 
-  #### Web Sockets
+#### Web Sockets
 
   - [Web Sockets - Can I Use?](http://caniuse.com/#search=web%20sockets)
   - [Introducing WebSockets: Bringing Sockets to the Web - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/websockets/basics/)
@@ -69,7 +69,7 @@ Suggested Study
   - [Building Multiplayer HTML5 Games with Cloak - Bocoup blog](https://bocoup.com/weblog/building-multiplayer-html5-games-with-cloak)
   - [Pro HTML5 Programming: Chapter 7: Using the WebSocket API](http://apress.jensimmons.com/v5/pro-html5-programming/ch7.html)
       
-  #### Server-sent Events
+#### Server-sent Events
 
   - [Server-sent Events - Can I Use?](http://caniuse.com/#search=server-sent%20events)
   - [Using Server-sent Events - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)
@@ -79,7 +79,7 @@ Suggested Study
   - [Server-sent Events With Node.js (Express) - Tom Kersten](https://tomkersten.com/articles/server-sent-events-with-node/)
   - [Implementing Push Technology Using Server-Sent Events - Sitepoint](http://www.sitepoint.com/implementing-push-technology-using-server-sent-events/)
       
-  #### WebRTC
+#### WebRTC
 
   - [WebRTC - Can I Use?](http://caniuse.com/#search=webrtc)
   - [WebRTC Guide - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/API/WebRTC)
@@ -97,7 +97,7 @@ Suggested Study
   - [Webrtc in the Real World: Stun, Turn, And Signaling - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webrtc/infrastructure/)
   - [WebRTC Storage & Playback Tutorial for Realtime Apps - PubNub](https://www.pubnub.com/docs/webrtc-javascript/storage-and-history)
       
-  #### XMLHttpRequest Advanced Features (XHR2)
+#### XMLHttpRequest Advanced Features (XHR2)
     
   - [XHR2 - Can I Use?](http://caniuse.com/#feat=xhr2)
   - [XHR2 - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/file/xhr2/)
@@ -106,7 +106,7 @@ Suggested Study
   - [New Tricks in XMLHttpRequest2 - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/file/xhr2/)
   - [Introduction to XMLHttpRequest Level 2 - Opera Dev](https://dev.opera.com/articles/xhr2/)
       
-  #### Fetch API
+#### Fetch API
     
   - [Fetch API - Can I Use?](http://caniuse.com/#search=fetch)
   - [That's So Fetch! - Jake Archibald](https://jakearchibald.com/2015/thats-so-fetch/)
@@ -131,12 +131,12 @@ Suggested Study
 
 ### Tools
 
-  #### WebSockets
+#### WebSockets
 
   - [Pusher.com](https://pusher.com/)
   - [Socket.IO](http://socket.io/)
 
-  #### WebRTC
+#### WebRTC
 
   - [WebRTC Experiments & Demos](https://www.webrtc-experiment.com/)
 

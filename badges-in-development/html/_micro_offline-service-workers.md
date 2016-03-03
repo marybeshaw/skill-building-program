@@ -50,14 +50,14 @@ Suggested Study
 
 ### Web
 
-  #### Online and offline events
+#### Online and offline events
 
   - [Offline - Can I Use?](http://caniuse.com/#search=offline)
   - [Online And Offline Events - MDN](https://developer.mozilla.org/en-US/docs/Online_and_offline_events)
   - [Simple Offline Event Test Case](https://bug336359.bmoattachments.org/attachment.cgi?id=220609)
   - [What's offline? - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/offline/whats-offline/)
 
-  #### Service Workers
+#### Service Workers
 
   - [Is Service Worker Ready? - Jake Archibald](https://jakearchibald.github.io/isserviceworkerready/)
   - [Service Worker Resources - Jake Archibald](https://jakearchibald.github.io/isserviceworkerready/resources.html)

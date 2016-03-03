@@ -54,11 +54,11 @@ Suggested Study
 
 ### Web
 
-  #### HTML5 audio and video
+#### HTML5 audio and video
 
   - [Pro HTML5 Programming:  Chapter 4: Working With Audio and Video](http://apress.jensimmons.com/v5/pro-html5-programming/ch4.html)
   	
-  ##### Audio
+##### Audio
 
   - [audio - Can I Use?](http://caniuse.com/#search=audio)
   - [Web Audio API - Browser APIs](http://browserapis.wtf/browserapis/audio.html)
@@ -66,20 +66,20 @@ Suggested Study
   - [Using HTML5 adio and video - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
   - [Native Aduio in the Browser - HTML5 Doctor](http://html5doctor.com/native-audio-in-the-browser/)
   	
-  ##### Video
+##### Video
 
   - [video - Can I Use?](http://caniuse.com/#search=video)
   - [Video Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
   - [Video Basics - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/video/basics/)
   - [Video element spec - w3.org](https://www.w3.org/TR/html-markup/video.html)
 
-  ##### track, WebVTT (captions for html5 video**)
+##### track, WebVTT (captions for html5 video**)
 
   - [WebVTT - Can I Use?](http://caniuse.com/#feat=webvtt)
   - [Track Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track)
   - [Web Video Text Tracks Format - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Video_Text_Tracks_Format)
 
-  #### Camera API
+#### Camera API
 
   - [Camera - Can I Use?](http://caniuse.com/#search=camera)
   - [Media Stream API - Browser API](http://browserapis.wtf/browserapis/mediastream.html)

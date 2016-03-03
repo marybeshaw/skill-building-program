@@ -50,7 +50,7 @@ Suggested Study
 - [Browser Persistence Best Practices](http://jakobanderson.com/browser-persistence-best-practices/)
 - [Pro HTML5 Programming: Chapter 11, Using the Web Storage API](http://apress.jensimmons.com/v5/pro-html5-programming/ch11.html)
 
-  #### localStorage / sessionStorage 
+#### localStorage / sessionStorage 
 
   - [Quota Research - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/offline/quota-research/)
   - [localStorage - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
@@ -61,7 +61,7 @@ Suggested Study
   - [localForage: Offline Storage, Improved - Mozilla Hacks](https://hacks.mozilla.org/2014/02/localforage-offline-storage-improved/)
   - [Using localForage For Offline Data Storage - Treehouse Blog](http://blog.teamtreehouse.com/using-localforage-offline-data-storage)
 
-  #### IndexedDB
+#### IndexedDB
 
   - [IndexedDB - MDN](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
   - [IndexedDB - MDN](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB)
@@ -72,7 +72,8 @@ Suggested Study
   - [Working with IndexedDB part 2 - Tuts+](http://code.tutsplus.com/tutorials/working-with-indexeddb-part-2--net-35355)
   - [Create Your Own TODO App with HTML5 and IndexedDB - Treehouse Blog](http://blog.teamtreehouse.com/create-your-own-to-do-app-with-html5-and-indexeddb)
 
-  #### File & FileReader API (not FileSystem, since it is chrome-only, and will not be implemented by other browsers)
+#### File & FileReader API (not FileSystem, since it is chrome-only, and will not be implemented by other browsers)
+
   - [fileReader - Can I Use?](http://caniuse.com/#search=filereader)
   - [fileAPI - Can I Use?](http://caniuse.com/#search=fileapi)
   - [Using Files From Web Applications - MDN](https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications)

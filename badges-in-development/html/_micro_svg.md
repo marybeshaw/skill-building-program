@@ -63,6 +63,7 @@ Suggested Study
 
 
 ### Tools
+
 - [SVGOMG - Jake Archibald](https://jakearchibald.github.io/svgomg/)
 
 

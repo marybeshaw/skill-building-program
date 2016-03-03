@@ -54,24 +54,25 @@ Suggested Study
 - [Generic Sensor API - w3c](https://w3c.github.io/sensors/)
 - [Browser APIs](http://browserapis.wtf/)
 
-  #### Touch events
+#### Touch events
 
   - [Touch Events - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
   - [Mobile Touch - HTML5 Rocks](http://www.html5rocks.com/en/mobile/touch/)
   - [Mobile Touch and Mouse - HTML5 Rocks](http://www.html5rocks.com/en/mobile/touchandmouse/)
 
-  #### Geolocation
+#### Geolocation
 
   - [Using Geolocation - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
   - [Geolocation API - Browser APIs](http://browserapis.wtf/browserapis/geolocation.html)
   - [Pro HTML5 Programming - Chapter 5: Using the Geolocation API](http://apress.jensimmons.com/v5/pro-html5-programming/ch5.html)
 
-  #### Device Orientation
+#### Device Orientation
 
   - [Detecting Device Orientation](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
   - [Device Orientation API - Browser APIs](http://browserapis.wtf/browserapis/deviceorientation.html)
 
-  #### Vibration
+#### Vibration
+  
   - [Vibration API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API)
   - [Vibration API - David Walsh](https://davidwalsh.name/vibration-api)
   - [HTML5 Vibration API - Tuts+](http://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585)
@@ -79,7 +80,8 @@ Suggested Study
   - [Use HTML5 Vibration API](http://www.sitepoint.com/use-html5-vibration-api/)
   - [Vibration API - Browser APIs](http://browserapis.wtf/browserapis/vibration.html)
 
-  #### Ambient Light
+#### Ambient Light
+
   - [Ambient Light API - Browser APIs](http://browserapis.wtf/browserapis/ambient.html)
   - [Introduction to the Ambient Light API - Modern Web](http://modernweb.com/2014/05/27/introduction-to-the-ambient-light-api/)
   - [Mobile Web Superpowers: Ambient Light API - Sitepoint](http://www.sitepoint.com/mobile-web-superpowers-ambient-light-api/)
@@ -90,12 +92,14 @@ Suggested Study
   - [Ambient Light Spec repo - w3c](https://github.com/w3c/ambient-light)
   - [Ambient Light Example - John Wu](https://github.com/tjwudi/ambient-light-example)
 
-  #### Proximity
+#### Proximity
+
   - [Introducing Proximity API](http://www.sitepoint.com/introducing-proximity-api/)
   - [PRoximity Events - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Proximity_Events)
   - [The Proximity API - Mozilla Hacks](https://hacks.mozilla.org/2013/06/the-proximity-api/)
 
-  #### Battery Status
+#### Battery Status
+
   - [Battery Status - Browser APIs](http://browserapis.wtf/browserapis/batterystatus.html)
   - [Battery Status API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API)
   - [Battery API - DAvid Walsh](https://davidwalsh.name/battery-api)
