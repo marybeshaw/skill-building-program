@@ -32,11 +32,12 @@ Choose one:
 Suggested Study
 ---------------
 
-### Interactive
-
-
 ### Video
 - [A Working online to-do list in 60 seconds - Tuts+](http://www.screenr.com/AaM)
+
+
+-----
+
 
 ### Web
 

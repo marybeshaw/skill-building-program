@@ -24,9 +24,16 @@ Suggested Assignment(s)
 Choose one:
 
 1) Demonstrate the following:  
-- (some project requirement things that include picture element and srcset)
+- [ ] `<picture> element`
+- [ ] `srcset` attribute
+- [ ] At different page widths
+- [ ] At different pixel ratios
+- [ ] With `.webp` detection and conditional loading
+- [ ] Working img fallback for browsers that don't support `srcset` or `<picture>`
  
-2) Demonstrate how you've done nearly all of #1 in your work or side-work
+2) Demonstrate how you've done all of #1 in your work or side-work
+
+3) Something else creative that proves you are totally legit in this topic
 
 
 Suggested Study

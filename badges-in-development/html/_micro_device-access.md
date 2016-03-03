@@ -42,6 +42,10 @@ Suggested Study
 
 - [Battery Status - jsfiddle](http://jsfiddle.net/0GiS0/pdtsf/)
 
+
+-----
+
+
 ### Web
 
 - [Exploring the JavaScript Device APIs](http://blog.teamtreehouse.com/exploring-javascript-device-apis)

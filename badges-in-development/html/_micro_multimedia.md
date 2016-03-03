@@ -39,10 +39,18 @@ Suggested Study
 
 - [Web Audio School - Nodeschool (Goes waaaaay beyond this badge's requirements, but is really cool)](https://github.com/mmckegg/web-audio-school)
 
+
+-----
+
+
 ### Video
 
 - [Audio Workshop - Youtube Playlist]https://youtu.be/hsSXzdn_0Gg?list=PLlkGN-8wjPHU8nOkwBtVusgSahMiU9-et
 - [Intro to the HTML5 Audio Element - Newcircle Youtube Video](https://www.youtube.com/watch?v=gcc0Jgot6Ts)
+
+
+-----
+
 
 ### Web
 
