@@ -1,5 +1,5 @@
 HTML - Graphics & Effects [Micro Badge]
-=================================================
+=======================================
 
 
 Goals:
@@ -25,8 +25,8 @@ Choose one:
 - [ ] Canvas
 
 2) Complete the following interactive tutorial content:
-- [ ] "INTRO" section from - [WebGL Workshop - NodeSchool](https://github.com/stackgl/webgl-workshop)
-- [ ] Make the "Space" Game from - [No Tears Guide to HTML5 Games - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/canvas/notearsgame/)
+- [ ] WebGL: "INTRO" section from - [WebGL Workshop - NodeSchool](https://github.com/stackgl/webgl-workshop)
+- [ ] Canvas: Make the "Space" Game from - [No Tears Guide to HTML5 Games - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/canvas/notearsgame/)
  
 3) Demonstrate how you've done all of #1 in your work or side-work
 

@@ -25,7 +25,7 @@ Choose one:
 - [ ] requestAnimationFrame
 - [ ] Performance API
  
-2) Demonstrate how you've done nearly all of #1 in your work or side-work
+2) Demonstrate how you've done all of #1 in your work or side-work
 
 3) Something else creative that proves you are totally legit in this topic
 

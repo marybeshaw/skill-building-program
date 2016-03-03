@@ -1,7 +1,7 @@
 # HTML - Journeyman [Composite]
 
 {{ New badge image goes here }}
-<!-- TODO: design new V2 JavaScript badge before this releases -->
+<!-- TODO: design new V2 HTML badge before this releases -->
 
 Estimated time: {8-16}hr
 

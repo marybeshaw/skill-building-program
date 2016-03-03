@@ -45,7 +45,7 @@ Suggested Study
 
 ### Video
 
-- [Audio Workshop - Youtube Playlist]https://youtu.be/hsSXzdn_0Gg?list=PLlkGN-8wjPHU8nOkwBtVusgSahMiU9-et
+- [Audio Workshop - Youtube Playlist](https://youtu.be/hsSXzdn_0Gg?list=PLlkGN-8wjPHU8nOkwBtVusgSahMiU9-et)
 - [Intro to the HTML5 Audio Element - Newcircle Youtube Video](https://www.youtube.com/watch?v=gcc0Jgot6Ts)
 
 
@@ -73,7 +73,7 @@ Suggested Study
   - [Video Basics - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/video/basics/)
   - [Video element spec - w3.org](https://www.w3.org/TR/html-markup/video.html)
 
-##### track, WebVTT (captions for html5 video**)
+##### track, WebVTT (captions for html5 video)
 
   - [WebVTT - Can I Use?](http://caniuse.com/#feat=webvtt)
   - [Track Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track)
