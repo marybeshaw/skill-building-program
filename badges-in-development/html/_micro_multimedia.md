@@ -54,42 +54,42 @@ Suggested Study
 
 ### Web
 
-#### HTML5 audio and video
+    #### HTML5 audio and video
 
-- [Pro HTML5 Programming:  Chapter 4: Working With Audio and Video](http://apress.jensimmons.com/v5/pro-html5-programming/ch4.html)
-		
-##### Audio
-  
-  - [audio - Can I Use?](http://caniuse.com/#search=audio)
-  - [Web Audio API - Browser APIs](http://browserapis.wtf/browserapis/audio.html)
-  - [Audio Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
-  - [Using HTML5 adio and video - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
-  - [Native Aduio in the Browser - HTML5 Doctor](http://html5doctor.com/native-audio-in-the-browser/)
-  	
-##### Video
-  
-  - [video - Can I Use?](http://caniuse.com/#search=video)
-  - [Video Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
-  - [Video Basics - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/video/basics/)
-  - [Video element spec - w3.org](https://www.w3.org/TR/html-markup/video.html)
+    - [Pro HTML5 Programming:  Chapter 4: Working With Audio and Video](http://apress.jensimmons.com/v5/pro-html5-programming/ch4.html)
+    	
+    ##### Audio
 
-##### track, WebVTT (captions for html5 video**)
-  
-  - [WebVTT - Can I Use?](http://caniuse.com/#feat=webvtt)
-  - [Track Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track)
-  - [Web Video Text Tracks Format - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Video_Text_Tracks_Format)
+    - [audio - Can I Use?](http://caniuse.com/#search=audio)
+    - [Web Audio API - Browser APIs](http://browserapis.wtf/browserapis/audio.html)
+    - [Audio Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
+    - [Using HTML5 adio and video - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
+    - [Native Aduio in the Browser - HTML5 Doctor](http://html5doctor.com/native-audio-in-the-browser/)
+    	
+    ##### Video
 
-#### Camera API
+    - [video - Can I Use?](http://caniuse.com/#search=video)
+    - [Video Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
+    - [Video Basics - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/video/basics/)
+    - [Video element spec - w3.org](https://www.w3.org/TR/html-markup/video.html)
 
-- [Camera - Can I Use?](http://caniuse.com/#search=camera)
-- [Media Stream API - Browser API](http://browserapis.wtf/browserapis/mediastream.html)
-- [Camera API Introduction - MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/API/Camera_API/Introduction)
-- [Intro to getUserMedia - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/getusermedia/intro/)
-- [Browser-Camera - David Walsh](https://davidwalsh.name/browser-camera)
-- [Accessing User Device Photos With the Camera API - Syntaxxx](http://www.syntaxxx.com/accessing-user-device-photos-with-the-html5-camera-api/)
-- [Camera API Demo - David Walsh](https://www.davidwalsh.name/demo/camera.php)
-- [getUserMedia - HTML5 Doctor](http://html5doctor.com/getusermedia/)
-- [getUserMedia Access Camera Privacy UI - Opera Dev](https://dev.opera.com/articles/getusermedia-access-camera-privacy-ui/)
+    ##### track, WebVTT (captions for html5 video**)
+
+    - [WebVTT - Can I Use?](http://caniuse.com/#feat=webvtt)
+    - [Track Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track)
+    - [Web Video Text Tracks Format - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Video_Text_Tracks_Format)
+
+    #### Camera API
+
+    - [Camera - Can I Use?](http://caniuse.com/#search=camera)
+    - [Media Stream API - Browser API](http://browserapis.wtf/browserapis/mediastream.html)
+    - [Camera API Introduction - MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/API/Camera_API/Introduction)
+    - [Intro to getUserMedia - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/getusermedia/intro/)
+    - [Browser-Camera - David Walsh](https://davidwalsh.name/browser-camera)
+    - [Accessing User Device Photos With the Camera API - Syntaxxx](http://www.syntaxxx.com/accessing-user-device-photos-with-the-html5-camera-api/)
+    - [Camera API Demo - David Walsh](https://www.davidwalsh.name/demo/camera.php)
+    - [getUserMedia - HTML5 Doctor](http://html5doctor.com/getusermedia/)
+    - [getUserMedia Access Camera Privacy UI - Opera Dev](https://dev.opera.com/articles/getusermedia-access-camera-privacy-ui/)
 
 
 -----

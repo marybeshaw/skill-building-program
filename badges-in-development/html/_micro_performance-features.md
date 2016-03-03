@@ -35,28 +35,28 @@ Suggested Study
 
 ### Web 
 
-#### Web Workers
+    #### Web Workers
 
-- [HTML5 Web Workers - dZone Refcardz](https://dzone.com/refcardz/html5-web-workers)
-- [Web Workers - Pluralsight Youtube playlist](https://www.youtube.com/watch?v=lphkjN7S79Q&list=PLTGuLY9dBAgCEpYU_qWvoHIihbZILSQ9D)
-- [Using web workers for responsive app - Jason Teplitz](https://www.youtube.com/watch?v=Kz_zKXiNGSE)
-- [HTML5 Background Processes - Lynda Youtube Playlist](https://youtu.be/yJAInyORM44?list=PL88GcyQxslJAvc68mK6gzPw-XBS2D19Tq)
-- [Chapter 10: Using the Web Workers API](http://apress.jensimmons.com/v5/pro-html5-programming/ch10.html)
+    - [HTML5 Web Workers - dZone Refcardz](https://dzone.com/refcardz/html5-web-workers)
+    - [Web Workers - Pluralsight Youtube playlist](https://www.youtube.com/watch?v=lphkjN7S79Q&list=PLTGuLY9dBAgCEpYU_qWvoHIihbZILSQ9D)
+    - [Using web workers for responsive app - Jason Teplitz](https://www.youtube.com/watch?v=Kz_zKXiNGSE)
+    - [HTML5 Background Processes - Lynda Youtube Playlist](https://youtu.be/yJAInyORM44?list=PL88GcyQxslJAvc68mK6gzPw-XBS2D19Tq)
+    - [Chapter 10: Using the Web Workers API](http://apress.jensimmons.com/v5/pro-html5-programming/ch10.html)
 
-#### requestAnimationFrame
+    #### requestAnimationFrame
 
-- [requestAnimationFrame - MDN](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
-- [requestAnimationFram for Smart Animating - Paul Irish](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
-- [Using requestAnimationFrame - CSS-Tricks](https://css-tricks.com/using-requestanimationframe/)
-- [Animation Speed - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/speed/animations/)
+    - [requestAnimationFrame - MDN](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
+    - [requestAnimationFram for Smart Animating - Paul Irish](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
+    - [Using requestAnimationFrame - CSS-Tricks](https://css-tricks.com/using-requestanimationframe/)
+    - [Animation Speed - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/speed/animations/)
 
-#### Performance API
+    #### Performance API
 
-- [window.performance - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/performance)
-- [Measuring Network Performance With - Google Devs](http://googledevelopers.blogspot.com/2013/12/measuring-network-performance-with.html)
-- [Web Performance Basics - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webperformance/basics/)
-- [User Timing - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webperformance/usertiming/)
-- [Navigation Timing - w3.org](https://www.w3.org/TR/navigation-timing/)
+    - [window.performance - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/performance)
+    - [Measuring Network Performance With - Google Devs](http://googledevelopers.blogspot.com/2013/12/measuring-network-performance-with.html)
+    - [Web Performance Basics - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webperformance/basics/)
+    - [User Timing - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webperformance/usertiming/)
+    - [Navigation Timing - w3.org](https://www.w3.org/TR/navigation-timing/)
 
 -----
 

@@ -1,6 +1,6 @@
 # HTML - Apprentice [Composite]
 
-![HTML - Apprentice Badge](../img/badges/html-apprentice-md.png "JavaScript Apprentice badge")
+{{ New badge image goes here }}
 <!-- TODO: design new V2 JavaScript badge before this releases -->
 
 Estimated time: {3-6}hr

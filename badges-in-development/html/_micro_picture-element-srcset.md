@@ -23,7 +23,7 @@ Suggested Assignment(s)
 
 Choose one:
 
-1) Demonstrate the following:  
+1) Make a creative project that demonstrates the following:  
 - [ ] `<picture> element`
 - [ ] `srcset` attribute
 - [ ] At different page widths
@@ -40,6 +40,7 @@ Suggested Study
 ---------------
 
 ### Web
+
 - [ResponsiveImages.org](http://responsiveimages.org/)
 - [Picture Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
 - [Picture Element - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/responsive/picture-element/)

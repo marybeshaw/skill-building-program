@@ -23,10 +23,10 @@ Suggested Assignment(s)
 
 Choose one:
 
-1) Demonstrate the following:  
+1) Make a creative project that demonstrates the following: 
 - [ ] New HTML5 elements
-- [ ] Semantic HTML5 usage
-- [ ] HTML5 forms features
+- [ ] Semantic HTML5 element use
+- [ ] HTML5 form input types and validation features
  
 2) Demonstrate how you've done all of #1 in your work or side-work
 
@@ -38,22 +38,22 @@ Suggested Study
 
 ### Web
 
-#### New Elements
+    #### New Elements
 
-- [HTML5 Doctor](http://html5doctor.com/)
-- [MDN - HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- [Creating new custom elements - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/?redirect_from_locale=es)
-- [HTML5 Cheat Sheet - Smashing Mag](https://www.smashingmagazine.com/2009/07/html-5-cheat-sheet-pdf/)
-	
-#### Semantic usage
+    - [HTML5 Doctor](http://html5doctor.com/)
+    - [MDN - HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+    - [Creating new custom elements - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/?redirect_from_locale=es)
+    - [HTML5 Cheat Sheet - Smashing Mag](https://www.smashingmagazine.com/2009/07/html-5-cheat-sheet-pdf/)
+    	
+    #### Semantic usage
 
-- [Let's Talk About Semantics - HTML5 Doctor](http://html5doctor.com/lets-talk-about-semantics/)
-- [HTML5 Semantics - Smashing Mag](https://www.smashingmagazine.com/2011/11/html5-semantics/)
-- [The Importance of Sections - Smashing Mag](https://www.smashingmagazine.com/2013/01/the-importance-of-sections/)
+    - [Let's Talk About Semantics - HTML5 Doctor](http://html5doctor.com/lets-talk-about-semantics/)
+    - [HTML5 Semantics - Smashing Mag](https://www.smashingmagazine.com/2011/11/html5-semantics/)
+    - [The Importance of Sections - Smashing Mag](https://www.smashingmagazine.com/2013/01/the-importance-of-sections/)
 
-#### Forms
+    #### Forms
 
-- [Pro HTML5 Programming: Chapter 8, Using the Forms API](http://apress.jensimmons.com/v5/pro-html5-programming/ch8.html)
+    - [Pro HTML5 Programming: Chapter 8, Using the Forms API](http://apress.jensimmons.com/v5/pro-html5-programming/ch8.html)
 
 
 -----

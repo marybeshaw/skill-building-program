@@ -9,7 +9,7 @@ Estimated time: {8-16}hr
 
 
 ## Goal
-- You have demonstrated that you can produce quality semantic, modern HTML content up to the current usable version features, including modern browser API's and beyond.
+- You have demonstrated that you can produce quality, semantic, modern HTML content up to the current usable version features, including modern browser APIs and beyond.
 - You have demonstrated that you have an intermediate-level understanding and skill in semantic HTML and modern browser API's.
 
 

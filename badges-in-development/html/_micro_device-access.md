@@ -5,8 +5,8 @@ HTML - Device Access [Micro Badge]
 Goals:
 ------
 
-- You have demonstrated the basic foundational knowledge in the Device Access Browser API.
-- You should have some experience using several features of the Device Access API, including Touch Events, Geolocation, Device Orientation, Vibration, Ambient Light, Proximity, and Battery Status APIs.
+- You have demonstrated basic foundational knowledge in Device Access Browser APIs.
+- You should have some experience using several features of HTML5 Device Access APIs, including Touch Events, Geolocation, Device Orientation, Vibration, Ambient Light, Proximity, and Battery Status APIs.
 
 
 Intro
@@ -54,59 +54,59 @@ Suggested Study
 - [Generic Sensor API - w3c](https://w3c.github.io/sensors/)
 - [Browser APIs](http://browserapis.wtf/)
 
-#### Touch events
+    #### Touch events
 
-- [Touch Events - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
-- [Mobile Touch - HTML5 Rocks](http://www.html5rocks.com/en/mobile/touch/)
-- [Mobile Touch and Mouse - HTML5 Rocks](http://www.html5rocks.com/en/mobile/touchandmouse/)
+    - [Touch Events - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
+    - [Mobile Touch - HTML5 Rocks](http://www.html5rocks.com/en/mobile/touch/)
+    - [Mobile Touch and Mouse - HTML5 Rocks](http://www.html5rocks.com/en/mobile/touchandmouse/)
 
-#### Geolocation
+    #### Geolocation
 
-- [Using Geolocation - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
-- [Geolocation API - Browser APIs](http://browserapis.wtf/browserapis/geolocation.html)
-- [Pro HTML5 Programming - Chapter 5: Using the Geolocation API](http://apress.jensimmons.com/v5/pro-html5-programming/ch5.html)
+    - [Using Geolocation - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
+    - [Geolocation API - Browser APIs](http://browserapis.wtf/browserapis/geolocation.html)
+    - [Pro HTML5 Programming - Chapter 5: Using the Geolocation API](http://apress.jensimmons.com/v5/pro-html5-programming/ch5.html)
 
-#### Device Orientation
+    #### Device Orientation
 
-- [Detecting Device Orientation](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
-- [Device Orientation API - Browser APIs](http://browserapis.wtf/browserapis/deviceorientation.html)
+    - [Detecting Device Orientation](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
+    - [Device Orientation API - Browser APIs](http://browserapis.wtf/browserapis/deviceorientation.html)
 
-#### Vibration
-- [Vibration API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API)
-- [Vibration API - David Walsh](https://davidwalsh.name/vibration-api)
-- [HTML5 Vibration API - Tuts+](http://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585)
-- [Vibration API - Web Platform](https://docs.webplatform.org/wiki/apis/vibration)
-- [Use HTML5 Vibration API](http://www.sitepoint.com/use-html5-vibration-api/)
-- [Vibration API - Browser APIs](http://browserapis.wtf/browserapis/vibration.html)
+    #### Vibration
+    - [Vibration API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API)
+    - [Vibration API - David Walsh](https://davidwalsh.name/vibration-api)
+    - [HTML5 Vibration API - Tuts+](http://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585)
+    - [Vibration API - Web Platform](https://docs.webplatform.org/wiki/apis/vibration)
+    - [Use HTML5 Vibration API](http://www.sitepoint.com/use-html5-vibration-api/)
+    - [Vibration API - Browser APIs](http://browserapis.wtf/browserapis/vibration.html)
 
-#### Ambient Light
-- [Ambient Light API - Browser APIs](http://browserapis.wtf/browserapis/ambient.html)
-- [Introduction to the Ambient Light API - Modern Web](http://modernweb.com/2014/05/27/introduction-to-the-ambient-light-api/)
-- [Mobile Web Superpowers: Ambient Light API - Sitepoint](http://www.sitepoint.com/mobile-web-superpowers-ambient-light-api/)
-- [Ambient Light Events - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Ambient_Light_Events)
-- [Ambient Light Events and JavaScript Detection - Mozilla Hacks](https://hacks.mozilla.org/2013/04/ambient-light-events-and-javascript-detection/)
-- [Device Light Event - MDN](https://developer.mozilla.org/en-US/docs/Web/API/DeviceLightEvent)
-- [Ambient Light API - Apazupa](http://apazupa.com/2012/09/24/ambient-light-api/)
-- [Ambient Light Spec repo - w3c](https://github.com/w3c/ambient-light)
-- [Ambient Light Example - John Wu](https://github.com/tjwudi/ambient-light-example)
+    #### Ambient Light
+    - [Ambient Light API - Browser APIs](http://browserapis.wtf/browserapis/ambient.html)
+    - [Introduction to the Ambient Light API - Modern Web](http://modernweb.com/2014/05/27/introduction-to-the-ambient-light-api/)
+    - [Mobile Web Superpowers: Ambient Light API - Sitepoint](http://www.sitepoint.com/mobile-web-superpowers-ambient-light-api/)
+    - [Ambient Light Events - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Ambient_Light_Events)
+    - [Ambient Light Events and JavaScript Detection - Mozilla Hacks](https://hacks.mozilla.org/2013/04/ambient-light-events-and-javascript-detection/)
+    - [Device Light Event - MDN](https://developer.mozilla.org/en-US/docs/Web/API/DeviceLightEvent)
+    - [Ambient Light API - Apazupa](http://apazupa.com/2012/09/24/ambient-light-api/)
+    - [Ambient Light Spec repo - w3c](https://github.com/w3c/ambient-light)
+    - [Ambient Light Example - John Wu](https://github.com/tjwudi/ambient-light-example)
 
-#### Proximity
-- [Introducing Proximity API](http://www.sitepoint.com/introducing-proximity-api/)
-- [PRoximity Events - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Proximity_Events)
-- [The Proximity API - Mozilla Hacks](https://hacks.mozilla.org/2013/06/the-proximity-api/)
+    #### Proximity
+    - [Introducing Proximity API](http://www.sitepoint.com/introducing-proximity-api/)
+    - [PRoximity Events - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Proximity_Events)
+    - [The Proximity API - Mozilla Hacks](https://hacks.mozilla.org/2013/06/the-proximity-api/)
 
-#### Battery Status
-- [Battery Status - Browser APIs](http://browserapis.wtf/browserapis/batterystatus.html)
-- [Battery Status API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API)
-- [Battery API - DAvid Walsh](https://davidwalsh.name/battery-api)
-- [HTML5 The Battery Status API - Tuts+](http://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
-- [The Battery Status API - Kirupa](https://www.kirupa.com/html5/the_battery_status_api_js.htm)
-[Using the Battery Status Api to Optimize Your Development - Sitepoint](http://www.sitepoint.com/using-the-battery-status-api-to-optimize-your-development/)
-- [How to Accessthe Battery Status - dZone](https://dzone.com/articles/how-access-battery-status)
-- [BatteryManager API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/BatteryManager)
-- [Let's Get Charged: Updates to the Battery Status Api - Mozilla Hacks](https://hacks.mozilla.org/2015/05/lets-get-charged-updates-to-the-battery-status-api/)
-- [Battery Status API - Web Platform](http://docs.webplatform.org/wiki/apis/battery_status)
-- [Battery API - Steve Edson](https://steveedson.co.uk/html5/battery-api/)
+    #### Battery Status
+    - [Battery Status - Browser APIs](http://browserapis.wtf/browserapis/batterystatus.html)
+    - [Battery Status API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API)
+    - [Battery API - DAvid Walsh](https://davidwalsh.name/battery-api)
+    - [HTML5 The Battery Status API - Tuts+](http://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
+    - [The Battery Status API - Kirupa](https://www.kirupa.com/html5/the_battery_status_api_js.htm)
+    [Using the Battery Status Api to Optimize Your Development - Sitepoint](http://www.sitepoint.com/using-the-battery-status-api-to-optimize-your-development/)
+    - [How to Accessthe Battery Status - dZone](https://dzone.com/articles/how-access-battery-status)
+    - [BatteryManager API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/BatteryManager)
+    - [Let's Get Charged: Updates to the Battery Status Api - Mozilla Hacks](https://hacks.mozilla.org/2015/05/lets-get-charged-updates-to-the-battery-status-api/)
+    - [Battery Status API - Web Platform](http://docs.webplatform.org/wiki/apis/battery_status)
+    - [Battery API - Steve Edson](https://steveedson.co.uk/html5/battery-api/)
 
 
 -----
