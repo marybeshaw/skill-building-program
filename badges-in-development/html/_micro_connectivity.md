@@ -131,14 +131,14 @@ Suggested Study
 
 ### Tools
 
-    #### WebSockets
+  #### WebSockets
 
-    - [Pusher.com](https://pusher.com/)
-    - [Socket.IO](http://socket.io/)
+  - [Pusher.com](https://pusher.com/)
+  - [Socket.IO](http://socket.io/)
 
-    #### WebRTC
+  #### WebRTC
 
-    - [WebRTC Experiments & Demos](https://www.webrtc-experiment.com/)
+  - [WebRTC Experiments & Demos](https://www.webrtc-experiment.com/)
 
 -----
 

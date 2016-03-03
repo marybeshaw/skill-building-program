@@ -47,18 +47,18 @@ Suggested Study
 
 ### Web 
 
-    #### Canvas
+  #### Canvas
 
-    - [Pro HTML5 Programming: Chapter 2: Using the Canvas API](http://apress.jensimmons.com/v5/pro-html5-programming/ch2.html)
-    - [HTML Canvas Tutorials](http://www.html5canvastutorials.com/)
-    - [Canvas Tutorial - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial?redirectlocale=en-US&re-assessingedirectslug=Canvas_tutorial)
-    - [Canvas Bootcamp - Youtube Playlist](https://www.youtube.com/playlist?list=PLlkGN-8wjPHWYT_00xdUibDPfHZ3Zm8i3)
-    - [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html)
-    - [No Tears Guide to HTML5 Games - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/canvas/notearsgame/)
+  - [Pro HTML5 Programming: Chapter 2: Using the Canvas API](http://apress.jensimmons.com/v5/pro-html5-programming/ch2.html)
+  - [HTML Canvas Tutorials](http://www.html5canvastutorials.com/)
+  - [Canvas Tutorial - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial?redirectlocale=en-US&re-assessingedirectslug=Canvas_tutorial)
+  - [Canvas Bootcamp - Youtube Playlist](https://www.youtube.com/playlist?list=PLlkGN-8wjPHWYT_00xdUibDPfHZ3Zm8i3)
+  - [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html)
+  - [No Tears Guide to HTML5 Games - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/canvas/notearsgame/)
 
-    #### WebGL
+  #### WebGL
 
-    - [WebGL Setup and Triangle - Youtube](https://www.youtube.com/watch?v=kB0ZVUrI4Aw)
+  - [WebGL Setup and Triangle - Youtube](https://www.youtube.com/watch?v=kB0ZVUrI4Aw)
 
 
 -----
