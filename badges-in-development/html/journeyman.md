@@ -35,7 +35,7 @@ Estimated time: {8-16}hr
 
 ### Once above are met, then earn 1 of these:
 - [ ] [Graphics & Effects](_micro_graphics-effects.md)
-- [ ] HTML EXPLORER
+- [ ] [HTML EXPLORER](_micro_EXPLORER.md)
 
 -----
 
