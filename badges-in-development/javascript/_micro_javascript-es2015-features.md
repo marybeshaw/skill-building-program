@@ -51,6 +51,9 @@ Choose one:
 - [ESNext Generation Interactive Workshop](https://github.com/jesstelford/esnext-generation) (nodeschool-style)
 - [ES6 Katas: TDD-style ES6 exercises](http://es6katas.org/)
 
+### Slidedecks
+
+- [Demystifying ES6 - Ben Ilegbodu](http://www.benmvp.com/slides/confoo2016-es6.html#/)
 
 ### Web
 - [ES6 Features](https://github.com/lukehoban/es6features)

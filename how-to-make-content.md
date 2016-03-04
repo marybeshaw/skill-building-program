@@ -71,6 +71,7 @@ content before making your own if possible.
 
 ### Videos:
 
+- [egghead.io (just the free lessons)](https://egghead.io/lessons)
 - [LevelUpTuts Youtube channel](https://www.youtube.com/user/LevelUpTuts)
 - [Learn Code Academy](https://www.youtube.com/user/learncodeacademy)
 - [CodeCourse - Youtube Channel](https://www.youtube.com/user/phpacademy)
@@ -83,12 +84,19 @@ content before making your own if possible.
 - [SF HTML5 - Youtube Channel](https://www.youtube.com/channel/UCyupHmJVuUGpCMzemHYnUqQ)
 - [LiveCoding streams](https://www.livecoding.tv/livestreams/)
 
+### Slidedecks:
+
+- [Slideshare](http://www.slideshare.net/?ss)
+- [Slides.com](http://slides.com/explore)
+- [Speaker Deck](https://speakerdeck.com/)
+- [Lanyrd Slides](http://lanyrd.com/slides/)
+
 ### Web Articles:
 
 - [Bento Grid](https://www.bento.io/grid)
 - [Bento Tracks](https://www.bento.io/tracks)
 - [Web Platform](http://www.webplatform.org/)
-- [Boucoup Weblog](https://bocoup.com/weblog)
+- [Boucoup Weblog (add search term onto url path)](https://bocoup.com/search/)
 - [Treehouse Blog Search](http://blog.teamtreehouse.com/search)
 - [Dive Into HTML5](http://diveintohtml5.info/)
 - [HTML5Rocks](http://www.html5rocks.com/)

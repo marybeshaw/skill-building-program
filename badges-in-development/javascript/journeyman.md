@@ -23,7 +23,7 @@ Estimated time: {3-6}hr
 - [ ] [ES6 / ES2015 Features (~4h)](_micro_javascript-es2015-features.md)
 - [ ] [JavaScript: The Good Parts (~1h)](https://youtu.be/hQVTIJBZook) (video)
 - [ ] [Functional JavaScript](_micro_function-js.md)
-- [ ] Promises
+- [ ] [Asynchronous Programming](_micro_async-programming.md)
 - [ ] IIFE's & Closures
 - [ ] JS Performance
 - [ ] [Regular Expressions](_micro_regex.md)
