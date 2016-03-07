@@ -24,10 +24,10 @@ Estimated time: {3-6}hr
 - [ ] [JavaScript: The Good Parts (~1h)](https://youtu.be/hQVTIJBZook) (video)
 - [ ] [Functional JavaScript](_micro_function-js.md)
 - [ ] [Asynchronous Programming](_micro_async-programming.md)
-- [ ] IIFE's & Closures
+- [ ] [JavaScript Language Advanced](_micro_jacascript-language-advanced.md)
 - [ ] JS Performance
 - [ ] [Regular Expressions](_micro_regex.md)
-- [ ] Using the VanillaJS Library
+- [ ] Using VanillaJS
 
 
 -----

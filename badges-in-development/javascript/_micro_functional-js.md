@@ -29,7 +29,6 @@ Choose one:
 - [ ] Filter
 - [ ] Every Some
 - [ ] Reduce
-- [ ] Call
 
 2) Explain the main principles behind Functional Programming, and complete all of the tasks in the "Functional JavaScript" NodeSchool Course: [Functional JavaScript](https://github.com/timoxley/functional-javascript-workshop)
 
@@ -82,6 +81,8 @@ Choose one:
 - [Functional Programming in JavaScript - Tuts+](http://code.tutsplus.com/courses/functional-programming-in-javascript)
 - [Currying in JavaScript - kbrainwave](https://medium.com/@kbrainwave/currying-in-javascript-ce6da2d324fe#.ikax7i7ay)
 - [Functional JavaScript - Sean Hess](https://seanhess.github.io/2012/02/20/functional_javascript.html)
+- [Bind, Call and Apply in JavaScript - Variadic](https://variadic.me/posts/2013-10-22-bind-call-and-apply-in-javascript.html)
+- [Function.prototype.call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
 
 
 -----

@@ -61,6 +61,7 @@ content before making your own if possible.
 ### Interactive tutorials:
 
 - [NodeSchool](http://nodeschool.io/)
+- [Free Code Camp](http://www.freecodecamp.com/)
 - [The Odin Project (all free)](http://www.theodinproject.com/courses)
 - [Udacity (Select only free courses](https://www.udacity.com/courses/all)
 - [Udemy (Only the free courses)](https://www.udemy.com/courses/)
@@ -107,6 +108,7 @@ content before making your own if possible.
 - [Sitepoint](http://www.sitepoint.com/)
 - [A List Apart](http://alistapart.com/) (UX, Design, and some code)
 - [Code - TutsPlus](http://code.tutsplus.com/)
+- [Addy Osmani Blog](https://addyosmani.com/blog/)
 
 ### Documentation:
 

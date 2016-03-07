@@ -2,16 +2,16 @@
 
 -----
 
-Est. to complete: ___4h
+Est. to complete: 4h
 
-## Goal___
+## Goal
 - You have demonstrated the basic foundations of Asynchronous Programming in JavaScript
 - You should know tons about Promises, some things about Generators, and some things about Async/Await.
 
 
 -----
 
-## Intro___
+## Intro
 
 > The cause of callback hell is when people try to write JavaScript in a way where execution happens visually from top to bottom. Lots of people make this mistake! In other languages like C, Ruby or Python there is the expectation that whatever happens on line 1 will finish before the code on line 2 starts running and so on down the file. As you will learn, JavaScript is different. - [callbackhell.com](http://callbackhell.com/)
 
@@ -19,17 +19,23 @@ Est. to complete: ___4h
 -----
 
 
-## Suggested Assignment(s)____
+## Suggested Assignment(s)
+
 Choose one:
 
 1) Make a creative project that demonstrates the following:
-- [ ] Promises / Do part of interative thing
-- [ ] Generators
-- [ ] Async, Await
+- [ ] Thorough use of Promises
+- [ ] Generators demo
+- [ ] Async, Await demo
 
-2) Demonstrate how you've done all of #1 in your work or side-work
+2) Demonstrate the following:
+- [ ] Complete all of either the nodeschool or Udacity course on promises
+- [ ] Make a Generators demo
+- [ ] Make an Async, Await demo
 
-3) Something else creative that proves you are totally legit in this topic
+3) Demonstrate how you've done all of #1 in your work or side-work
+
+4) Something else creative that proves you are totally legit in this topic
 
 
 -----
