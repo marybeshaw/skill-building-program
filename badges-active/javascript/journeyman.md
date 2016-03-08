@@ -22,9 +22,9 @@ Estimated time: ~19h
 
 - [ ] [ES6 / ES2015 Features (~4h)](_micro_javascript-es2015-features.md)
 - [ ] [JavaScript: The Good Parts (~1h)](https://youtu.be/hQVTIJBZook) (video)
-- [ ] [Functional JavaScript (~1h)](_micro_function-js.md)
+- [ ] [Functional JavaScript (~1h)](_micro_functional-js.md)
 - [ ] [Asynchronous Programming (~3h)](_micro_async-programming.md)
-- [ ] [JavaScript Language Advanced (~2h)](_micro_jacascript-language-advanced.md)
+- [ ] [JavaScript Language Advanced (~2h)](_micro_javascript-language-advanced.md)
 - [ ] [JS Performance (~4h)](_micro_javascript-performance.md)
 - [ ] [Regular Expressions (~1.5h)](_micro_regex.md)
 - [ ] [Using VanillaJS (~2h)](_micro_using-vanillajs.md)
