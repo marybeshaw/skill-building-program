@@ -1,6 +1,8 @@
 HTML - Graphics & Effects [Micro Badge]
 =======================================
 
+Est. to complete: ~2h
+
 
 Goals:
 ------

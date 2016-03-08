@@ -1,6 +1,8 @@
 HTML - EXPLORER [Micro Badge]
 ===================================================
 
+Est. to complete: ~1h
+
 Goals:
 ------
 

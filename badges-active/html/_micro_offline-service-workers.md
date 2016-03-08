@@ -1,6 +1,8 @@
 HTML - Offline & Service Workers [Micro Badge]
 =================================================
 
+Est. to complete: ~4h
+
 
 Goals:
 ------

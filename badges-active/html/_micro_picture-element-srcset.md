@@ -1,6 +1,8 @@
 HTML - Picture Element & srcset [Micro Badge]
 =================================================
 
+Est. to complete: ~1h
+
 
 Goals:
 ------

@@ -1,6 +1,8 @@
 HTML - Semantic HTML5 Elements [Micro Badge]
 ==============================================
 
+Est. to complete: ~0.5h
+
 
 Goals:
 ------

@@ -1,6 +1,8 @@
 HTML - Performance Features [Micro Badge]
 =================================================
 
+Est. to complete: ~2h
+
 
 Goals:
 ------

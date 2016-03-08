@@ -3,7 +3,7 @@
 {{ New badge image goes here }}
 <!-- TODO: design new V2 HTML badge before this releases -->
 
-Estimated time: {8-16}hr
+Estimated time: ~15h
 
 -----
 
@@ -22,20 +22,20 @@ Estimated time: {8-16}hr
 
 **Elements**
 
-- [ ] [Multimedia](_micro_multimedia.md)
+- [ ] [Multimedia (~2h)](_micro_multimedia.md)
 
 **Browser APIs**
 
-- [ ] [Storage](_micro_storage.md)
-- [ ] [Integration Features](_micro_integration-features.md)
-- [ ] [Offline & Service Workers](_micro_offline-service-workers.md)
-- [ ] [Connectivity](_micro_connectivity.md)
-- [ ] [Performance Features](_micro_performance-features.md)
+- [ ] [Storage (~2h)](_micro_storage.md)
+- [ ] [Integration Features (~2h)](_micro_integration-features.md)
+- [ ] [Offline & Service Workers (~4h)](_micro_offline-service-workers.md)
+- [ ] [Connectivity (~2h)](_micro_connectivity.md)
+- [ ] [Performance Features (~2h)](_micro_performance-features.md)
 
 
 ### Once above are met, then earn 1 of these:
-- [ ] [Graphics & Effects](_micro_graphics-effects.md)
-- [ ] [HTML EXPLORER](_micro_EXPLORER.md)
+- [ ] [Graphics & Effects (~2h)](_micro_graphics-effects.md)
+- [ ] [HTML EXPLORER (~1h)](_micro_EXPLORER.md)
 
 -----
 

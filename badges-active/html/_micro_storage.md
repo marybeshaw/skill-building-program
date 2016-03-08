@@ -1,6 +1,8 @@
 HTML - Storage [Micro Badge]
 =================================================
 
+Est. to complete: ~2h
+
 
 Goals:
 ------
