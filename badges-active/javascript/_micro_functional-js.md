@@ -4,14 +4,14 @@
 
 Est. to complete: 1h
 
-## Goal____
+## Goal
 - You have demonstrated the basic foundations of Functional Programming in JavaScript.
 - You should know some things about first-class and higher-order functions, immutability, side effects, pure functions, recursion, and referential transparency.
 
 
 -----
 
-## Intro____
+## Intro
 
 > People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones. - Donald Knuth
 
@@ -19,7 +19,7 @@ Est. to complete: 1h
 -----
 
 
-## Suggested Assignment(s)_____
+## Suggested Assignment(s)
 
 Choose one:
 
