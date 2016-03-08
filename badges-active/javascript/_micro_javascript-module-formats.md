@@ -21,6 +21,7 @@ There are a few very common patterns in JavaScript. Knowing these can help you s
 
 
 ## Suggested Assignment(s)
+
 Choose one:
 
 1) Study essential javascript patterns and how to use them:
@@ -34,12 +35,18 @@ Choose one:
 ## Suggested Study
 
 ### Web
+
 - [CommonJS Module Format](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailcommonjs)
 - [ES6 Harmony Module Format](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailharmony)
 - [JavaScript Modules the ES6 Way](https://24ways.org/2014/javascript-modules-the-es6-way/)
 - [Learning JavaScript](https://github.com/iangilman/learning-javascript)
 
+
+-----
+
+
 ### Video
+
 - [ES6: Modules Intro (1m)](https://www.youtube.com/watch?v=-Z6KThzGvK0)
 
 -----
