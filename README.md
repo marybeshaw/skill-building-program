@@ -32,7 +32,7 @@ other
 
 ## Badges
 - [Currently Active](badges-active/ "Currently Active Badges")
-  - V2: Frontier
+  - V2: Frontier (private)
   [[Apprentice](https://almtools.ldschurch.org/fhconfluence/display/WD/V2+Frontier+-+Apprentice),
   [Journeyman](https://almtools.ldschurch.org/fhconfluence/display/WD/V2+Frontier+-+Journeyman),
   [Master](https://almtools.ldschurch.org/fhconfluence/display/WD/V2+Frontier+-+Master)]
@@ -64,7 +64,7 @@ other
 
 
 ## Hall of Fame
-- [Leaderboard](issues/38 "Hall of Fame Leaderboard")
+- [Leaderboard](https://github.com/fs-webdev/skill-building-program/issues/38 "Hall of Fame Leaderboard")
 
 
 -----
