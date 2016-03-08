@@ -57,7 +57,7 @@ Choose one:
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 - [You Don't Need jQuery](http://ndugger.github.io/youdontneedjquery/)
 - [You Don't Need jQuery - Why Not](http://blog.garstasio.com/you-dont-need-jquery/why-not/)
-- [Moving From jQuery - Liam Curry Gists](https://gist.github.com/liamcurry/2597326
+- [Moving From jQuery - Liam Curry Gists](https://gist.github.com/liamcurry/2597326)
 - [Ditching jQuery for VanillaJS - Go Make Things](http://gomakethings.com/ditching-jquery-for-vanilla-js/)
 - [VanillaJS - jsperf](https://jsperf.com/vanillajs)
 
