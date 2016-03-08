@@ -41,6 +41,7 @@ Choose one:
 
 ### Video
 - [ES6: Modules Intro (1m)](https://www.youtube.com/watch?v=-Z6KThzGvK0)
+
 -----
 
   *Is this badge missing something? Submit a PR and review it with a master in this category*
