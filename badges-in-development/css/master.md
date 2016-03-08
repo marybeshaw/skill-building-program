@@ -1,4 +1,4 @@
-# JavaScript - Master Badge
+# CSS - Master Badge
 
 {{ New badge image goes here }}
 <!-- TODO: design new V2 HTML badge before this releases -->
@@ -11,7 +11,7 @@
 ## Goal
 
 - You have already completed the Apprentice and Journeyman levels of this category, to be sure you are properly prepared to mentor others as a master.
-- You have demonstrated that you have mentored & taught others how to improve their usage of JavaScript.
+- You have demonstrated that you have mentored & taught others how to improve their usage of CSS.
 - You have demonstrated that you have a master-level understanding and skill in the topic.
 - You have sought out and obtained newly relevant & advanced knowledge on the topic.
 - You have completed project work that furthers our discipline in the topic.
@@ -34,7 +34,7 @@
 
 -----
 
-## Current HTML Masters:
+## Current CSS Masters:
 
 
 -----

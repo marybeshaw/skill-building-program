@@ -6,7 +6,7 @@ Est. to complete: ~1h
 
 ## Goal
 - You have demonstrated the basic foundations in JavaScript Common Pitfalls.
-- You should know about global vars, scope, semicolon hijinx, type checking, falsiness, strange equivalents, etc.
+- You should know about global vars, scope, automatic semicolon insertion, type checking, falsiness, strange equivalents, etc.
 
 
 -----
@@ -39,6 +39,8 @@ Choose one:
 - [Type Checking (5m)](http://toddmotto.com/understanding-javascript-types-and-reliable-type-checking/)
 - [Type Detection (5m)](http://javascript.info/tutorial/type-detection)
 - [Learning JavaScript](https://github.com/iangilman/learning-javascript)
+- [Automatic Semicolon Insertion - StackOverflow](http://stackoverflow.com/questions/2846283/what-are-the-rules-for-javascripts-automatic-semicolon-insertion-asi)
+- [Automatic Semicolon Insertion - Inimino](http://inimino.org/~inimino/blog/javascript_semicolons)
 
 ### Video
 - [JS WAT (4m17s)](https://www.youtube.com/watch?v=FqhZZNUyVFM)

@@ -34,7 +34,7 @@
 
 -----
 
-## Current HTML Masters:
+## Current JavaScript Masters:
 
 
 -----

@@ -9,9 +9,9 @@
 ## Goal
 - You have already completed the Apprentice and Journeyman levels of this category.
 - You have demonstrated that you can mentor & teach others how to {Skill Category}.
-- You have demonstrated that you have an master-level understanding and skill in {Skill Category}
-- You have sought out and obtained newly relevant & advanced knowledge of {Skill Category}
-- You have completed project work that furthers our discipline in {Skill Category}
+- You have demonstrated that you have a master-level understanding and skill in the topic.
+- You have sought out and obtained newly relevant & advanced knowledge on the topic.
+- You have completed project work that furthers our discipline in the topic.
 
 
 -----
