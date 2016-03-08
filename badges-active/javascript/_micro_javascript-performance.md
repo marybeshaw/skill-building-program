@@ -11,7 +11,7 @@ Est. to complete: 4h
 
 -----
 
-## Intro__
+## Intro
 
 > Simple coding... Algorithms! Math! Why can't we make what we want to make... the way we want to make it?!?! - [Stanley Tucci in Transformers: 4](https://youtu.be/yNJbAJcVCGc?t=16s)
 
@@ -25,11 +25,11 @@ Choose one:
 
 1) Make a creative project that demonstrates the following:
 - [ ] When it's an appropriate time to micro-optimize
-- [ ] Perform a JavaScript profile, and determine where in a script the most time, memory is used
+- [ ] Perform a JavaScript profile, and determine where in a script the most time and memory is used
 - [ ] Fix some known expensive JavaScript operations
-- [ ] Use JavaScript micro-timing to record to accurately time a function takes
+- [ ] Use JavaScript micro-timing to accurately record how long a function takes
 - [ ] Show the "Big-O" complexity of at least two different operations in JavaScript
-- [ ] Show how one might be optimized to a lower algorythmic complexity
+- [ ] Show how one of the previous two operations might be optimized to achieve a lower algorithmic complexity
 - [ ] Show the effect of inner loops on JavaScript performance, and how to optimize them
 
 2) Demonstrate how you've done all of #1 in your work or side-work
