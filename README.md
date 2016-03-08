@@ -48,7 +48,7 @@ other
   [[Apprentice](badges-active/performance/apprentice.md),
   [Journeyman](badges-active/performance/journeyman.md),
   [Master](badges-active/performance/master.md)]
-- [Currently In Development](issues/37 "Badges in development")
+- [Currently In Development](https://github.com/fs-webdev/skill-building-program/issues/37 "Badges in development")
 
 
 -----
