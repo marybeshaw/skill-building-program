@@ -57,6 +57,7 @@ Choose one:
 
 ### Web
 - [A Re-Introduction to JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [JavaScript.com](https://www.javascript.com/)
 - [JavaScript Garden - Bonsaiden](http://bonsaiden.github.io/JavaScript-Garden/)
 - [JavaScript Info](http://javascript.info/)
 - [JS The Right Way](http://jstherightway.org/)
