@@ -1,20 +1,14 @@
-skill-building-program
-======================
+![FamilySearch Skill-Building Program](https://edge.fscdn.org/assets/img/theme-engage/assets/images/tree-logotype-1x-94806fd4d3214ea1ab7ce7eac7310d2c.png "FamilySearch Skill-Building Program")
 
-This is a repo for the future of the Skills Building Program.
+V2 Skills Building Program
+==========================
 
-- Everything contained herein is part of a draft proposal
+- We accept pull requests
 - Everything here is subject to change & peer review
-- [If you are looking for old (V1) FamilySearch webdev skills program, go here:] (https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+Skills+Development)
 
 
 -----
 
-
-![FamilySearch Skill-Building Program](https://edge.fscdn.org/assets/img/theme-engage/assets/images/tree-logotype-1x-94806fd4d3214ea1ab7ce7eac7310d2c.png "FamilySearch Skill-Building Program")
-
-# Skill-Building Program
-*(We accept pull requests)*
 
 ## Purpose:
 **"Make each other awesome"**
@@ -25,6 +19,7 @@ By:
 interesting things
   - Getting excited about learning new things and being creative
   - Infecting others with this excitement
+  - Creating more self-learners
   - Proving org-required skills
   - Get everyone involved in learning, sharing, and mentoring skills with each
 other
@@ -33,26 +28,27 @@ other
 
 -----
 
+## News and Updates: 
 
 ## Badges
 - [Currently Active](badges-active/ "Currently Active Badges")
-  - v1: Frontier
-  [[Apprentice](https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+Frontier+Skill#WebDevelopmentDiscipline-FrontierSkill-Apprentice),
-  [Journeyman](https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+Frontier+Skill#WebDevelopmentDiscipline-FrontierSkill-Journeyman),
-  [Master](https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+Frontier+Skill#WebDevelopmentDiscipline-FrontierSkill-Master)]
-  - v1: HTML5/CSS3
-  [[Apprentice](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006236#WebDevelopmentDiscipline-HTML5/CSS3Skill-Apprentice#WebDevelopmentDiscipline-HTML5/CSS3Skill-Apprentice),
-  [Journeyman](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006236#WebDevelopmentDiscipline-HTML5/CSS3Skill-Journeyman),
-  [Master](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006236#WebDevelopmentDiscipline-HTML5/CSS3Skill-Master)]
-  - v1: JavaScript
-  [[Apprentice](https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+JavaScript+Skill#WebDevelopmentDiscipline-JavaScriptSkill-Apprentice),
-  [Journeyman](https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+JavaScript+Skill#WebDevelopmentDiscipline-JavaScriptSkill-Journeyman),
-  [Master](https://almtools.ldschurch.org/fhconfluence/display/Product/Web+Development+Discipline+-+JavaScript+Skill#WebDevelopmentDiscipline-JavaScriptSkill-Master)]
-  - v1: Testing
+  - V2: Frontier
+  [[Apprentice](https://almtools.ldschurch.org/fhconfluence/display/WD/V2+Frontier+-+Apprentice),
+  [Journeyman](https://almtools.ldschurch.org/fhconfluence/display/WD/V2+Frontier+-+Journeyman),
+  [Master](https://almtools.ldschurch.org/fhconfluence/display/WD/V2+Frontier+-+Master)]
+  - V2: HTML5/CSS3
+  [[Apprentice](badges-active/html/apprentice.md),
+  [Journeyman](badges-active/html/journeyman.md),
+  [Master](badges-active/html/master.md)]
+  - V2: JavaScript
+  [[Apprentice](badges-active/javascript/apprentice.md),
+  [Journeyman](badges-active/javascript/journeyman.md),
+  [Master](badges-active/javascript/master.md)]
+  <!-- - v1: Testing
   [[Apprentice](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006267#WebDevelopmentDiscipline-Testing/PerformanceSkill-Apprentice),
   [Journeyman](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006267#WebDevelopmentDiscipline-Testing/PerformanceSkill-Journeyman),
-  [Master](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006267#WebDevelopmentDiscipline-Testing/PerformanceSkill-Master)]
-  - v2: Performance
+  [Master](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006267#WebDevelopmentDiscipline-Testing/PerformanceSkill-Master)]-->
+  - V2: Performance
   [[Apprentice](badges-active/performance/apprentice.md),
   [Journeyman](badges-active/performance/journeyman.md),
   [Master](badges-active/performance/master.md)]
@@ -61,13 +57,14 @@ other
 
 -----
 <!-- Insert newest badges into table below. Newest on left, up to 5 at once -->
-## Newest Active Badges
+<!-- ## Newest Active Badges
 [Performance Journeyman](badges-active/performance/journeyman.md) | [Performance Apprentice](badges-active/performance/apprentice.md)
 ----------------------------------------------------------------- | -----------------------------------------------------------------
 ![Performance Journeyman Badge Image](img/badges/perf-journeyman-md.png "Performance Apprentice Badge Image") | ![Performance Apprentice Badge Image](img/badges/perf-apprentice-md.png "Performance Apprentice Badge Image")
 
 
 -----
+-->
 
 
 ## Hall of Fame
@@ -79,9 +76,9 @@ other
 ## Passing off Badges
 You can pass off badges with any discipline manager or master in that Skill area.
 
-Current Masters:
+Current V2 Masters:
 - Frontier:
-- HTML5/CSS: Steve Lambert
+- HTML5/CSS:
 - JavaScript:
 - Testing:
 - Performance: Joe Podwys, Jakob Anderson
