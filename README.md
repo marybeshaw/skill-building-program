@@ -44,10 +44,6 @@ other
   [[Apprentice](badges-active/javascript/apprentice.md),
   [Journeyman](badges-active/javascript/journeyman.md),
   [Master](badges-active/javascript/master.md)]
-  <!-- - v1: Testing
-  [[Apprentice](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006267#WebDevelopmentDiscipline-Testing/PerformanceSkill-Apprentice),
-  [Journeyman](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006267#WebDevelopmentDiscipline-Testing/PerformanceSkill-Journeyman),
-  [Master](https://almtools.ldschurch.org/fhconfluence/pages/viewpage.action?pageId=14006267#WebDevelopmentDiscipline-Testing/PerformanceSkill-Master)]-->
   - V2: Performance
   [[Apprentice](badges-active/performance/apprentice.md),
   [Journeyman](badges-active/performance/journeyman.md),
