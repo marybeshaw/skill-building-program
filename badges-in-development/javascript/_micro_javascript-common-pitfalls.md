@@ -2,7 +2,7 @@
 
 -----
 
-Est. to complete: 1h
+Est. to complete: ~1h
 
 ## Goal
 - You have demonstrated the basic foundations in JavaScript Common Pitfalls.

@@ -2,7 +2,7 @@
 
 -----
 
-Est. to complete: 2h
+Est. to complete: ~2h
 
 ## Goal
 - You have demonstrated the basic foundations in JavaScript Language Basics.

@@ -109,6 +109,7 @@ content before making your own if possible.
 - [A List Apart](http://alistapart.com/) (UX, Design, and some code)
 - [Code - TutsPlus](http://code.tutsplus.com/)
 - [Addy Osmani Blog](https://addyosmani.com/blog/)
+- [The Best Website to Learn Coding Online - Digital Inspiration](http://www.labnol.org/internet/learn-coding-online/28537/)
 
 ### Documentation:
 

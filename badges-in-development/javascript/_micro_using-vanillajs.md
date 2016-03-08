@@ -2,11 +2,11 @@
 
 -----
 
-Est. to complete: ___4h
+Est. to complete: 2h
 
 ## Goal
-- You have demonstrated the basic foundations of how to use VanillaJS
-- You should have some experience making AJAX calls, manipulated DOM, handled DOM events, all with plain JavaScript, without libraries.
+- You have demonstrated the basic foundations of VanillaJS
+- You should have some experience selecting elements, making AJAX calls, manipulating DOM, and handling DOM events, all with plain JavaScript, without libraries.
 
 
 -----
@@ -23,8 +23,21 @@ Est. to complete: ___4h
 
 Choose one:
 
-1) Make a creative project that demonstrates the following:
-- [ ] modifyin DOM content, using visual transition effects, hiding/showing DOM, adding & removing classes, 
+1) Make a creative project that demonstrates the following using only raw JavaScript:
+- [ ] Selecting DOM by ID
+- [ ] Selecting DOM by CSS selectors
+- [ ] Selecting DOM by attribute selectors
+- [ ] Select parent, child, siblings of element
+- [ ] Modifying DOM text content
+- [ ] Adding and removing elements
+- [ ] Adding & removing classes
+- [ ] Adding & removing attributes
+- [ ] Adding & removing data attributes
+- [ ] Getting input values
+- [ ] Using visual transition effects
+- [ ] Hiding/showing DOM
+- [ ] AJAX data GET & POST
+- [ ] Handling events
 
 2) Demonstrate how you've done all of #1 in your work or side-work
 

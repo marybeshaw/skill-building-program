@@ -2,7 +2,7 @@
 
 -----
 
-Est. to complete: 30m
+Est. to complete: ~0.5h
 
 ## Goal
 - You have demonstrated the basic foundations in JavaScript Debugging

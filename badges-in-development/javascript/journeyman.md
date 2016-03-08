@@ -3,7 +3,7 @@
 {{ New badge image goes here }}
 <!-- TODO: create new javascript badges for v2, to be consistent -->
 
-Estimated time: {3-6}hr
+Estimated time: ~19h
 
 -----
 
@@ -22,12 +22,13 @@ Estimated time: {3-6}hr
 
 - [ ] [ES6 / ES2015 Features (~4h)](_micro_javascript-es2015-features.md)
 - [ ] [JavaScript: The Good Parts (~1h)](https://youtu.be/hQVTIJBZook) (video)
-- [ ] [Functional JavaScript](_micro_function-js.md)
-- [ ] [Asynchronous Programming](_micro_async-programming.md)
-- [ ] [JavaScript Language Advanced](_micro_jacascript-language-advanced.md)
-- [ ] JS Performance
-- [ ] [Regular Expressions](_micro_regex.md)
-- [ ] Using VanillaJS
+- [ ] [Functional JavaScript (~1h)](_micro_function-js.md)
+- [ ] [Asynchronous Programming (~3h)](_micro_async-programming.md)
+- [ ] [JavaScript Language Advanced (~2h)](_micro_jacascript-language-advanced.md)
+- [ ] [JS Performance (~4h)](_micro_javascript-performance.md)
+- [ ] [Regular Expressions (~1.5h)](_micro_regex.md)
+- [ ] [Using VanillaJS (~2h)](_micro_using-vanillajs.md)
+- [ ] [JavaScript EXPLORER (~1h)](_micro_EXPLORER.md)
 
 
 -----

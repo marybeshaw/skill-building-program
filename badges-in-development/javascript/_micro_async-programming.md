@@ -1,8 +1,8 @@
-# JavaScript - Async Programming  [Micro Badge]
+# JavaScript - Asynchronous Programming  [Micro Badge]
 
 -----
 
-Est. to complete: 4h
+Est. to complete: 3h
 
 ## Goal
 - You have demonstrated the basic foundations of Asynchronous Programming in JavaScript
@@ -63,6 +63,7 @@ Choose one:
 
 ### Web
 
+#### Promises
 - [Asynchronous Adventures in JavaScript: Promises - Benjamin Diuguid](https://medium.com/@BenDiuguid/asynchronous-adventures-in-javascript-promises-1e0da27a3b4#.cuetgl7ew)
 - [JavaScript Promises - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es6/promises/)
 - [Promise - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
@@ -79,6 +80,9 @@ Choose one:
 - [Asynchronous JavaScript and Promises - Alex Castrounis](http://www.innoarchitech.com/asynchronous-javascript-promises/?utm_source=linkedin&utm_medium=post&utm_content=originallink&utm_campaign=republish)
 - [A Deeper Dive Into JavaScript Promises - Sitepoint](http://www.sitepoint.com/deeper-dive-javascript-promises/)
 - [Keeping Promises With JavaScript - Tuts+](http://code.tutsplus.com/tutorials/keeping-promises-with-javascript--cms-25056)
+
+#### Generators, Async/Wait
+
 - [The Evolution of Asynchronous JavaScript](https://blog.risingstack.com/asynchronous-javascript/)
 - [A Study on Solving Callbacks with JavaScript Generators - James Long](http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators)
 - [Async Await - TC39](https://tc39.github.io/ecmascript-asyncawait/)

@@ -2,7 +2,7 @@
 
 -----
 
-Est. to complete: ___1h
+Est. to complete: 1h
 
 ## Goal____
 - You have demonstrated the basic foundations of Functional Programming in JavaScript.
