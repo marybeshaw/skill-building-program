@@ -27,6 +27,8 @@ Choose one:
   - [ ] [CoderByte](http://coderbyte.com/CodingArea/Challenges/)
   - [ ] [Code Wars](http://www.codewars.com/)
 
+2) Complete the entire "Basic JavaScript" section of FreeCodeCamp [here](https://www.freecodecamp.com/map)
+
 
 -----
 
