@@ -42,7 +42,7 @@ Note: This badge assumes that you have already installed protractor and know how
 
 ### Web
 - [Protractor Homepage](http://www.protractortest.org/)
-- [Protractor API Docs](http://www.protractortest.org/#/api)(very helpful)
+- [Protractor API Docs](http://www.protractortest.org/#/api) (very helpful)
 - [Protractor Page Objects](https://github.com/angular/protractor/blob/master/docs/page-objects.md)
 - [Protractor Style Guide](http://www.protractortest.org/#/style-guide)
 - A Jasmine reporter [alternative](https://github.com/larrymyers/jasmine-reporters#protractor)
@@ -51,3 +51,4 @@ Note: This badge assumes that you have already installed protractor and know how
 -----
 
   *Is this badge missing something? Submit a PR and review it with a master in this category*
+*Note to Admin: If we're having a confluence section for the Javascript badge, we need to mention that FS employees need to get this badge using the [qa-shared-base](https://github.com/fs-eng/qa-shared-base) repo, if we aren't, then I have to make a note in here*
