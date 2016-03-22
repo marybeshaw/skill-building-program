@@ -68,6 +68,7 @@ Choose one:
 
 ### Web
 
+- [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd#.pvq5879ck)
 - [Functional Programming - Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
 - [Introduction to Functional Programming](http://www.sitepoint.com/introduction-functional-javascript/)
 - [Higher Order JavaScript - Interglacial](http://interglacial.com/hoj/hoj.html)
@@ -83,6 +84,7 @@ Choose one:
 - [Functional JavaScript - Sean Hess](https://seanhess.github.io/2012/02/20/functional_javascript.html)
 - [Bind, Call and Apply in JavaScript - Variadic](https://variadic.me/posts/2013-10-22-bind-call-and-apply-in-javascript.html)
 - [Function.prototype.call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
+- [Building cathedrals on the pillars of JavaScript and Functional Programming](https://medium.com/@luijar/building-cathedrals-on-the-pillars-of-javascript-and-functional-programming-6c35058989c6#.34ah3okup)
 
 
 -----
