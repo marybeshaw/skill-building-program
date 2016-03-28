@@ -54,6 +54,7 @@ Choose one:
 - [What is VanillaJS - StackOverflow](http://stackoverflow.com/questions/20435653/what-is-vanillajs)
 - [VanillaJS](http://vanilla-js.com/)
 - [VanillaJS - Haeresis](https://github.com/Haeresis/vanilla-js)
+- [PlainJS](https://plainjs.com/)
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 - [You Don't Need jQuery](http://ndugger.github.io/youdontneedjquery/)
 - [You Don't Need jQuery - Why Not](http://blog.garstasio.com/you-dont-need-jquery/why-not/)
