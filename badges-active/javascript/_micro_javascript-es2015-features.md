@@ -59,6 +59,7 @@ Choose one:
 - [ES6 Features](https://github.com/lukehoban/es6features)
 - [BabelJS: Learn ES2015](https://babeljs.io/docs/learn-es2015/)
 - [Learning JavaScript](https://github.com/iangilman/learning-javascript)
+- [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
 
 
 ### Video
