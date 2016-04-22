@@ -48,6 +48,10 @@ Choose one:
 - [Promise It Won't Hurt - NodeSchool (~1h)](https://github.com/stevekane/promise-it-wont-hurt) (nodeschool-style)
 - [JavaScript Promises: Async Work Made Easy - Udacity](https://www.udacity.com/course/javascript-promises--ud898)
 
+
+-----
+
+
 ### Video
 
 - [Web Fonts, Code Guides, and JavaScript Promises - The Treehouse Show 82](http://blog.teamtreehouse.com/web-fonts-code-guides-javascript-promises-treehouse-show-82)
@@ -56,14 +60,24 @@ Choose one:
 - [Redemption from Callback Hell - Domenic Denicola, Michael Jackson (YouTube)](https://www.youtube.com/watch?v=hf1T_AONQJU)
 - [Hanging Up on Callbacks: Generators in ECMAScript 6 - Erin Senson-Healey (YouTube)](https://www.youtube.com/watch?v=s-BwEk-Y4kg)
 
+
+-----
+
+
 ### Slides
 
 - [JavaScript Promises / Q Library - Jonathan Altman](http://www.slideshare.net/async_io/javascript-promisesq-library-17206726)
 - [Practical JavaScript Promises - Asa Kusuma](http://www.slideshare.net/asakusuma/practical-javascript-promises)
 
+
+-----
+
+
 ### Web
 
 #### Promises
+
+- [Promises - Bluebird](http://bluebirdjs.com/docs/why-promises.html)
 - [Asynchronous Adventures in JavaScript: Promises - Benjamin Diuguid](https://medium.com/@BenDiuguid/asynchronous-adventures-in-javascript-promises-1e0da27a3b4#.cuetgl7ew)
 - [JavaScript Promises - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es6/promises/)
 - [Promise - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
@@ -101,6 +115,10 @@ Choose one:
 - [Javascript's Future: Generators - James Long](http://jlongster.com/Javascript-s-Future--Generators)
 - [ES6 In Depth: Generators - Mozilla Hacks](https://hacks.mozilla.org/2015/05/es6-in-depth-generators/)
 - [SYNCHRONOUS ASYNCHRONOUS JAVASCRIPT WITH ES6 GENERATORS - Chris Buttery](http://chrisbuttery.com/articles/synchronous-asynchronous-javascript-with-es6-generators/)
+
+
+-----
+
 
 ### Tools
 
