@@ -49,11 +49,16 @@ Choose one:
 
 ## Suggested Study
 
+### Interactive
+
+- [CSS Diner](http://flukeout.github.io/)
+
 ### Web
 
 - [CSS3 - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 - [CSS Snapshot 2015 - w3](https://www.w3.org/TR/css-2015/)
 - [How To Use CSS3 Media Queries To Create a Mobile Version of Your Website - Smashing Mag](https://www.smashingmagazine.com/2010/07/how-to-use-css3-media-queries-to-create-a-mobile-version-of-your-website/)
+- [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en)
 - [CSS3 Cheat Sheet](https://www.smashingmagazine.com/2009/07/css-3-cheat-sheet-pdf/)
 
 

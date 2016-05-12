@@ -38,10 +38,15 @@ Choose one:
 
 ## Suggested Study
 
+### Interactive
+
+- [CSS Diner](http://flukeout.github.io/)
+
 ### Web
 
 - [CSS3 - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 - [w3 CSS - Current Work](https://www.w3.org/Style/CSS/current-work)
+- [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en)
 
 
 -----
