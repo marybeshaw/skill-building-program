@@ -74,7 +74,7 @@ Choose one:
 
 #### Reducing Paint Time
 
-- [Performance - Rendering Performance micro badge](../../../badges-active/performance/_micro_rendering-performance.md)
+- [Performance - Rendering Performance micro badge](../../badges-active/performance/_micro_rendering-performance.md)
 - [CSS-perf - mdo](https://github.com/mdo/css-perf)
 - [CSS Paint Times - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/speed/css-paint-times/)
 - [Analyze Runtime Performance - Style - Google Dev](https://developers.google.com/web/tools/chrome-devtools/profile/rendering-tools/analyze-runtime?hl=en#style)
@@ -86,7 +86,7 @@ Choose one:
 
 #### Critical Path CSS
 
-- [Performance - Critical Render Path micro badge](../../../badges-active/performance/_micro_critical-render-path.md)
+- [Performance - Critical Render Path micro badge](../../badges-active/performance/_micro_critical-render-path.md)
 - [Understanding Critical CSS - Smashing Mag](https://www.smashingmagazine.com/2015/08/understanding-critical-css/)
 - [How We Make RWD Sites Load Fast as Heck - Filament Group](https://www.filamentgroup.com/lab/performance-rwd.html)
 - [Authoring Critical Above-thefold CSS - CSS Tricks](https://css-tricks.com/authoring-critical-fold-css/)
