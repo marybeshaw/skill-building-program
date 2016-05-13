@@ -5,15 +5,22 @@
 Est. to complete: {2}h
 
 ## Goal
-- You have demonstrated the basic foundations of CSS Tooling & Processors knowledge.
-- You should have some experience using some techniques such as {X} to make you more productive and expressive by automating some of the more tedious parts of building CSS.
+- You have demonstrated the basic foundations of CSS Tooling & Processors 
+knowledge.
+- You should have some experience using some techniques such as CSS 
+Pre-processors, Post-processors, Linters and Formatters, Reducing Redundancy 
+and Unused Styles, Minification, and Generating Critical Path CSS, to make you 
+more productive and expressive by automating some of the more tedious parts of 
+building highly optimized CSS for the browser.
 
 
 -----
 
 ## Intro
 
-> 
+> CSS tools are important for front-end developers because they help them by 
+simplifying the jobs they have to do, simplify development related tasks and 
+allow to write clean css code. - [CSS tools I use - Ronalds Vilcins](https://medium.com/@vilcins/css-tools-that-i-use-67cb8bfa2e2d#.kydf57ceo)
 
 
 -----
@@ -23,8 +30,13 @@ Est. to complete: {2}h
 
 Choose one:
 
-1) Make a creative project that demonstrates the following using CSS:
-- [ ]
+1) Make a creative project that demonstrates the following, using most of their feature-sets:
+- [ ] CSS Pre-processors
+- [ ] CSS Post-processors
+- [ ] CSS Linters and Formatters 
+- [ ] Reducing CSS Redundancy and Unused Styles
+- [ ] CSS Minifiers (see also: [CSS Performance micro-badge](../_micro_css-performance.md))
+- [ ] Critical Path CSS Generators (see also: [CSS Performance micro-badge](../_micro_css-performance.md))
 
 2) Demonstrate how you've done all of #1 in your work or side-work
 
@@ -41,6 +53,10 @@ Choose one:
 - [CSS Pre-processors - Lean Panda](http://www.leanpanda.com/blog/2015/07/20/css-preprocessors/)
 - [CSS Tools, Frameworks, Libraries 2015 - Speckyboy](https://speckyboy.com/2015/12/06/css-tools-frameworks-libraries-2015/)
 - [CSS Tools That I Use - Ronald Vilcins](https://medium.com/@vilcins/css-tools-that-i-use-67cb8bfa2e2d#.3yge5m571)
+- [Enduring CSS: writing style sheets for rapidly changing, long-lived projects - Ben Frain](https://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/)
+
+
+-----
 
 
 ### Tools
@@ -83,6 +99,7 @@ Choose one:
 - [Critical](https://github.com/addyosmani/critical/blob/master/README.md)
 - [Penthouse](https://github.com/pocketjoso/penthouse)
 - [Critical Path Generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
+
 
 -----
 

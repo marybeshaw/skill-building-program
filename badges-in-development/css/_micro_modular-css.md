@@ -38,7 +38,7 @@ Choose one:
 
 ### Web
 
-- 
+- [Enduring CSS: writing style sheets for rapidly changing, long-lived projects - Ben Frain](https://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/)
 
 
 -----

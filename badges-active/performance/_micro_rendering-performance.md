@@ -40,6 +40,7 @@ Suggested Study
 ---------------
 
 ### Web
+
 - [Browser Rendering Optimization course](https://www.udacity.com/course/browser-rendering-optimization--ud860) - Udacity
 - [CSS Triggers](https://csstriggers.com) - Paul Lewis
 - [Jank-Free](http://jankfree.org/) - Paul Lewis
@@ -50,7 +51,12 @@ Tools](http://engineering.wingify.com/posts/getting-60fps-using-devtools/) - Win
 - [Rendering: repaint, reflow/relayout, restyle](http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
 - [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
+
+-----
+
+
 ### Video
+
 - [A Rendering Performance Guide for Developers - Paul Lewis](https://www.youtube.com/watch?v=9xjpmpX4NJE)
 - [The Applied Science of Runtime Performance](https://www.youtube.com/watch?v=RCFQu0hK6bU)
 - [#perfmatters: 60fps layout and rendering](https://www.youtube.com/watch?v=YyQYhhy1dZI)
@@ -58,10 +64,16 @@ Tools](http://engineering.wingify.com/posts/getting-60fps-using-devtools/) - Win
 - [True Grit: Debugging CSS & Render Performance](https://www.youtube.com/watch?v=gqc88qWuiI4)
 - [How Browsers Work Internally - Tali Garsiel](https://vimeo.com/44182484)
 
+
+-----
+
+
 ### Tools
+
 - [perfjankie](https://github.com/axemclion/perfjankie)
 - [chrome dev tools - timeline tab](https://developer.chrome.com/devtools/docs/timeline)
 - [Justice.js](https://github.com/okor/justice)
+
 
 -----
 

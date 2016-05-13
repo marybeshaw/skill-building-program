@@ -1,5 +1,30 @@
 # How to make content for V2 Skill Building Program
 
+> Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand. - Chinese proverb
+
+Remember the Program's purpose, to "Make Each Other Awesome". This should be done with the following values in mind:
+
+- *"Interactive over Static"*: Use resources that are as interactive as 
+possible, to ensure the learner is heavily involved, and not a passive actor 
+in their own learning experience
+- *"Self-driven over Prescriptive"*: Be sure that the learner is involved in 
+making the decisions needed to be self-driven to find their own answers, 
+resources, and expercises where possible. We can give them the first nudge, but 
+they must propel themselves from then on.
+- *"Open over Closed"*: This repo and the resources inside must all be public 
+and transparent for everything possible until they absolutely can't. Hiding 
+information or using paid resources should always be the exception.
+- *"Shared over Personal"*: These materials work best when they are used in a 
+shared hands-on workshop setting, where people can help each other learn, and 
+fill in the gaps in each others' knowledge, assumptions, and experience.
+- *"The Student Becomes the Master"*: Once a person has some experience in a 
+topic, they must help others attain mastery. Get people to make new content for 
+the skills program as soon as they are interested in a new thing, and they will 
+benefit everyone else with their new knowledge.
+- *"Interest is the glue of learning"*: Make your content fun and interesting, 
+and it will be more memorable. Work very hard on this, and your learners will 
+remember the content forever.
+
 Remember the program's structure.
 There are **Categories**, like `JavaScript`.
 Categories have Apprentice, Journeyman, and Master level **Composite** badges.

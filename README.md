@@ -4,7 +4,8 @@ V2 Skills Building Program
 ==========================
 
 - We accept pull requests
-- Everything here is subject to change & peer review
+- Everything here is subject to change and improve over time, due to peer review
+- Want to make new skills content? [Here's how to get started!](how-to-make-content.md)
 
 
 -----
@@ -36,7 +37,7 @@ other
   [[Apprentice](https://almtools.ldschurch.org/fhconfluence/display/WD/V2+Frontier+-+Apprentice),
   [Journeyman](https://almtools.ldschurch.org/fhconfluence/display/WD/V2+Frontier+-+Journeyman),
   [Master](https://almtools.ldschurch.org/fhconfluence/display/WD/V2+Frontier+-+Master)]
-  - V2: HTML5/CSS3
+  - V2: HTML5
   [[Apprentice](badges-active/html/apprentice.md),
   [Journeyman](badges-active/html/journeyman.md),
   [Master](badges-active/html/master.md)]
@@ -49,6 +50,7 @@ other
   [Journeyman](badges-active/performance/journeyman.md),
   [Master](badges-active/performance/master.md)]
 - [Currently In Development](https://github.com/fs-webdev/skill-building-program/issues/37 "Badges in development")
+  - [V2: CSS](badges-in-development/)
 
 
 -----
