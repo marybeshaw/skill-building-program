@@ -98,6 +98,7 @@ content before making your own if possible.
 - [Bento Tracks](https://www.bento.io/tracks)
 - [Web Platform](http://www.webplatform.org/)
 - [Boucoup Weblog (add search term onto url path)](https://bocoup.com/search/)
+- [Four Kitchens Blog Topics](http://fourkitchens.com/blog/topics)
 - [Treehouse Blog Search](http://blog.teamtreehouse.com/search)
 - [Dive Into HTML5](http://diveintohtml5.info/)
 - [HTML5Rocks](http://www.html5rocks.com/)

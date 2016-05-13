@@ -42,23 +42,47 @@ Choose one:
 - [CSS Tools, Frameworks, Libraries 2015 - Speckyboy](https://speckyboy.com/2015/12/06/css-tools-frameworks-libraries-2015/)
 - [CSS Tools That I Use - Ronald Vilcins](https://medium.com/@vilcins/css-tools-that-i-use-67cb8bfa2e2d#.3yge5m571)
 
+
 ### Tools
+
+#### Pre-Processors
 
 - [LESS](http://lesscss.org/)
 - [SASS](http://sass-lang.com/)
 - [Stylus](http://stylus-lang.com/)
+
+#### Post-Processors
+
 - [PostCSS](http://postcss.org/)
 - [Autoprefixer](https://github.com/postcss/autoprefixer)
 - [CSSNext](https://github.com/MoOx/postcss-cssnext)
 - [Pleeease](http://www.sitepoint.com/css-post-processing-pleeease/)
+
+#### Linting & Static Analysis
+
 - [CSScomb](http://csscomb.com/)
 - [CSSLint](https://github.com/CSSLint/csslint)
 - [stylelint](http://stylelint.io/)
 - [stylefmt](https://github.com/morishitter/stylefmt)
-- [PurifyCSS](https://github.com/purifycss/purifycss)
+ 
+#### Redundancy and Unused Styles
+
 - [UnCSS](https://github.com/giakki/uncss)
 - [CSSCSS](http://zmoazeni.github.io/csscss/)
+- [PurifyCSS](https://github.com/purifycss/purifycss)
 - [Helium CSS](https://github.com/geuis/helium-css)
+
+#### Minifiers
+
+- [CleanCSS](https://github.com/jakubpawlowicz/clean-css)
+- [CSSO](https://github.com/css/csso)
+- [CSS Nano](https://github.com/ben-eb/cssnano)
+
+#### Critical Path CSS
+
+- [Critical](https://github.com/addyosmani/critical/blob/master/README.md)
+- [Penthouse](https://github.com/pocketjoso/penthouse)
+- [Critical Path Generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
 
 -----
 
