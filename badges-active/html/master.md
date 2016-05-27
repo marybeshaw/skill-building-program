@@ -1,14 +1,17 @@
-# {Skill Category} - Master Badge
+# HTML - Master Badge
 
-![{Skill Category} - Master Badge](../img/badges/perf-master-md.png "{Skill Category} Master badge")(change to your badge image)
+{{ New badge image goes here }}
+<!-- TODO: design new V2 HTML badge before this releases -->
+
 
 
 -----
 
 
 ## Goal
-- You have already completed the Apprentice and Journeyman levels of this category.
-- You have demonstrated that you can mentor & teach others how to {Skill Category}.
+
+- You have already completed the Apprentice and Journeyman levels of this category, to be sure you are properly prepared to mentor others as a master.
+- You have demonstrated that you have mentored & taught others how to improve their usage of semantic HTML elements and modern browser APIs.
 - You have demonstrated that you have a master-level understanding and skill in the topic.
 - You have sought out and obtained newly relevant & advanced knowledge on the topic.
 - You have completed project work that furthers our discipline in the topic.
@@ -18,7 +21,6 @@
 
 
 ## Project Plan(s)
-*(This should have more free-form, mentorship-based requirements in Master level)*
 
 **Create a project plan that outlines:**
 
@@ -30,8 +32,10 @@
 - [ ] Complete your project and present your learning to a gathering of web developers
 - [ ] Live as legend and mentor for others in this category
 
-## Current {Skill Category} Masters:
-- {Person Name}
+-----
+
+## Current HTML Masters:
+
 
 -----
 
