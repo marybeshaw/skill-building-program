@@ -76,7 +76,8 @@ You can pass off badges with any discipline manager or master in that Skill area
 
 Current V2 Masters:
 - Frontier:
-- HTML5/CSS:
+- HTML5:
+- CSS:
 - JavaScript:
 - Testing:
 - Performance: Joe Podwys, Jakob Anderson

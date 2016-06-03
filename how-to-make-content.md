@@ -122,6 +122,7 @@ content before making your own if possible.
 - [Bento Grid](https://www.bento.io/grid)
 - [Bento Tracks](https://www.bento.io/tracks)
 - [Web Platform](http://www.webplatform.org/)
+- [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
 - [Boucoup Weblog (add search term onto url path)](https://bocoup.com/search/)
 - [Four Kitchens Blog Topics](http://fourkitchens.com/blog/topics)
 - [Treehouse Blog Search](http://blog.teamtreehouse.com/search)

@@ -38,7 +38,10 @@ Choose one:
 
 ### Web
 
-- 
+#### Mistakes to Avoid
+
+- [9 Responsive Design Mistakes You Don’t Want to Make - The Next Web](http://thenextweb.com/dd/2015/10/28/9-responsive-design-mistakes-you-dont-want-to-make/#gref)
+- [7 Common Mistakes to Avoid in Responsive Web Design - Parachute](https://parachutedesign.ca/blog/7-common-mistakes-to-avoid-in-responsive-web-design/)
 
 
 -----
