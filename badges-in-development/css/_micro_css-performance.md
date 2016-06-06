@@ -49,6 +49,7 @@ Choose one:
 - [CSSconf EU - CSS Performance Tooling - Addy Osmani](https://www.youtube.com/watch?v=FEs2jgZBaQA)
 - [Github's CSS Performance - John Rohan (Link to slides below)](https://vimeo.com/54990931)
 
+
 -----
 
 
@@ -68,6 +69,7 @@ Choose one:
 
 ### Web
 
+- [Performance & Organization - Learn to Code Advanced](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
 - [Improving CSS Performance - John Otander](http://johnotander.com/css/2015/06/10/css-performance/)
 - [Browser Representatives on CSS Performance - Ben Frain](https://benfrain.com/browser-representatives-on-css-performance/)
 

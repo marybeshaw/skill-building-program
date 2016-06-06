@@ -39,7 +39,15 @@ Choose one:
 ### Web
 
 - [Enduring CSS: writing style sheets for rapidly changing, long-lived projects - Ben Frain](https://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/)
+- [CSS Development at Large-Scale Websites - Six Revisions](http://sixrevisions.com/css/css-development-at-large-sites/)
 
+#### CSS Methodologies
+
+- [A Look at Some CSS Methodologies - Six Revisions](http://sixrevisions.com/css/css-methodologies/)
+- [BEM CSS](http://getbem.com/introduction/)
+- [OOCSS](http://oocss.org/)
+- [SMACSS](https://smacss.com/)
+- [SUIT CSS](http://suitcss.github.io/)
 
 -----
 
