@@ -41,6 +41,7 @@ Choose one:
 
 - [CSS Diner](http://flukeout.github.io/)
 - [Flexbox Froggy](http://flexboxfroggy.com/)
+- [CSS Sort Your Friends - Codecademy](https://www.codecademy.com/courses/web-beginner-en-jNuXw/0/1?curriculum_id=50579fb998b470000202dc8b)
 
 ### Web
 
