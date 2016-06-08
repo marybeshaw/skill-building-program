@@ -44,6 +44,10 @@ Choose one:
 
 ## Suggested Study
 
+### Video
+
+- [DevTools Device Mode: Totally Tooling Tips (S3, E5)](https://youtu.be/M482RhQ8i1Q)
+
 ### Web (needs sorting)
 
 - [A Dao of Web Design - John Allsopp, on A List Apart](http://alistapart.com/article/dao)
