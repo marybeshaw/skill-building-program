@@ -41,6 +41,10 @@ Choose one:
 Suggested Study
 ---------------
 
+### Slide Decks
+
+- [HTML Worskhop - Picture Element - Nathan Huff](http://huffn.github.io/htmlApprentice/#/5)
+
 ### Web
 
 - [ResponsiveImages.org](http://responsiveimages.org/)
