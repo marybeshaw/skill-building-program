@@ -38,6 +38,10 @@ Choose one:
 Suggested Study
 ---------------
 
+### Slide Decks
+
+- [HTML Apprentice - Skills Workshop V2 - Nathan Huff](http://huffn.github.io/htmlApprentice/)
+
 ### Web
 
 #### New Elements
