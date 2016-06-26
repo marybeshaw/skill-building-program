@@ -47,6 +47,7 @@ Choose one:
 ### Video
 
 - [DevTools Device Mode: Totally Tooling Tips (S3, E5)](https://youtu.be/M482RhQ8i1Q)
+- [Playlist: Mobile Web Development - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPm5NhhVow5zCtZ_eScc1f-b)
 
 ### Web (needs sorting)
 
