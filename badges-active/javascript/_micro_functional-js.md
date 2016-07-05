@@ -92,6 +92,7 @@ Choose one:
 
 ### Books
 
+- [Mostly Adequate Guide to Functional Programming - Dr. Boolean (free online)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 - [JavaScript Allongé - Reg Breaithwaite (Free to Read Online](https://leanpub.com/javascriptallongesix/read)
 - [Functional JavaScript - Michael Fogus](http://shop.oreilly.com/product/0636920028857.do)
 - [Functional Programming in JavaScript - Dan Mantyla](https://www.packtpub.com/web-development/functional-programming-javascript)
@@ -107,7 +108,7 @@ Choose one:
 - [Functional.js Library](http://functionaljs.com/)
 - [Underscore.js Library](http://underscorejs.org/)
 - [Lodash.js Library](https://lodash.com/)
-- [Underscore Contrib - Assorted Functions](https://github.com/documentcloud/underscore-contrib)
+- [Underscore Contrib - Assorted Functions](https://github.com/documentbutt/underscore-contrib)
 - [Allong.js Library](https://github.com/raganwald/allong.es)
 - [ReactiveEx.js Library](http://reactivex.io/)
 - [ReactiveEx.js Library Repo](https://www.npmjs.com/package/rxjs)
