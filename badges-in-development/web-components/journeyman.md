@@ -26,7 +26,7 @@ Estimated time: TBD
 - [ ] [Raw Web Components (~2h)](_micro_raw_webcomponents.md)
 - [ ] [Type Extension Elements (~2h)](_micro_type_extension.md)
 - [ ] [Element Architecture (~2h)](_micro_element_architecture.md)
-- [ ] [Web Component Testing (~2h)](_micro_element_testing.md) - _It is recommended to complete the Web Component Tester micro badge below_
+- [ ] [Web Component Testing (~2h)](_micro_element_testing.md) - _It is recommended to first complete the Web Component Tester micro badge below_
 
 **Web Component Devtools**
 
