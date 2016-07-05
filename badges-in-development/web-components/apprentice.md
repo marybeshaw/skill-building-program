@@ -27,6 +27,9 @@ Estimated time: TBD
 - [ ] [Template Element (~0.5h)](_micro_template_element.md)
 - [ ] [Custom Elements (~1h)](_micro_custom_elements.md)
 
+### Once above are met, watch the following:
+- https://www.youtube.com/watch?v=pBCDdeqzUlY&index=17&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb
+
 -----
 
   *Is this badge missing something? Submit a PR and review it with a master in this category*
