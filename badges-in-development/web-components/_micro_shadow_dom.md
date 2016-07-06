@@ -1,53 +1,48 @@
-{CATEGORY} - EXPLORER [Micro Badge]
-===================================================
+# Web Components - Shadow DOM [Micro Badge]
 
-Goals:
 ------
 
-- You have done some exploration in the {CATEGORY} subject fields
-- You have applied this exploration to a practical result, and shared it back with the community
+## Goals:
 
+------
 
-Intro
+- You have demonstrated you understand the scope and use cases of the Shadow DOM spec
+- You have demonstrated understanding and usage of Shadow DOM
+
 -----
 
-> “Man cannot discover new oceans unless he has the courage to lose sight of the shore.” ― André Gide
+## Intro
 
-Gain the spirit of exploration. Use that big brain of yours to go find something new, different and awesome in the realm of {CATEGORY}! When you're done, pay it forward by sharing your discovery.
+> “Shadow DOM refers to the ability of the browser to include a subtree of DOM elements into the rendering of a document, but not into the main document DOM tree.” ― https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/
 
+-----
 
-Suggested Assignment(s)
----------------------
+## Assignment(s)
 
 Choose one:
 
-1) Discover a new & helpful {CATEGORY} tool
-  - [ ] Explore & discover the tool (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the tool
-  - [ ] Add the tool to the appropriate micro-badge curriculum
+1) Make a creative project that demonstrates the following:
+- [ ] Creation of Shadow Roots
+- [ ] Creation/Utilization of the `<content>` tag
+- [ ] Stylistic Isolation
+- [ ] Javascript Isolation
 
-2) Discover a new & helpful {CATEGORY} technique
-  - [ ] Explore & discover the technique (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the technique
-  - [ ] Add the technique to the appropriate micro-badge curriculum
+2) Demonstrate how you've done all of #1 in your work or side-work
 
-3) Discover a new & richly helpful {CATEGORY} information resource
-  - [ ] Explore & discover the resource (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the info resource, and something helpful you found in it
-  - [ ] Add the info resource to the appropriate micro-badge curriculum
+3) Something else creative that proves you are totally legit in this topic
 
-4) Write a micro-badge about a new and helpful {CATEGORY} topic
-  - [ ] Explore & discover a {CATEGORY} topic that hasn't been covered by any other {CATEGORY} badges yet
-  - [ ] Propose and get go-ahead to make an awesome micro-badge about your sub-topic
-  - [ ] The micro-badge must be as complete as the other active required ones
-  - [ ] Contribute to actively support and maintain the micro-badge's contents
-
-Suggested Study
 ---------------
 
-### Web
-- Go out and explore!
+## Suggested Study
 
+## Video(s)
+- [DevBytes: Web Components - Shadow DOM](https://www.youtube.com/watch?v=Is4FZxKGqqk)
+
+### Web
+- [Shadow DOM Spec](http://w3c.github.io/webcomponents/spec/shadow/)
+- [Shadow DOM 101 - HTML 5 Rocks](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
+- [Shadow DOM - MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Shadow_DOM)
+- [What the Heck is Shadow DOM](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
 
 -----
 

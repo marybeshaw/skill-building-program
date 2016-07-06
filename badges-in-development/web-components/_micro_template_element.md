@@ -1,53 +1,46 @@
-{CATEGORY} - EXPLORER [Micro Badge]
-===================================================
+# Web Components - Template Element [Micro Badge]
 
-Goals:
 ------
 
-- You have done some exploration in the {CATEGORY} subject fields
-- You have applied this exploration to a practical result, and shared it back with the community
+## Goals:
 
+------
 
-Intro
+- You have demonstrated you understand the scope and use cases of the `<template>` element.
+- You have demonstrated understanding and usage of the `<template>` element.
+
 -----
 
-> “Man cannot discover new oceans unless he has the courage to lose sight of the shore.” ― André Gide
+## Intro
 
-Gain the spirit of exploration. Use that big brain of yours to go find something new, different and awesome in the realm of {CATEGORY}! When you're done, pay it forward by sharing your discovery.
+> “They're a place to put a big wad of HTML that you don't want the browser to mess with at all...for any reason.” ― Rafael Weinstein (spec author)
 
+-----
 
-Suggested Assignment(s)
----------------------
+## Assignment(s)
 
 Choose one:
 
-1) Discover a new & helpful {CATEGORY} tool
-  - [ ] Explore & discover the tool (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the tool
-  - [ ] Add the tool to the appropriate micro-badge curriculum
+1) Make a creative project that demonstrates the following:
+- [ ] Creation of `<template>` element
+- [ ] Utilization of `<template>` element content
 
-2) Discover a new & helpful {CATEGORY} technique
-  - [ ] Explore & discover the technique (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the technique
-  - [ ] Add the technique to the appropriate micro-badge curriculum
+2) Demonstrate how you've done all of #1 in your work or side-work
 
-3) Discover a new & richly helpful {CATEGORY} information resource
-  - [ ] Explore & discover the resource (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the info resource, and something helpful you found in it
-  - [ ] Add the info resource to the appropriate micro-badge curriculum
+3) Something else creative that proves you are totally legit in this topic
 
-4) Write a micro-badge about a new and helpful {CATEGORY} topic
-  - [ ] Explore & discover a {CATEGORY} topic that hasn't been covered by any other {CATEGORY} badges yet
-  - [ ] Propose and get go-ahead to make an awesome micro-badge about your sub-topic
-  - [ ] The micro-badge must be as complete as the other active required ones
-  - [ ] Contribute to actively support and maintain the micro-badge's contents
-
-Suggested Study
 ---------------
 
-### Web
-- Go out and explore!
+## Suggested Study
 
+## Video(s)
+- [DevBytes: Web Components - Template](https://www.youtube.com/watch?v=qC5xK6H0GlQ)
+
+### Web
+- [HTML Templates Spec](https://www.w3.org/TR/html-templates/)
+- [HTML's New Template Tag: Standardizing client-side templating](http://www.html5rocks.com/en/tutorials/webcomponents/template/)
+- [<template> - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
+- [Introduction to the template elements](http://webcomponents.org/articles/introduction-to-template-element/)
 
 -----
 
