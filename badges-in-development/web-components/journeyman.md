@@ -23,15 +23,13 @@ Estimated time: TBD
 
 **Element Construction**
 
-- [ ] [POJ* Web Components (~2h)](_micro_POJ_webcomponents.md)
-- [ ] [Element Architecture (~2h)](_micro_element_architecture.md)
-- [ ] [Web Component Testing (~2h)](_micro_element_testing.md) - _It is recommended to first complete the Web Component Tester micro badge below_
+- [ ] [POJ* Web Components (~3h)](_micro_POJ_webcomponents.md)
+- [ ] [Web Component Testing (~2h)](_micro_element_testing.md)
 
 **Web Component Devtools**
 
-- [ ] [Web Component Tester (~2h)](_micro_web_component_tester.md)
 - [ ] [Vulcanize (~2h)](_micro_vulzanice.md)
-- [ ] [Polyserve/Bower (~4h)](_micro_polyserve_bower.md)
+- [ ] [Polyserve/Bower (~3h)](_micro_polyserve_bower.md)
 
 ### Earn 1 of these:
 
