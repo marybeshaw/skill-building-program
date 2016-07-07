@@ -33,7 +33,7 @@ Choose one:
 
 ## Suggested Study
 
-## Video(s)
+##$ Video(s)
 - [DevBytes: Web Components - Template](https://www.youtube.com/watch?v=qC5xK6H0GlQ)
 
 ### Web

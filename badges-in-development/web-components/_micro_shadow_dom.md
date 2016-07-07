@@ -35,7 +35,7 @@ Choose one:
 
 ## Suggested Study
 
-## Video(s)
+### Video(s)
 - [DevBytes: Web Components - Shadow DOM](https://www.youtube.com/watch?v=Is4FZxKGqqk)
 
 ### Web

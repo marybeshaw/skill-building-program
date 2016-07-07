@@ -23,8 +23,7 @@ Estimated time: TBD
 
 **Element Construction**
 
-- [ ] [Raw Web Components (~2h)](_micro_raw_webcomponents.md)
-- [ ] [Type Extension Elements (~2h)](_micro_type_extension.md)
+- [ ] [POJ* Web Components (~2h)](_micro_POJ_webcomponents.md)
 - [ ] [Element Architecture (~2h)](_micro_element_architecture.md)
 - [ ] [Web Component Testing (~2h)](_micro_element_testing.md) - _It is recommended to first complete the Web Component Tester micro badge below_
 
@@ -48,4 +47,6 @@ Estimated time: TBD
 
 -----
 
-  *Is this badge missing something? Submit a PR and review it with a master in this category*
+_* POJ stands for Plain Old Javascript_
+
+*Is this badge missing something? Submit a PR and review it with a master in this category*

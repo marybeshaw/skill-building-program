@@ -23,8 +23,7 @@ Choose one:
 
 1) Make a creative project that demonstrates the following:
 - [ ] Creation of a custom element
-- [ ] Definition of lifecycle callback
-- [ ] Creation of an element API
+- [ ] Creation of a simple template for the element
 - [ ] Usage of a custom element
 
 2) Demonstrate how you've done all of #1 in your work or side-work
@@ -36,7 +35,7 @@ Choose one:
 
 ## Suggested Study
 
-## Video(s)
+### Video(s)
 - [DevBytes: Web Components - Custom Elements](https://www.youtube.com/watch?v=iVJA-lGkEFw)
 
 ### Web

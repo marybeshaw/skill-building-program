@@ -1,53 +1,46 @@
-{CATEGORY} - EXPLORER [Micro Badge]
-===================================================
+# Web Components - Element Testing [Micro Badge]
 
-Goals:
 ------
 
-- You have done some exploration in the {CATEGORY} subject fields
-- You have applied this exploration to a practical result, and shared it back with the community
+## Goals:
 
+------
 
-Intro
+- You have demonstrated an understanding of testing web components
+- You have demonstrated that you can test your own custom elements
+
 -----
 
-> “Man cannot discover new oceans unless he has the courage to lose sight of the shore.” ― André Gide
+## Intro
 
-Gain the spirit of exploration. Use that big brain of yours to go find something new, different and awesome in the realm of {CATEGORY}! When you're done, pay it forward by sharing your discovery.
+> “Testing is something we have taken seriously from day one and as a result it’s a big part of our development culture. If you’ve been on the fence about writing unit tests but haven’t dove in headfirst yet let me tell you why you should. You’ll save yourself a bunch of pain and work happier by writing unit tests. Happy programmers write better code. There’s no better medicine for a software product than a frequent dose of high quality code.” ― http://blog.hubstaff.com/why-you-should-write-unit-tests/
+
+-----
+
+## Suggested Assignment(s)
+
+1) Make a creative project that demonstrates the following:
+- [ ] Unit Testing of Custom Elements
+- [ ] Configuration/Usage of Web Component Tester
+- [ ] Travis-CI integration
+
+2) Demonstrate how you've done all of #1 in your work or side-work
+
+3) Something else creative that proves you are totally legit in these topics
 
 
-Suggested Assignment(s)
----------------------
-
-Choose one:
-
-1) Discover a new & helpful {CATEGORY} tool
-  - [ ] Explore & discover the tool (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the tool
-  - [ ] Add the tool to the appropriate micro-badge curriculum
-
-2) Discover a new & helpful {CATEGORY} technique
-  - [ ] Explore & discover the technique (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the technique
-  - [ ] Add the technique to the appropriate micro-badge curriculum
-
-3) Discover a new & richly helpful {CATEGORY} information resource
-  - [ ] Explore & discover the resource (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the info resource, and something helpful you found in it
-  - [ ] Add the info resource to the appropriate micro-badge curriculum
-
-4) Write a micro-badge about a new and helpful {CATEGORY} topic
-  - [ ] Explore & discover a {CATEGORY} topic that hasn't been covered by any other {CATEGORY} badges yet
-  - [ ] Propose and get go-ahead to make an awesome micro-badge about your sub-topic
-  - [ ] The micro-badge must be as complete as the other active required ones
-  - [ ] Contribute to actively support and maintain the micro-badge's contents
-
-Suggested Study
 ---------------
 
-### Web
-- Go out and explore!
+## Suggested Study
 
+### Video(s)
+- [Unit Testing With Web Component Tester](https://www.youtube.com/watch?v=YBNBr9ECXLo)
+- [Using ES6 with Polymer (The Polymer Summit 2015)](https://youtu.be/bX3_tN23M_Y?t=14m26s)
+
+### Web
+- [Test Your Elements](https://www.polymer-project.org/1.0/docs/tools/tests)
+- [Web Component Tester Github](https://github.com/Polymer/web-component-tester)
+- [Continuous Integration for Web Components with Web Component Tester and Travis CI](https://www.jamiestarke.com/2015/06/10/continuous-integration-polymer-web-component-tester-travis-ci/)
 
 -----
 

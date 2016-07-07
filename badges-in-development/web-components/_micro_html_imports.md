@@ -29,7 +29,7 @@ Make a project that demonstrates the following:
 
 ## Suggested Study
 
-## Video(s)
+### Video(s)
 - [DevBytes: Web Components - HTML Imports](https://www.youtube.com/watch?v=JhpOw8mq1jo)
 
 ### Web
