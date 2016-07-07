@@ -1,53 +1,49 @@
-{CATEGORY} - EXPLORER [Micro Badge]
-===================================================
+# Web Components - Custom Elements [Micro Badge]
 
-Goals:
 ------
 
-- You have done some exploration in the {CATEGORY} subject fields
-- You have applied this exploration to a practical result, and shared it back with the community
+## Goals:
 
+------
 
-Intro
+- You have demonstrated you understand the scope and use cases of the Custom Elements spec
+- You should know how to and be able to demonstrate creation/usage of a custom element and a type extension element.
+
 -----
 
-> “Man cannot discover new oceans unless he has the courage to lose sight of the shore.” ― André Gide
+## Intro
 
-Gain the spirit of exploration. Use that big brain of yours to go find something new, different and awesome in the realm of {CATEGORY}! When you're done, pay it forward by sharing your discovery.
+> “Custom elements provide a way for authors to build their own fully-featured DOM elements. Although authors could always use non-standard elements in their documents, with application-specific behaviour added after the fact by scripting or similar, such elements have historically been non-conforming and not very functional. By defining a custom element, authors can inform the parser how to properly construct an element and how elements of that class should react to changes.” ― https://www.w3.org/TR/custom-elements
 
+-----
 
-Suggested Assignment(s)
----------------------
+## Suggested Assignment(s)
 
 Choose one:
 
-1) Discover a new & helpful {CATEGORY} tool
-  - [ ] Explore & discover the tool (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the tool
-  - [ ] Add the tool to the appropriate micro-badge curriculum
+1) Make a creative project that demonstrates the following:
+- [ ] Creation of a custom element
+- [ ] Definition of lifecycle callback
+- [ ] Creation of an element API
+- [ ] Usage of a custom element
 
-2) Discover a new & helpful {CATEGORY} technique
-  - [ ] Explore & discover the technique (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the technique
-  - [ ] Add the technique to the appropriate micro-badge curriculum
+2) Demonstrate how you've done all of #1 in your work or side-work
 
-3) Discover a new & richly helpful {CATEGORY} information resource
-  - [ ] Explore & discover the resource (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the info resource, and something helpful you found in it
-  - [ ] Add the info resource to the appropriate micro-badge curriculum
+3) Something else creative that proves you are totally legit in this topic
 
-4) Write a micro-badge about a new and helpful {CATEGORY} topic
-  - [ ] Explore & discover a {CATEGORY} topic that hasn't been covered by any other {CATEGORY} badges yet
-  - [ ] Propose and get go-ahead to make an awesome micro-badge about your sub-topic
-  - [ ] The micro-badge must be as complete as the other active required ones
-  - [ ] Contribute to actively support and maintain the micro-badge's contents
 
-Suggested Study
 ---------------
 
-### Web
-- Go out and explore!
+## Suggested Study
 
+## Video(s)
+- [DevBytes: Web Components - Custom Elements](https://www.youtube.com/watch?v=iVJA-lGkEFw)
+
+### Web
+- [Custom Elements Spec](https://w3c.github.io/webcomponents/spec/custom/)
+- [Custom Elements: defining new elements in HTML](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
+- [Introduction to Custom Elements - WebComponents.org](http://webcomponents.org/articles/introduction-to-custom-elements/)
+- [Introduction to Custom Elements - Smashing Magazine](https://www.smashingmagazine.com/2014/03/introduction-to-custom-elements/)
 
 -----
 
