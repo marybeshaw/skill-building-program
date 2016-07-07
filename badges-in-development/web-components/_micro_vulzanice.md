@@ -1,53 +1,49 @@
-{CATEGORY} - EXPLORER [Micro Badge]
-===================================================
+# Web Components - Template Element [Micro Badge]
 
-Goals:
 ------
 
-- You have done some exploration in the {CATEGORY} subject fields
-- You have applied this exploration to a practical result, and shared it back with the community
+## Goals:
 
+------
 
-Intro
+- You have demonstrated you understand the scope and use cases of vulcanize
+- You have demonstrated understanding and the various ways you can vulcanize web components
+
 -----
 
-> “Man cannot discover new oceans unless he has the courage to lose sight of the shore.” ― André Gide
+## Intro
 
-Gain the spirit of exploration. Use that big brain of yours to go find something new, different and awesome in the realm of {CATEGORY}! When you're done, pay it forward by sharing your discovery.
+> “Web pages that use multiple HTML Imports to load dependencies may end up making lots of network round-trips. In many cases, this can lead to long initial load times and unnecessary bandwidth usage. The Vulcanize tool follows HTML Imports and `<script>` tags to inline these external assets into a single page, to be used in production.
+In the future, technologies such as HTTP/2 and Server Push will likely obsolete the need for a tool like vulcanize for production uses.” ― https://github.com/Polymer/vulcanize
 
+-----
 
-Suggested Assignment(s)
----------------------
+## Assignment(s)
 
 Choose one:
 
-1) Discover a new & helpful {CATEGORY} tool
-  - [ ] Explore & discover the tool (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the tool
-  - [ ] Add the tool to the appropriate micro-badge curriculum
+1) Make a creative project that demonstrates the following:
+- [ ] Vulcanization of a group of elements
+- [ ] Inlining of external scripts/styles
+- [ ] Integration of vulcanziation into a build pipeline
 
-2) Discover a new & helpful {CATEGORY} technique
-  - [ ] Explore & discover the technique (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the technique
-  - [ ] Add the technique to the appropriate micro-badge curriculum
+2) Demonstrate how you've done all of #1 in your work or side-work
 
-3) Discover a new & richly helpful {CATEGORY} information resource
-  - [ ] Explore & discover the resource (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the info resource, and something helpful you found in it
-  - [ ] Add the info resource to the appropriate micro-badge curriculum
+3) Something else creative that proves you are totally legit in this topic
 
-4) Write a micro-badge about a new and helpful {CATEGORY} topic
-  - [ ] Explore & discover a {CATEGORY} topic that hasn't been covered by any other {CATEGORY} badges yet
-  - [ ] Propose and get go-ahead to make an awesome micro-badge about your sub-topic
-  - [ ] The micro-badge must be as complete as the other active required ones
-  - [ ] Contribute to actively support and maintain the micro-badge's contents
-
-Suggested Study
 ---------------
 
-### Web
-- Go out and explore!
+## Suggested Study
 
+##$ Video(s)
+- [Optimize for production with Vulcanize -- Polycasts #39](https://www.youtube.com/watch?v=EUZWE8EZ0IU)
+- [Polymer Power Tools (The Polymer Summit 2015)](https://www.youtube.com/watch?v=LMqM4PfrFxs)
+
+### Web
+- [Vulcanize Github Repo](https://github.com/Polymer/vulcanize)
+- [Optimize For Production](https://www.polymer-project.org/1.0/docs/tools/optimize-for-production)
+- [gulp-vulcanize](https://www.npmjs.com/package/gulp-vulcanize)
+- [Polymer: Vulcanize All The Things](https://zisismaras.me/polymer/2015/04/02/polymer-vulcanize.html)
 
 -----
 

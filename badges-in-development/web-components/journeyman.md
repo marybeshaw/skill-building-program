@@ -29,7 +29,6 @@ Estimated time: TBD
 **Web Component Devtools**
 
 - [ ] [Vulcanize (~2h)](_micro_vulzanice.md)
-- [ ] [Polyserve/Bower (~3h)](_micro_polyserve_bower.md)
 
 ### Earn 1 of these:
 
