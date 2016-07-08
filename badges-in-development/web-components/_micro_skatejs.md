@@ -1,4 +1,4 @@
-# Web Components - Polymer [Micro Badge]
+# Web Components - SkateJS [Micro Badge]
 
 ------
 
@@ -6,7 +6,7 @@
 
 ------
 
-- You have demonstrated you understand how to use the Polymer library to make web components
+- You have demonstrated you understand how to use the SkateJS library to make web components
 - You have demonstrated creation of custom elements using this library and understand how it helps in creation of Web Components.
 
 -----
@@ -36,9 +36,8 @@ Choose one:
 ## Suggested Study
 
 ### Web
-- [Polymer Official Site](https://www.polymer-project.org/1.0/)
-- [Polymer Feature Overview](https://www.polymer-project.org/1.0/docs/devguide/feature-overview)
-- [Polymer API Documentation](https://www.polymer-project.org/1.0/docs/api/Polymer.Base)
+- [SkateJS Github](https://github.com/skatejs/skatejs)
+- [SkateJS Documentation](https://github.com/skatejs/skatejs#documentation)
 
 -----
 

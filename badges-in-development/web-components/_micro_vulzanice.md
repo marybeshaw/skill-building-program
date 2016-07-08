@@ -1,4 +1,4 @@
-# Web Components - Template Element [Micro Badge]
+# Web Components - Vulcanize [Micro Badge]
 
 ------
 

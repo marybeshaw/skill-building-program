@@ -30,13 +30,13 @@ Estimated time: TBD
 
 - [ ] [Vulcanize (~2h)](_micro_vulzanice.md)
 
-### Earn 1 of these:
+### Earn 2 of these:
 
 **Libraries**
 
 - [ ] [Polymer](_micro_polymer.md)
 - [ ] [X-Tag](_micro_x-tag.md)
-- [ ] [Bosonic](_micro_bosonic.md)
+- [ ] [SkateJS](_micro_skatejs.md)
 
 ### Once above are met, then earn 1 of these:
 - [ ] [Web Component Performance (~2h)](_micro_web_component_perf.md)

@@ -1,53 +1,47 @@
-{CATEGORY} - EXPLORER [Micro Badge]
-===================================================
+# Web Components - Vulcanize [Micro Badge]
 
-Goals:
 ------
 
-- You have done some exploration in the {CATEGORY} subject fields
-- You have applied this exploration to a practical result, and shared it back with the community
+## Goals:
 
+------
 
-Intro
+- You have demonstrated you understand several different performance techniques for Web Components.
+- You have demonstrated practical application of several of these performance techniques.
+
 -----
 
-> “Man cannot discover new oceans unless he has the courage to lose sight of the shore.” ― André Gide
+## Intro
 
-Gain the spirit of exploration. Use that big brain of yours to go find something new, different and awesome in the realm of {CATEGORY}! When you're done, pay it forward by sharing your discovery.
+> “Loading time is a major contributing factor to page abandonment. The average user has no patience for a page that takes too long to load, and justifiably so.” ― https://blog.kissmetrics.com/loading-time/?wide=1
 
+-----
 
-Suggested Assignment(s)
----------------------
+## Assignment(s)
 
 Choose one:
 
-1) Discover a new & helpful {CATEGORY} tool
-  - [ ] Explore & discover the tool (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the tool
-  - [ ] Add the tool to the appropriate micro-badge curriculum
+1) Make a creative project that demonstrates the following:
+- [ ] Async Element Loading
+- [ ] Manual FOUC handling
+- [ ] Element Lazy Loading
 
-2) Discover a new & helpful {CATEGORY} technique
-  - [ ] Explore & discover the technique (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the technique
-  - [ ] Add the technique to the appropriate micro-badge curriculum
+2) Demonstrate how you've done all of #1 in your work or side-work
 
-3) Discover a new & richly helpful {CATEGORY} information resource
-  - [ ] Explore & discover the resource (hasn't been covered in your required micro-badges yet)
-  - [ ] Demonstrate the info resource, and something helpful you found in it
-  - [ ] Add the info resource to the appropriate micro-badge curriculum
+3) Something else creative that proves you are totally legit in this topic
 
-4) Write a micro-badge about a new and helpful {CATEGORY} topic
-  - [ ] Explore & discover a {CATEGORY} topic that hasn't been covered by any other {CATEGORY} badges yet
-  - [ ] Propose and get go-ahead to make an awesome micro-badge about your sub-topic
-  - [ ] The micro-badge must be as complete as the other active required ones
-  - [ ] Contribute to actively support and maintain the micro-badge's contents
-
-Suggested Study
 ---------------
 
-### Web
-- Go out and explore!
+## Suggested Study
 
+### Video(s)
+- [Polymer Performance Patterns](https://youtu.be/Yr84DpNaMfk)
+- [Polymer Power Tools (The Polymer Summit 2015)](https://www.youtube.com/watch?v=LMqM4PfrFxs)
+
+### Web
+- [Polymer For The Performance Obsessed](https://aerotwist.com/blog/polymer-for-the-performance-obsessed/)
+- [Polymer App First Paint/Loading Demos](https://ebidel.github.io/polymer-experiments/polymersummit/fouc/)
+- [Zuperkul Blog](https://github.com/PolymerLabs/zuperkulblog-progressive)
 
 -----
 
