@@ -6,8 +6,8 @@
 
 ------
 
-- You have demonstrated that you can create your own custom elements.
-- You have demonstrated that you can create your own type extension elements.
+- You have demonstrated that you can create your own custom elements with only javascript.
+- You have demonstrated that you can create your own type extension elements with only javascript.
 - You have demonstrated an understanding of how/when to use the different pieces of the Web Components spec
 
 -----

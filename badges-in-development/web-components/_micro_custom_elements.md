@@ -6,8 +6,8 @@
 
 ------
 
-- You have demonstrated you understand the scope and use cases of the Custom Elements spec
-- You should know how to and be able to demonstrate creation/usage of a custom element and a type extension element.
+- You have demonstrated you understand the scope and use cases of the Custom Elements spec.
+- You should know how to and be able to demonstrate creation/usage of a custom element and a type extension element without using a library.
 
 -----
 
