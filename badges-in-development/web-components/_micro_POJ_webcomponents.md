@@ -23,6 +23,7 @@
 1) Make a creative project that demonstrates the following:
 
   a) Custom Elements
+  
    - [ ] Creation of a custom element
    - [ ] Definition of different lifecycle callbacks
    - [ ] Creation of an element API (properties/methods/event handlers)
@@ -30,6 +31,7 @@
 
 
   b) Type Extension Elements
+  
    - [ ] Creation of a type extension element
    - [ ] Styling of the `:host` element
    - [ ] Usage of a type extension element (both HTML and Javascript)
