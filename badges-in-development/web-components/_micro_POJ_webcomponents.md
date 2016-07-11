@@ -20,6 +20,8 @@
 
 ## Suggested Assignment(s)
 
+Choose One:
+
 1) Make a creative project that demonstrates the following:
 
 a) Custom Elements
