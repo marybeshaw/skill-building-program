@@ -1,4 +1,4 @@
-# Web Components - Vulcanize [Micro Badge]
+# Web Components - Web Component Performance [Micro Badge]
 
 ------
 
