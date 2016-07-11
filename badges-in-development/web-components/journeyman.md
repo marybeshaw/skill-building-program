@@ -28,7 +28,7 @@ Estimated time: TBD
 
 **Web Component Devtools**
 
-- [ ] [Vulcanize (~2h)](_micro_vulzanice.md)
+- [ ] [Vulcanize (~2h)](_micro_vulcanize.md)
 
 ### Earn 2 of these:
 
