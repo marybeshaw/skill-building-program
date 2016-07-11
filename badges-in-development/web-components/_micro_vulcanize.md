@@ -25,7 +25,7 @@ Choose one:
 1) Make a creative project that demonstrates the following:
 - [ ] Vulcanization of a group of elements
 - [ ] Inlining of external scripts/styles
-- [ ] Integration of vulcanziation into a build pipeline
+- [ ] Integration of vulcanization into a build pipeline
 
 2) Demonstrate how you've done all of #1 in your work or side-work
 
