@@ -1,9 +1,6 @@
 # Web Components - Master Badge
 
-{{ New badge image goes here }}
-<!-- TODO: design new V2 HTML badge before this releases -->
-
-
+![Web Components Badge](../../img/badges/WebComponents.svg "Performance - Apprentice Badge")
 
 -----
 

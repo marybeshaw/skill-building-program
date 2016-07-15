@@ -29,7 +29,7 @@ other
 
 -----
 
-## News and Updates: 
+## News and Updates:
 
 ## Badges
 - [Currently Active](badges-active/ "Currently Active Badges")
@@ -49,6 +49,10 @@ other
   [[Apprentice](badges-active/performance/apprentice.md),
   [Journeyman](badges-active/performance/journeyman.md),
   [Master](badges-active/performance/master.md)]
+  - V2: Web Components
+  [[Apprentice](badges-active/web-components/apprentice.md),
+  [Journeyman](badges-active/web-components/journeyman.md),
+  [Master](badges-active/web-components/master.md)]
 - [Currently In Development](https://github.com/fs-webdev/skill-building-program/issues/37 "Badges in development")
   - [V2: CSS](badges-in-development/)
 

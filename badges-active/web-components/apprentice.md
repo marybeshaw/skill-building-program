@@ -1,9 +1,8 @@
 # Web Components - Apprentice [Composite]
 
-{{ New badge image goes here }}
-<!-- TODO: design new V2 HTML badge before this releases -->
+![Web Components Badge](../../img/badges/WebComponents.svg "Performance - Apprentice Badge")
 
-Estimated time: TBD
+Est. Time to complete: 3-5hr
 
 -----
 
