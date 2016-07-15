@@ -14,6 +14,7 @@
 ## Intro
 
 We want to make sure that everyone has a basic understanding of some of the libraries that are available to them as they develop web components. This badge is geared towards helping you gain exposure to the library and develop opinions about how it works in comparison to just creating plain old javascript web components.
+
 -----
 
 ## Assignment(s)

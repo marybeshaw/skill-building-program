@@ -1,6 +1,6 @@
 # Web Components - Journeyman [Composite]
 
-![Web Components Badge](../../img/badges/WebComponents.svg "Performance - Apprentice Badge")
+![Web Components Badge](../../img/badges/WebComponents.png "Performance - Apprentice Badge")
 
 Est. Time to complete: 8-10hr
 
