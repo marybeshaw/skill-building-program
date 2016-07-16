@@ -2,7 +2,7 @@
 
 -----
 
-Est. to complete: {2}h
+Est. to complete: 2h
 
 ## Goal
 - You have demonstrated the basic foundations of upcoming and experimental set of CSS spec modules.
@@ -44,6 +44,7 @@ Choose one:
 
 ### Web
 
+- [CSS Level 4 Selectors to Watch Out For - TutsPlus](http://code.tutsplus.com/articles/css-level-4-selectors-to-watch-out-for--cms-23117)
 - [CSS3 - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 - [w3 CSS - Current Work](https://www.w3.org/Style/CSS/current-work)
 - [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en)

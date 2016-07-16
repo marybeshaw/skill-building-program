@@ -2,7 +2,7 @@
 
 -----
 
-Est. to complete: {2}h
+Est. to complete: 1-2h
 
 ## Goal
 - You have demonstrated the basic foundations of CSS Responsive Design knowledge.
@@ -13,7 +13,11 @@ Est. to complete: {2}h
 
 ## Intro
 
-> The control which designers know in the print medium, and often desire in the web medium, is simply a function of the limitation of the printed page. We should embrace the fact that the web doesn’t have the same constraints, and design for this flexibility. But first, we must 'accept the ebb and flow of things.' - John Allsopp, "A Dao of Web Design"
+> The control which designers know in the print medium, and often desire in the 
+web medium, is simply a function of the limitation of the printed page. We 
+should embrace the fact that the web doesn’t have the same constraints, and 
+design for this flexibility. But first, we must 'accept the ebb and flow of 
+things.' - John Allsopp, "A Dao of Web Design"
 
 
 -----
@@ -48,7 +52,11 @@ Choose one:
 
 - [DevTools Device Mode: Totally Tooling Tips (S3, E5)](https://youtu.be/M482RhQ8i1Q)
 
-### Web (needs sorting)
+
+-----
+
+
+### Web
 
 - [A Dao of Web Design - John Allsopp, on A List Apart](http://alistapart.com/article/dao)
 - [Responsive Web Design - Ethan Marcotte, on A List Apart](http://alistapart.com/article/responsive-web-design)

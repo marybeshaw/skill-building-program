@@ -2,7 +2,7 @@
 
 -----
 
-Est. to complete: {2}h
+Est. to complete: 1h
 
 ## Goal
 - You have demonstrated the basic foundations of The currently supported set of CSS spec modules (previously known generally as "CSS3")

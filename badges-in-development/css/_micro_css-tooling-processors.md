@@ -1,10 +1,11 @@
 # CSS - Tooling & Processors [Micro Badge]
+==========================================
 
------
+Est. to complete: 2-3h
 
-Est. to complete: {2}h
+## Goals
+--------
 
-## Goal
 - You have demonstrated the basic foundations of CSS Tooling & Processors 
 knowledge.
 - You should have some experience using some techniques such as CSS 

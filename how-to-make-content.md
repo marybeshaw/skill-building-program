@@ -70,7 +70,21 @@ look at the other completed badges in the program:
 [badges-active/](Active Badges). Don't forget to make your content fun, free,
 and not too prescriptive. The program is meant to inspire self-learning, and not
  hand-holding.
+ 
+## Follow the style guide
+[Style Guide](style-guide.md)
 
+
+## Don't be too prescriptive
+
+> The best teachers are those who show you where to look, but don't tell you 
+what to see. - Alexandra K. Trenfor  
+
+We are trying to foster a culture of self-discovery and creativity, rather than 
+co-reliance and unimaginative literalism. Give people great sources, but let 
+them find and discover what they need from it, and they will better at solving 
+the unknown in the future. It's hard to have those formative "ah-ha!" moments 
+when someone tells you all the answers.
 
 ## Where to get content
 
