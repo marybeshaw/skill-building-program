@@ -80,6 +80,10 @@ Choose one:
 #### Text-Rendering
 
 - [`text-rendering: optimizeLegibility` is Decadent and Depraved - Mat Marquis for Bocoup](https://bocoup.com/weblog/text-rendering)
+ 
+#### Web Typography Performance
+
+- [Weighing Aesthetics and Speed: How Your Typography Decisions May Affect Performance - Lara Hogan](https://medium.com/type-thursday/weighing-aesthetics-and-speed-how-your-typography-decisions-may-affect-performance-299a4ea8b273)
 
 
 -----
