@@ -74,7 +74,7 @@ Choose one:
 
 #### CSS Animation Examples
 
-- [The Baby Dino's CSS Codepens](http://codepen.io/thebabydino/pens/public/)
+- [Ana Tudor's CSS Codepens](http://codepen.io/thebabydino/pens/public/)
 - [Examples From the CSS Animations Pocket Guide Book](http://codepen.io/collection/EIqBg/)
 
 #### High Performance CSS Animations
