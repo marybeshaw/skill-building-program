@@ -7,7 +7,7 @@ Est. to complete: 1-2h
 ## Goal
 - You have demonstrated the basic foundations of CSS Typography 
 knowledge.
-- You should have some experience using some techniques such as `@font-face`, `font-display`, preloading web fonts,  
+- You should have some experience using some techniques such as `@font-face`, `font-display`, preloading web fonts, using native / system fonts on the web, FOUT, FOIT, and other font-loading behaviors, FontFaceObserver API, and the performance impact of using web typography.
 
 
 -----
