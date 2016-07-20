@@ -24,9 +24,9 @@
 
 **Create a project plan that outlines:**
 
-  1) What you wish to build
-  2) Why it is important
-  3) How it will benefit our discipline
+  1) What you wish to build  
+  2) Why it is important  
+  3) How it will benefit our discipline  
 
 - [ ] Have your project plan approved by a master in this skill
 - [ ] Complete your project and present your learning to a gathering of web developers
