@@ -41,6 +41,10 @@ other
   [[Apprentice](badges-active/html/apprentice.md),
   [Journeyman](badges-active/html/journeyman.md),
   [Master](badges-active/html/master.md)]
+  - V2: CSS
+  [[Apprentice](badges-active/css/apprentice.md),
+  [Journeyman](badges-active/css/journeyman.md),
+  [Master](badges-active/css/master.md)]
   - V2: JavaScript
   [[Apprentice](badges-active/javascript/apprentice.md),
   [Journeyman](badges-active/javascript/journeyman.md),
@@ -53,8 +57,8 @@ other
   [[Apprentice](badges-active/web-components/apprentice.md),
   [Journeyman](badges-active/web-components/journeyman.md),
   [Master](badges-active/web-components/master.md)]
-- [Currently In Development](https://github.com/fs-webdev/skill-building-program/issues/37 "Badges in development")
-  - [V2: CSS](badges-in-development/)
+<!-- - [Currently In Development](https://github.com/fs-webdev/skill-building-program/issues/37 "Badges in development") -->
+<!--   - [V2: CSS](badges-in-development/) -->
 
 
 -----
