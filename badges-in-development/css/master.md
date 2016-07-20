@@ -1,7 +1,7 @@
 # CSS - Master Badge
 
-{{ New badge image goes here }}
-<!-- TODO: design new V2 HTML badge before this releases -->
+<!-- {{ New badge image goes here }} -->
+<!-- TODO: design new V2 CSS badge before this releases -->
 
 
 

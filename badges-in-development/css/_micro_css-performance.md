@@ -2,7 +2,7 @@
 
 -----
 
-Est. to complete: {2}h
+Est. to complete: 1-2h
 
 ## Goal
 - You have demonstrated the basic foundations of CSS performance knowledge.

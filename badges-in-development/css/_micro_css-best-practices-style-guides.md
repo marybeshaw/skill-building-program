@@ -2,7 +2,7 @@
 
 -----
 
-Est. to complete: {2}h
+Est. to complete: 1-2h
 
 ## Goal
 - You have demonstrated the basic foundations of CSS Best Practices knowledge.
@@ -13,7 +13,7 @@ Est. to complete: {2}h
 
 ## Intro
 
-> 
+> [...] despite its deceptively easy exterior, CSS is one complicated system, especially when you’re doing it in a professional, high-scale, high-performance level. The sheer number of ways to select an element is amazing; not to mention the number of properties you can apply to that selected element set and then how presentation changes when you’re talking about supporting multiple browsers and layout engines. - [Six Revisions, 12 Common CSS Mistakes Web Developers Make](http://sixrevisions.com/css/12-common-css-mistakes-web-developers-make/)
 
 
 -----

@@ -1,9 +1,9 @@
 # CSS - Apprentice [Composite]
 
-{{ New badge image goes here }}
+<!-- {{ New badge image goes here }} -->
 <!-- TODO: design new V2 CSS badge before this releases -->
 
-Estimated time: {3-6}h
+Estimated time: 5-6h
 
 -----
 
@@ -20,7 +20,14 @@ Estimated time: {3-6}h
 
 ### Earn all of these:
 
-- [ ] 
+- [CSS-Current (~1h)](_micro_css-current.md)
+- [CSS-Next (~2h)](_micro_css-next.md)
+- [CSS Responsive Design (~1-2h)](_micro_css-responsive-design.md)
+
+### Once above are met, earn 1 of these:
+
+- [CSS Explorer (~1h)](_micro_EXPLORER.md)
+- [CSS Industry Leader Research (~1h)](_micro_industry-leader-research.md)
 
 
 -----
