@@ -43,7 +43,7 @@ Choose one:
 - [Automatic Semicolon Insertion - Inimino](http://inimino.org/~inimino/blog/javascript_semicolons)
 
 ### Video
-- [JS WAT (4m17s)](https://www.youtube.com/watch?v=FqhZZNUyVFM)
+- [JS WAT (4m17s)](https://www.destroyallsoftware.com/talks/wat)
 - [JavaScript: The Good Parts: The Bad Parts (~10m, 11:28 to 21:55)](https://youtu.be/hQVTIJBZook?t=11m28s)
 
 
