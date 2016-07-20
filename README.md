@@ -57,8 +57,6 @@ other
   [[Apprentice](badges-active/web-components/apprentice.md),
   [Journeyman](badges-active/web-components/journeyman.md),
   [Master](badges-active/web-components/master.md)]
-<!-- - [Currently In Development](https://github.com/fs-webdev/skill-building-program/issues/37 "Badges in development") -->
-<!--   - [V2: CSS](badges-in-development/) -->
 
 
 -----
