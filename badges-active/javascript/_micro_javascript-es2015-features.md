@@ -56,6 +56,7 @@ Choose one:
 - [Demystifying ES6 - Ben Ilegbodu](http://www.benmvp.com/slides/confoo2016-es6.html#/)
 
 ### Web
+- [ES6 Learning Resources](https://github.com/ericdouglas/ES6-Learning)
 - [ES6 Features](https://github.com/lukehoban/es6features)
 - [BabelJS: Learn ES2015](https://babeljs.io/docs/learn-es2015/)
 - [Learning JavaScript](https://github.com/iangilman/learning-javascript)
