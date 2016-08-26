@@ -22,7 +22,7 @@ Suggested Assignment(s)
 
 Choose one:
 
-1) Make a creative project that demonstrates the following (check compatibility):  
+1) Make a creative project that demonstrates at least 5 of the following (check compatibility):  
 - [ ] Touch Events
 - [ ] Geolocation
 - [ ] Device Orientation
