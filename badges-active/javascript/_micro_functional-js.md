@@ -86,6 +86,7 @@ Choose one:
 - [Function.prototype.call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
 - [Building cathedrals on the pillars of JavaScript and Functional Programming](https://medium.com/@luijar/building-cathedrals-on-the-pillars-of-javascript-and-functional-programming-6c35058989c6#.34ah3okup)
 - [A Gentle Introduction to Functional JavaScript](https://github.com/ChetHarrison/A-Gentle-Introduction-to-Functional-JavaScript)
+- [The introduction to Reactive Programming you've been missing - Andre Staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 
 -----
