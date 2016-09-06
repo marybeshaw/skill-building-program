@@ -23,8 +23,9 @@ Est. to complete: 1h
 
 Choose one:
 
-1) Explain the main principles behind Functional Programming, and make a creative project that demonstrates the following:
-- [ ] Higher Order Functions
+1) While using "ESLint Clean-JS" to enforce purely functional JS code, make a creative project that demonstrates and explains the following main principles behind Functional Programming in JavaScript:
+- [ ] Immutability & Statelessness
+- [ ] First-Class & Higher Order Functions
 - [ ] Map
 - [ ] Filter
 - [ ] Every Some
@@ -115,6 +116,7 @@ Choose one:
 - [ReactiveEx.js Library](http://reactivex.io/)
 - [ReactiveEx.js Library Repo](https://www.npmjs.com/package/rxjs)
 - [Ramda.js Library](http://ramdajs.com/)
+- [ESLint Clean-JS (Enforces functional JS practices in your linter](https://github.com/bodil/eslint-config-cleanjs)
 
 
 -----
