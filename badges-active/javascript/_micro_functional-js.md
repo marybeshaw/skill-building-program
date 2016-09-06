@@ -107,6 +107,7 @@ Choose one:
 
 ### Tools
 
+- [ESLint Clean-JS (Enforces functional JS practices in your linter](https://github.com/bodil/eslint-config-cleanjs)
 - [Functional Library](https://github.com/osteele/functional-javascript)
 - [Functional.js Library](http://functionaljs.com/)
 - [Underscore.js Library](http://underscorejs.org/)
@@ -116,7 +117,6 @@ Choose one:
 - [ReactiveEx.js Library](http://reactivex.io/)
 - [ReactiveEx.js Library Repo](https://www.npmjs.com/package/rxjs)
 - [Ramda.js Library](http://ramdajs.com/)
-- [ESLint Clean-JS (Enforces functional JS practices in your linter](https://github.com/bodil/eslint-config-cleanjs)
 
 
 -----
