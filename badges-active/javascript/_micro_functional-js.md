@@ -72,6 +72,7 @@ Choose one:
 - [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd#.pvq5879ck)
 - [Functional Programming - Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
 - [Introduction to Functional Programming](http://www.sitepoint.com/introduction-functional-javascript/)
+- [Functional-Light JS - @getify](https://github.com/getify/functional-light-js)
 - [Higher Order JavaScript - Interglacial](http://interglacial.com/hoj/hoj.html)
 - [Higher Order Functions - Eloquent JavaScript](http://eloquentjavascript.net/05_higher_order.html)
 - [Functional JavaScript](https://dreyacosta.com/functional-javascript/)
