@@ -24,7 +24,7 @@ In 2015, to code in anything older than ES2015 is to introduce technical debt yo
 ## Suggested Assignment(s)
 Choose one:
 
-1) Complete **at least** half of the pages for each category from [ES6 Katas](http://es6katas.org/) (this should be at least 46 pages currently)
+1) Complete **at least** half of the pages for each category from [ES6 Katas](http://es6katas.org/) (this should be at least 46 pages currently). Save these solved pages somewhere to show later.
 
 2) Study the essential ES2015 features using the study materials below, and demonstrate and discuss your findings:
 - [ ] Arrows, Lexical this
