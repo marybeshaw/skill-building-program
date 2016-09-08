@@ -9,6 +9,7 @@ Est. Time to complete: 3-5hr
 
 ## Goal
 - Demonstrate an understanding of the different pieces of the [Web Components Spec](https://github.com/w3c/webcomponents), and how they work together.
+ - Note: Demonstration should not use a library (e.g. Polymer), it should use native spec APIs.
 - Be ready to discuss and demonstrate this proficiency.
 
 
