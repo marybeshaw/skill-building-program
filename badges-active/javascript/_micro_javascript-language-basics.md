@@ -71,7 +71,7 @@ Choose one:
 - [JavaScript - The Awful Parts](http://archive.oreilly.com/pub/a/javascript/excerpts/javascript-good-parts/awful-parts.html)
 - [Learning JavaScript](https://github.com/iangilman/learning-javascript)
 - [Learning JavaScript Native Functions - Scotch.io](https://scotch.io/tutorials/learning-javascript-native-functions-and-how-to-use-them)
-
+- [JavaScript learning resources](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2)
 
 -----
 
