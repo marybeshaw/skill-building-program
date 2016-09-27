@@ -15,7 +15,7 @@ Est. to complete: 4h
 
 >ES6 is a significant update to the language, and the first update to the language since ES5 was standardized in 2009. Implementation of these features in major JavaScript engines is underway now. - [Luke Hoban](https://github.com/lukehoban/es6features)
 
-In 2015, to code in anything older than ES2015 is to introduce technical debt you might have to clean up later. Plus, several problems are solved easier without libraries in ES2015 than they were in earlier ES5 JavaScript.
+In 2016, to code in anything older than ES2015 is to introduce technical debt you might have to clean up later. Plus, several problems are solved easier without libraries in ES2015 than they were in earlier ES5 JavaScript.
 
 
 -----
