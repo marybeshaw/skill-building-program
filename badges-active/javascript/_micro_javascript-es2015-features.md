@@ -67,6 +67,7 @@ Choose one:
 
 ### Video
 - [Egghead.io ES6 Lessons](https://egghead.io/technologies/es6)
+- [JavaScript Planet](https://youtu.be/6AytbSdWBKg)
 
 -----
 
