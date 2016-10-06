@@ -26,6 +26,7 @@ Choose one:
 1) While using "ESLint Clean-JS" to enforce purely functional JS code, make a creative project that demonstrates and explains the following main principles behind Functional Programming in JavaScript:
 - [ ] Immutability & Statelessness
 - [ ] First-Class & Higher Order Functions
+- [ ] Curried Functions
 - [ ] Map
 - [ ] Filter
 - [ ] Every Some
@@ -72,7 +73,10 @@ Choose one:
 - [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd#.pvq5879ck)
 - [Functional Programming - Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
 - [Introduction to Functional Programming](http://www.sitepoint.com/introduction-functional-javascript/)
-- [Functional-Light JS - @getify](https://github.com/getify/functional-light-js)
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon#functional-programming-jargon)
+- [Functional-Light JS - @getify](https://github.com/getify/Functional-Light-JS)
+- [Awesome FP JS - Curated list of awesome functional programming code and learning resources for JavaScript](https://github.com/stoeffel/awesome-fp-js)
+- [What is Functional Programming? - Kris Jenkins](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 - [Higher Order JavaScript - Interglacial](http://interglacial.com/hoj/hoj.html)
 - [Higher Order Functions - Eloquent JavaScript](http://eloquentjavascript.net/05_higher_order.html)
 - [Functional JavaScript](https://dreyacosta.com/functional-javascript/)
@@ -89,6 +93,10 @@ Choose one:
 - [Building cathedrals on the pillars of JavaScript and Functional Programming](https://medium.com/@luijar/building-cathedrals-on-the-pillars-of-javascript-and-functional-programming-6c35058989c6#.34ah3okup)
 - [A Gentle Introduction to Functional JavaScript](https://github.com/ChetHarrison/A-Gentle-Introduction-to-Functional-JavaScript)
 - [The introduction to Reactive Programming you've been missing - Andre Staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [Eric Elliott on medium](https://medium.com/@_ericelliott)
+- [James Forbes](https://james-forbes.com/)
+- [James Long](https://github.com/jlongster)
+- [André Staltz](http://staltz.com/)
 
 
 -----
@@ -96,7 +104,7 @@ Choose one:
 
 ### Books
 
-- [Mostly Adequate Guide to Functional Programming - Dr. Boolean (free online)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
+- [Professor Frisbee's Mostly Adequate Guide to Functional Programming by Brian Lonsdorf (free online)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 - [JavaScript Allongé - Reg Breaithwaite (Free to Read Online](https://leanpub.com/javascriptallongesix/read)
 - [Functional JavaScript - Michael Fogus](http://shop.oreilly.com/product/0636920028857.do)
 - [Functional Programming in JavaScript - Dan Mantyla](https://www.packtpub.com/web-development/functional-programming-javascript)
