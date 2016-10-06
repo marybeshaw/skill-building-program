@@ -74,6 +74,7 @@ Choose one:
 - [Functional Programming - Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
 - [Introduction to Functional Programming](http://www.sitepoint.com/introduction-functional-javascript/)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon#functional-programming-jargon)
+- [So, You Want to be a Functional Programmer?](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.rirycqirt)
 - [Functional-Light JS - @getify](https://github.com/getify/Functional-Light-JS)
 - [Awesome FP JS - Curated list of awesome functional programming code and learning resources for JavaScript](https://github.com/stoeffel/awesome-fp-js)
 - [What is Functional Programming? - Kris Jenkins](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
