@@ -23,15 +23,15 @@ Est. to complete: 3h
 
 Choose one:
 
-1) Make a creative project that demonstrates the following:
+1) Make a creative project that demonstrates all of the following:
 - [ ] Thorough use of Promises
-- [ ] Generators demo
-- [ ] Async, Await demo
+- [ ] `generators`, `yeild` demo
+- [ ] `async`, `await` demo
 
-2) Demonstrate the following:
+2) Demonstrate all of the following:
 - [ ] Complete all of either the nodeschool or Udacity course on promises
-- [ ] Make a Generators demo
-- [ ] Make an Async, Await demo
+- [ ] Make a `generators`, `yield` demo
+- [ ] Make an `async`, `await` demo
 
 3) Demonstrate how you've done all of #1 in your work or side-work
 
