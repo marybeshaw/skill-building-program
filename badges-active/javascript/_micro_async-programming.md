@@ -25,8 +25,8 @@ Choose one:
 
 1) Make a creative project that demonstrates all of the following:
 - [ ] Thorough use of Promises
-- [ ] `generators`, `yeild` demo
-- [ ] `async`, `await` demo
+- [ ] Make a `generators`, `yeild` demo
+- [ ] Make an `async`, `await` demo
 
 2) Demonstrate all of the following:
 - [ ] Complete all of either the nodeschool or Udacity course on promises
