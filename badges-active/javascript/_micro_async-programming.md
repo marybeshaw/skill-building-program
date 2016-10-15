@@ -18,7 +18,7 @@ Est. to complete: 3h
 -----
 
 First, there were was synchronous code, then we were saved by callbacks.  
-Then, there Promises, to save us from "callback hell".  
+Then, we had Promises, to save us from "callback hell".  
 Then were were given generators and yield, to save us from "promise hell".  
 Finally, we will receive the gift of async/await to finally put this whole thing to bed... for now...  
 
