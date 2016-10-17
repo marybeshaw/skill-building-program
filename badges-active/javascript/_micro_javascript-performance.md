@@ -48,7 +48,6 @@ Choose one:
 
   - [The Sad Tragedy of Micro-Optimization Theater - CodingHorror](http://blog.codinghorror.com/the-sad-tragedy-of-micro-optimization-theater/)
   - [Micro-Optimization in JavaScript - Client9](http://blog.client9.com/2009/02/07/micro-optimization-in-javascript.html)
-  - [Premature Optimization - Wikipedia](https://en.wikipedia.org/wiki/Program_optimization)
   - [Program Optimization - Wikipedia](https://en.wikipedia.org/wiki/Program_optimization#When_to_optimize)
 
 #### Auditing / Profiling
