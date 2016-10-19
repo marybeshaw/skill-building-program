@@ -1,5 +1,5 @@
 Performance - Rendering Performance [Micro Badge]
-=============================================
+=================================================
 
 Est. time to complete: 6hr
 
@@ -39,21 +39,6 @@ Choose one:
 Suggested Study
 ---------------
 
-### Web
-
-- [Browser Rendering Optimization course](https://www.udacity.com/course/browser-rendering-optimization--ud860) - Udacity
-- [CSS Triggers](https://csstriggers.com) - Paul Lewis
-- [Jank-Free](http://jankfree.org/) - Paul Lewis
-- [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/) - Google Developers
-- [Google Dev Tools: Timeline demo: Layout Thrashing](https://developer.chrome.com/devtools/docs/demos/too-much-layout/index)
-- [Getting 60FPS using Chrome Dev
-Tools](http://engineering.wingify.com/posts/getting-60fps-using-devtools/) - Wingify
-- [Rendering: repaint, reflow/relayout, restyle](http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
-- [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-
-
------
-
 
 ### Video
 
@@ -64,6 +49,21 @@ Tools](http://engineering.wingify.com/posts/getting-60fps-using-devtools/) - Win
 - [True Grit: Debugging CSS & Render Performance](https://www.youtube.com/watch?v=gqc88qWuiI4)
 - [How Browsers Work Internally - Tali Garsiel](https://vimeo.com/44182484)
 - [Debug the DOM in Chrome with the Devtools Elements Panel - Egghead.io](https://egghead.io/courses/using-chrome-developer-tools-elements)
+
+
+-----
+
+
+### Web
+
+- [Browser Rendering Optimization course](https://www.udacity.com/course/browser-rendering-optimization--ud860) - Udacity
+- [CSS Triggers](https://csstriggers.com) - Paul Lewis
+- [Jank-Free](http://jankfree.org/) - Paul Lewis
+- [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/) - Google Developers
+- [Google Dev Tools: Timeline demo: Layout Thrashing](https://developer.chrome.com/devtools/docs/demos/too-much-layout/index)
+- [Getting 60FPS using Chrome Dev Tools](http://engineering.wingify.com/posts/getting-60fps-using-devtools/) - Wingify
+- [Rendering: repaint, reflow/relayout, restyle](http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
+- [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
 
 -----
