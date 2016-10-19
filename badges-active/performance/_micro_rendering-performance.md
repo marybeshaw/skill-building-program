@@ -63,6 +63,7 @@ Tools](http://engineering.wingify.com/posts/getting-60fps-using-devtools/) - Win
 - [Using Chrome DevTools to profile the jsconf.eu site](https://www.youtube.com/watch?v=QU1JAW5LRKU)
 - [True Grit: Debugging CSS & Render Performance](https://www.youtube.com/watch?v=gqc88qWuiI4)
 - [How Browsers Work Internally - Tali Garsiel](https://vimeo.com/44182484)
+- [Debug the DOM in Chrome with the Devtools Elements Panel - Egghead.io](https://egghead.io/courses/using-chrome-developer-tools-elements)
 
 
 -----
