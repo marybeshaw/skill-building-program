@@ -43,6 +43,9 @@ Choose one:
 Suggested Study
 ---------------
 
+### Video
+- [Debug the DOM in Chrome with the Devtools Elements Panel - Egghead.io](https://egghead.io/courses/using-chrome-developer-tools-elements)
+
 ### Web
 - [Chapter 8. Optimizing for Mobile Networks - O&#39;Reilly Media](http://chimera.labs.oreilly.com/books/1230000000545/ch08.html)
 - [Beginner's Guide to http Cache Headers](http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/)
