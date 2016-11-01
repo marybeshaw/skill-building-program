@@ -48,6 +48,7 @@ Choose one:
 - [Douglas Crockford: "The JavaScript Programming Language"/2 of 4 [M4V download]](http://yui.zenfs.com/theater/crockford-tjpl-2.m4v)
 - [Douglas Crockford: "The JavaScript Programming Language"/3 of 4 [M4V download]](http://yui.zenfs.com/theater/crockford-tjpl-3.m4v)
 - [Douglas Crockford: "The JavaScript Programming Language"/4 of 4 [M4V download]](http://yui.zenfs.com/theater/crockford-tjpl-4.m4v)
+- [Udacity - Object-Oriented JavaScript - YouTube](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmRCRPu9EjK-fWSccPwTOnc)
 
 #### An Inconvenient API: The Theory of the DOM
 - [Douglas Crockford: "Theory of the DOM" (1 of 3) [M4V download]](http://yui.zenfs.com/theater/crockford-domtheory-1.m4v)
