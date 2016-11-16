@@ -24,7 +24,7 @@ Est. to complete: 1h
 Choose one:
 
 1) Make a creative project that demonstrates the following using CSS:
-- [ ] [Over 50% of the features from "Latest Stable CSS"](https://www.w3.org/TR/CSS/#css)
+- [ ] [Over 50% of the features from "Latest Stable CSS"](https://www.w3.org/Style/CSS/current-work)
 - [ ] [Over 50% of the features from "Testing" status section](https://www.w3.org/Style/CSS/current-work)
 
 2) Demonstrate how you've done all of #1 in your work or side-work
