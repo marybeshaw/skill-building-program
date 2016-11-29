@@ -35,6 +35,10 @@ Choose one:
 Suggested Study
 ---------------
 
+### Video
+
+- [Training • GitHub and Git Foundations](https://www.youtube.com/playlist?list=PL0lo9MOBetEHhfG9vJzVCTiDYcbhAiEqL)
+
 ### Web
 
 - [Github Flow](https://guides.github.com/introduction/flow/index.html)
