@@ -98,6 +98,7 @@ Choose one:
 - [James Forbes](https://james-forbes.com/)
 - [James Long](https://github.com/jlongster)
 - [André Staltz](http://staltz.com/)
+- [Ladder of Functional Programming - LambdaConf on Twitter](https://twitter.com/lambda_conf/status/803695008100466688)
 
 
 -----
