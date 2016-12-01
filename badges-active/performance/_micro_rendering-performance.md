@@ -64,6 +64,7 @@ Suggested Study
 - [Getting 60FPS using Chrome Dev Tools](http://engineering.wingify.com/posts/getting-60fps-using-devtools/) - Wingify
 - [Rendering: repaint, reflow/relayout, restyle](http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
 - [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [Layout Performance - Kelly Norton](https://kellegous.com/j/2013/01/26/layout-performance/)
 
 
 -----
