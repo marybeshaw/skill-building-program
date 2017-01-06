@@ -23,7 +23,7 @@ Choose one:
 
 1) Make a creative project that demonstrates the following:
 - [ ] Creation of Shadow Roots
-- [ ] Creation/Utilization of the `<content>` tag
+- [ ] Creation/Utilization of the `<content>` or `<slot>` tag
 - [ ] Stylistic Isolation
 - [ ] Javascript Isolation
 
@@ -40,7 +40,8 @@ Choose one:
 
 ### Web
 - [Shadow DOM Spec](http://w3c.github.io/webcomponents/spec/shadow/)
-- [Shadow DOM 101 - HTML 5 Rocks](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
+- [Shadow DOM 101 - HTML 5 Rocks (v0)](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
+- [Shadow DOM v1: Self-Contained Web Components](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom)
 - [Shadow DOM - MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Shadow_DOM)
 - [What the Heck is Shadow DOM](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
 
