@@ -165,7 +165,6 @@ assignments, [fork this repo and give us a pull request!](https://github.com/fs-
 
 ### Skill Building Council
 - Jakob Anderson (Chair): [@spacerockzero](https://github.com/spacerockzero)
-- Mike Collins : [@intervalia](https://github.com/intervalia)
 - Logan Allred : [@redbugz](https://github.com/redbugz)
 - Brian Menasco : [@iammenasco](https://github.com/iammenasco)
 - Judd Flamm : [@kd7yva](https://github.com/kd7yva)
