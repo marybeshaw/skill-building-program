@@ -175,6 +175,5 @@ assignments, [fork this repo and give us a pull request!](https://github.com/fs-
 ### Peer Contributors:
 - (Make significant contributions of great ideas, curriculum, content, edits,
 etc to be listed here)
-- [Josh Crowther](https://github.com/jshcrowthe)
 - [Steven Lambert](https://github.com/straker)
 - [Dallen Loder](https://github.com/dllndv)
