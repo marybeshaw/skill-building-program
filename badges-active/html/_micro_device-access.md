@@ -96,7 +96,7 @@ Suggested Study
 #### Proximity
 
   - [Introducing Proximity API](http://www.sitepoint.com/introducing-proximity-api/)
-  - [PRoximity Events - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Proximity_Events)
+  - [Proximity Events - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Proximity_Events)
   - [The Proximity API - Mozilla Hacks](https://hacks.mozilla.org/2013/06/the-proximity-api/)
 
 #### Battery Status
@@ -107,7 +107,7 @@ Suggested Study
   - [HTML5 The Battery Status API - Tuts+](http://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
   - [The Battery Status API - Kirupa](https://www.kirupa.com/html5/the_battery_status_api_js.htm)
   [Using the Battery Status Api to Optimize Your Development - Sitepoint](http://www.sitepoint.com/using-the-battery-status-api-to-optimize-your-development/)
-  - [How to Accessthe Battery Status - dZone](https://dzone.com/articles/how-access-battery-status)
+  - [How to Access the Battery Status - dZone](https://dzone.com/articles/how-access-battery-status)
   - [BatteryManager API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/BatteryManager)
   - [Let's Get Charged: Updates to the Battery Status Api - Mozilla Hacks](https://hacks.mozilla.org/2015/05/lets-get-charged-updates-to-the-battery-status-api/)
   - [Battery Status API - Web Platform](http://docs.webplatform.org/wiki/apis/battery_status)
