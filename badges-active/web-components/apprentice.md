@@ -20,7 +20,7 @@ Est. Time to complete: 3-5hr
 
 ### Earn all of these:
 
-**Web Components Spec (v0)**
+**Web Components Spec (v1)**
 
 - [ ] [Shadow DOM (~1h)](_micro_shadow_dom.md)
 - [ ] [HTML Imports (~0.5h)](_micro_html_imports.md)
