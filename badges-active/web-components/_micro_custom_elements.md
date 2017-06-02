@@ -40,9 +40,10 @@ Choose one:
 
 ### Web
 - [Custom Elements Spec](https://w3c.github.io/webcomponents/spec/custom/)
-- [Custom Elements: defining new elements in HTML](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
-- [Introduction to Custom Elements - WebComponents.org](http://webcomponents.org/articles/introduction-to-custom-elements/)
-- [Introduction to Custom Elements - Smashing Magazine](https://www.smashingmagazine.com/2014/03/introduction-to-custom-elements/)
+- [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
+- [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133)
+- [Custom Elements - MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Custom_Elements)
+- [Reintroducing Custom Elements v1](https://www.webreflection.co.uk/blog/2016/08/21/custom-elements-v1)
 
 -----
 
