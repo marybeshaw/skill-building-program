@@ -23,7 +23,7 @@ Make a project that demonstrates the following:
 
 - [ ] Usage of HTML Imports
 - [ ] HTML Sub Import Deduping
-- [ ] Leveraging data in a `link[rel=import]`
+- [ ] Accessing the data within an imported document 
 
 ---------------
 
