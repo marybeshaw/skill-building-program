@@ -23,7 +23,7 @@ Make a project that demonstrates the following:
 
 - [ ] Usage of HTML Imports
 - [ ] HTML Sub Import Deduping
-- [ ] Accessing the data within an imported document 
+- [ ] Accessing the content of an import using the link element's .import property
 
 ---------------
 
