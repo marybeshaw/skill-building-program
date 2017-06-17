@@ -49,7 +49,8 @@ b) Type Extension Elements
 - [Using ES6 with Polymer (The Polymer Summit 2015)](https://youtu.be/bX3_tN23M_Y?t=14m26s)
 
 ### Web
-- [Custom Elements: defining new elements in HTML](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
+- [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
+- [Custom Elements: defining new elements in HTML (v0)](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
 
 -----
 
