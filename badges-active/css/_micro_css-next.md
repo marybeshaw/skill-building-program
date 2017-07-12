@@ -24,9 +24,9 @@ Est. to complete: 2h
 Choose one:
 
 1) Make a creative project that demonstrates the following using CSS:
-- [ ] 4, or 50% (whichever is lower) of the features in the "Refining" section of [w3 CSS - Current work](https://www.w3.org/Style/CSS/current-work)
-- [ ] 4, or 50% (whichever is lower) of the features in the "Revising" section of [w3 CSS - Current work](https://www.w3.org/Style/CSS/current-work)
-- [ ] 4, or 50% (whichever is lower) of the features in the "Exploring" section of [w3 CSS - Current work](https://www.w3.org/Style/CSS/current-work)
+- [ ] 2 of the features in the "Refining" section of [w3 CSS - Current work](https://www.w3.org/Style/CSS/current-work)
+- [ ] 2 of the features in the "Revising" section of [w3 CSS - Current work](https://www.w3.org/Style/CSS/current-work)
+- [ ] 2 of the features in the "Exploring" section of [w3 CSS - Current work](https://www.w3.org/Style/CSS/current-work)
 
 2) Demonstrate how you've done all of #1 in your work or side-work
 
