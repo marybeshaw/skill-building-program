@@ -13,9 +13,9 @@ Est. to complete: ~0.5h
 
 ## Intro
 
->Design Patterns are reusable solutions to commonly occurring problems in software design. [...] they help us build upon the combined experience of many developers that came before us and ensure we structure our code in an optimized way, meeting the needs of problems we're attempting to solve. - [Essential JavaScript Design Patterns, by Addy Asmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-
-There are a few very common patterns in JavaScript. Knowing these can help you solve problems faster, more efficiently, and have a shared vocabulary for communicating with others about your code.
+>Good authors divide their books into chapters and sections; good programmers divide their programs into modules.
+Like a book chapter, modules are just clusters of words (or code, as the case may be).
+Good modules, however, are highly self-contained with distinct functionality, allowing them to be shuffled, removed, or added as necessary, without disrupting the system as a whole. - [FreeCodeCamp - JavaScript Modules, a beginners' guide](https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc)
 
 -----
 
