@@ -60,11 +60,13 @@ Choose Two (or more):
 - [AirBnB JS Style Guide](https://github.com/airbnb/javascript)
 - [Idiomatic JS Style Guide](https://github.com/rwaldron/idiomatic.js/)
 - [Google JS Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
-- [http://eslint.org/](http://eslint.org/)
 - [http://eslint.org/docs/user-guide/configuring](http://eslint.org/docs/user-guide/configuring.html)
 - [http://eslint.org/docs/user-guide/integrations](http://eslint.org/docs/user-guide/integrations.html)
 - [Learning JavaScript](https://github.com/iangilman/learning-javascript)
 
+### Tools
+- [http://eslint.org/](http://eslint.org/)
+- [Prettier - Opinionated Code Formatter](https://github.com/prettier/prettier)
 
 -----
 
