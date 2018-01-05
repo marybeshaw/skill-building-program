@@ -31,13 +31,12 @@ Choose one:
 * If you cut a release that breaks more than the SemVer change you indicated, how do you proceed?
 * In `package.json` dependency versions, what do the `~` and `^` (tilde and caret) represent?
 * In "Major version 0" (`0.y.z`), how does npm behave differently?
-* Which is newer, `0.10.3` or `0.3.10`? (0.10.3)
+* Which is newer, `0.10.3` or `0.3.10`?
 * How do you specify ranges in package.json dependencies?
 * What does `"lodash": "*"` do? Should you?
 * How do you add an npm-published dependency in NPM?
 * How do you add a github-hosted dependency in NPM?
 * How do you semver-minor pin a github-hosted dependency in NPM? Which NPM versions support this?
-
 * Demonstrate or explain how to install packages to dependencies or devDependencies sections via CLI, and what the difference is
 * Demonstrate or explain how to install a specific version of a module via CLI
 
