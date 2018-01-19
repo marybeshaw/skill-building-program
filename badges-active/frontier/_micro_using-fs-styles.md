@@ -17,7 +17,7 @@ As our webdev and UX teams grow and change over time, a style guide can help us 
 
 Choose one:
 
-1. In a Frontier App, turn this awesome "Roundhouse Kick Widget" mockup into a webpage using only FS-styles and a tiny bit of JavaScript to switch classes and iterate a counter. No custom CSS or inline styles allowed, not even via JavaScript. [(Video of mockup)](../../img/norris-kick-fs-styles.mp4) Extra points for creativity, extra functionality, or for exclusively using VanillaJS for functionality.
+1. In a Frontier App, turn this awesome "Roundhouse Kick Widget" mockup or something similar into a webpage using only FS-styles and a tiny bit of JavaScript to switch classes and iterate a counter. No custom CSS or inline styles allowed, not even via JavaScript. [(Video of mockup)](../../img/norris-kick-fs-styles.mp4) Extra points for creativity, extra functionality, or for exclusively using VanillaJS for functionality.
 
 2. Demonstrate how you've used several parts of FS-Styles in your daily work
 
