@@ -27,7 +27,7 @@ For more information on how Bower is used in Frontier, check out the [Bifröst D
 ### Complete one of the following:
 
 1) Demonstrate that you can show proficiency in Bower.
-  - [ ] Install a package fromt the Bower registry.
+  - [ ] Install a package from the Bower registry.
   - [ ] Create a package and install it from a github repo.
   - [ ] Create another package and use `bower link` to install it in your app.
   - [ ] You must be able to explain how to use each of these three methods and when you should use them.
