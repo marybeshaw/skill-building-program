@@ -46,7 +46,7 @@ Choose one:
 
 ### Required
 
-* https://nodesource.com/blog/semver-a-primer- https://semver.org/
+* https://nodesource.com/blog/semver-a-primer - https://semver.org/
 * http://nodesource.com/blog/semver-tilde-and-caret/
 
 ### Optional
