@@ -33,7 +33,7 @@ For more information on how Bower is used in Frontier, check out the [Bifröst D
   - [ ] You must be able to explain how to use each of these three methods and when you should use them.
   - [ ] Change two things in the .bowerrc file.
   - [ ] Explain the different pieces of a bower.json file.
-  - [ ] Use three differenct API commands other than install, uninstall, init, or link.
+  - [ ] Use three differenct API commands other than `install`, `uninstall`, `init`, or `link`.
 
 2) Demonstrate that you have done all of the above tasks in previous work
 
