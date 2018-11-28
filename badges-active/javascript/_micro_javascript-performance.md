@@ -47,20 +47,21 @@ Choose one:
 #### Warning: Premature Optimization and Micro-optimization Theater 
 
   - [The Sad Tragedy of Micro-Optimization Theater - CodingHorror](http://blog.codinghorror.com/the-sad-tragedy-of-micro-optimization-theater/)
-  - [Micro-Optimization in JavaScript - Client9](http://blog.client9.com/2009/02/07/micro-optimization-in-javascript.html)
+  - [Micro-Optimization in JavaScript - Google Developer Guide](https://developers.google.com/web/fundamentals/performance/rendering/optimize-javascript-execution#avoid_micro-optimizing_your_javascript)
   - [Program Optimization - Wikipedia](https://en.wikipedia.org/wiki/Program_optimization#When_to_optimize)
 
 #### Auditing / Profiling
 
-  - [JavaScript Performance Analysis: Sampling, Tracing, and Timing - Ariya](http://ariya.ofilabs.com/2012/12/javascript-performance-analysis-sampling-tracing-and-timing.html)
-  - [Profile-Guided JavaScript Optimization - Ariya](http://ariya.ofilabs.com/2013/07/profile-guided-javascript-optimization.html)
+  - [Get Started With Analyzing Runtime Performance - Google Developer Guide](https://developers.google.com/web/tools/chrome-devtools/rendering-tools/)
+  - [Analyze Runtime Performance in Chrome Dev Tools - Google Developer Guide](https://developers.google.com/web/tools/chrome-devtools/rendering-tools/)
+  - [Easy Profiling for Node.js Applications - NodeJS](https://nodejs.org/en/docs/guides/simple-profiling/)
 
 #### Fixing things known to be expensive in JavaScript
 
   - [High-Performance JavaScript - Nicholas Zakas](http://www.slideshare.net/nzakas/high-performance-javascript-webdirections-usa-2010/)
   - [What is the best way to run expensive code in JavaScript without freezing up the UI - Quora](https://www.quora.com/What-is-the-best-way-to-run-expensive-code-in-JavaScript-without-freezing-up-the-UI?share=1)
   - [Function Call Profiling - E John](http://ejohn.org/blog/function-call-profiling/)
-  - [Also See: Skill-Building-Program: Rendering Performance micro-badge](https://github.com/fs-webdev/skill-building-program/blob/v2-content/badges-active/performance/_micro_rendering-performance.md)
+  - [Also See: Skill-Building-Program: Rendering Performance micro-badge](https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/performance/_micro_rendering-performance.md)
 
 #### Timing things
 
